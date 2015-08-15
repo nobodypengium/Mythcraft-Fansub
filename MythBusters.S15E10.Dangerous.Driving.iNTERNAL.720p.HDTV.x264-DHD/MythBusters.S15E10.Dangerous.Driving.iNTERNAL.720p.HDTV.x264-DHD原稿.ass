@@ -7,6 +7,9 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
+[Aegisub Project Garbage]
+Active Line: 186
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
@@ -16,938 +19,938 @@ Style: 实验用,方正综艺简体,40,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.93,Default,,0,0,0,,[ SIREN WAILING ]
-Dialogue: 0,0:00:14.41,0:00:15.71,Default,,0,0,0,,USUAL WAGER?\N- SURE.
-Dialogue: 0,0:00:15.71,0:00:17.38,Default,,0,0,0,,THE, UH, LOSER CLEANS\NTHE SHOP, RIGHT?
-Dialogue: 0,0:00:17.38,0:00:19.58,Default,,0,0,0,,YEAH.\N- OKAY.
-Dialogue: 0,0:00:19.58,0:00:22.12,Default,,0,0,0,,COUNTING IT IN,\NI'M READY.
+Dialogue: 0,0:00:00.00,0:00:02.93,Default,,0,0,0,,[ siren wailing ]
+Dialogue: 0,0:00:14.41,0:00:15.71,Default,,0,0,0,,usual wager?\n- sure.
+Dialogue: 0,0:00:15.71,0:00:17.38,Default,,0,0,0,,the, uh, loser cleans\nthe shop, right?
+Dialogue: 0,0:00:17.38,0:00:19.58,Default,,0,0,0,,yeah.\n- okay.
+Dialogue: 0,0:00:19.58,0:00:22.12,Default,,0,0,0,,counting it in,\ni'm ready.
 Dialogue: 0,0:00:22.12,0:00:24.02,Default,,0,0,0,,3, 2...
-Dialogue: 0,0:00:24.02,0:00:25.12,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:00:25.12,0:00:27.15,Default,,0,0,0,,1.\N- HEY, WAIT A SECOND.
-Dialogue: 0,0:00:29.93,0:00:32.13,Default,,0,0,0,,HERE WE GO.\N[ CELL PHONE RINGING ]
-Dialogue: 0,0:00:32.13,0:00:33.13,Default,,0,0,0,,OH.
-Dialogue: 0,0:00:33.13,0:00:34.56,Default,,0,0,0,,[ BEEP ]\N- HELLO?
-Dialogue: 0,0:00:34.56,0:00:35.90,Default,,0,0,0,,OH, HI, MOM.
-Dialogue: 0,0:00:35.90,0:00:38.06,Default,,0,0,0,,AH! NO, NO. NOT YOU.\NNOT YOU.
-Dialogue: 0,0:00:41.74,0:00:43.47,Default,,0,0,0,,SO, IT --\NHOLD ON -- HOLD ON.
-Dialogue: 0,0:00:43.47,0:00:46.51,Default,,0,0,0,,MOM, IT'S NOT REALLY\NTHE BEST TIME FOR ME TO TALK.
-Dialogue: 0,0:00:46.51,0:00:47.57,Default,,0,0,0,,[ SHEEP BLEAT ]
-Dialogue: 0,0:00:47.58,0:00:51.24,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:00:51.25,0:00:53.35,Default,,0,0,0,,SATURDAY? SURE.\NOH, MOM, HOLD ON.
-Dialogue: 0,0:00:53.35,0:00:54.78,Default,,0,0,0,,MOM, HOLD ON.\NMOM, I GOT TO GO. I GOT TO GO.
-Dialogue: 0,0:00:54.78,0:00:57.22,Default,,0,0,0,,OKAY. I'LL TALK TO YOU LATER.\N[ BEEP ]
-Dialogue: 0,0:00:57.22,0:00:59.29,Default,,0,0,0,,[ EXPLOSION ]
-Dialogue: 0,0:00:59.29,0:01:01.76,Default,,0,0,0,,AHH!
-Dialogue: 0,0:01:01.76,0:01:03.02,Default,,0,0,0,,I LOST.
-Dialogue: 0,0:01:03.03,0:01:04.79,Default,,0,0,0,,YOU WERE LOOKING A LITTLE\NDISTRACTED THERE.
-Dialogue: 0,0:01:04.79,0:01:08.16,Default,,0,0,0,,YEAH, BUT I DID PRETTY GOOD\NIN REVERSE.
-Dialogue: 0,0:01:08.16,0:01:10.96,Default,,0,0,0,,UH, ALL RIGHT.\N- [ LAUGHS ]
-Dialogue: 0,0:01:28.52,0:01:31.52,Default,,0,0,0,,--<font color="#ffff00"> Captions by VITAC</font> --\N<font color="#00ffff">www.vitac.com</font>
-Dialogue: 0,0:01:31.52,0:01:35.09,Default,,0,0,0,,CAPTIONS PAID FOR BY\NDISCOVERY COMMUNICATIONS
-Dialogue: 0,0:01:35.09,0:01:36.19,Default,,0,0,0,,ALL RIGHT, SIR.
-Dialogue: 0,0:01:36.19,0:01:37.66,Default,,0,0,0,,TIME TO GET\NYOUR RACING GLOVES ON.
-Dialogue: 0,0:01:37.66,0:01:39.99,Default,,0,0,0,,WE HAVE AN ENTIRE EPISODE\NTHAT PUTS THE WORD "DANGEROUS"
-Dialogue: 0,0:01:40.00,0:01:42.20,Default,,0,0,0,,INTO THE PHRASE\N"DANGEROUS DRIVING."
-Dialogue: 0,0:01:42.20,0:01:43.56,Default,,0,0,0,,LIKE WHAT?
-Dialogue: 0,0:01:43.57,0:01:45.63,Default,,0,0,0,,WELL, WE'VE GOT A HOLLYWOOD\NCAR CHASE STORY TO TACKLE,
-Dialogue: 0,0:01:45.63,0:01:48.07,Default,,0,0,0,,THAT DRIVING AT\NHIGH SPEED THROUGH TRAFFIC,
-Dialogue: 0,0:01:48.07,0:01:51.44,Default,,0,0,0,,EVADING YOUR ENEMIES\NIN REVERSE, IS EASY.
-Dialogue: 0,0:01:51.44,0:01:53.31,Default,,0,0,0,,BUT FIRST UP,\NWE HAVE A STORY ALL ABOUT
-Dialogue: 0,0:01:53.31,0:01:57.61,Default,,0,0,0,,THE DANGERS OF DRIVING WHILE\NTALKING ON YOUR CELL PHONE.
-Dialogue: 0,0:01:57.61,0:01:58.85,Default,,0,0,0,,OH, THERE'S A LAW AGAINST THAT,
-Dialogue: 0,0:01:58.85,0:02:00.45,Default,,0,0,0,,AT LEAST AS FAR AS\NHOLDING IT IN YOUR HAND.
-Dialogue: 0,0:02:00.45,0:02:02.35,Default,,0,0,0,,EXACTLY,\NBUT WHAT IS THE SOLUTION
-Dialogue: 0,0:02:02.35,0:02:04.15,Default,,0,0,0,,FOR SOMEONE WHO WANTS TO\NTALK ON THEIR PHONE?
-Dialogue: 0,0:02:04.15,0:02:06.25,Default,,0,0,0,,HANDS-FREE?\N- HELLO?
-Dialogue: 0,0:02:06.26,0:02:09.59,Default,,0,0,0,,YUP, BUT THERE'S A MYTH\NTHAT THERE IS NO IMPROVEMENT
-Dialogue: 0,0:02:09.59,0:02:13.46,Default,,0,0,0,,IN SAFETY TALKING HANDS-FREE\NVERSUS HOLDING ON TO YOUR PHONE,
-Dialogue: 0,0:02:13.46,0:02:16.16,Default,,0,0,0,,THAT THEY BOTH DISTRACT YOU\NJUST AS MUCH.
-Dialogue: 0,0:02:16.16,0:02:17.73,Default,,0,0,0,,AND I THINK\NWE SHOULD TEST THAT.
-Dialogue: 0,0:02:17.73,0:02:18.83,Default,,0,0,0,,ABSOLUTELY.
-Dialogue: 0,0:02:18.83,0:02:22.34,Default,,0,0,0,,Narrator:\NTALKING ON A HANDHELD PHONE
-Dialogue: 0,0:02:22.34,0:02:27.07,Default,,0,0,0,,LEAVES A DRIVER BOTH MENTALLY\NAND PHYSICALLY COMPROMISED.
-Dialogue: 0,0:02:27.08,0:02:30.71,Default,,0,0,0,,GOING HANDS-FREE DOES ELIMINATE\NHALF THE PROBLEM.
-Dialogue: 0,0:02:30.71,0:02:32.48,Default,,0,0,0,,BUT WITH THE OTHER HALF\NSTILL THERE,
-Dialogue: 0,0:02:32.48,0:02:35.38,Default,,0,0,0,,SOME SAY THAT IT'S JUST\NAS DANGEROUS.
-Dialogue: 0,0:02:35.38,0:02:36.48,Default,,0,0,0,,[ TIRES SQUEAL,\NGLASS SHATTERS ]
-Dialogue: 0,0:02:36.49,0:02:37.95,Default,,0,0,0,,HEY! HEY! HEY!\N- HEY! HEY! HEY!
-Dialogue: 0,0:02:41.36,0:02:43.32,Default,,0,0,0,,Narrator: TO FIND OUT,\NTHE "MYTHBUSTERS" CREW
-Dialogue: 0,0:02:43.33,0:02:45.86,Default,,0,0,0,,HAVE CONSTRUCTED\NA CLASSIFIED COURSE
-Dialogue: 0,0:02:45.86,0:02:48.86,Default,,0,0,0,,DESIGNED BY DRIVE EXPERT\NDAVE STORTON.
-Dialogue: 0,0:02:51.47,0:02:53.97,Default,,0,0,0,,SO THE FIRST SECTION HERE\NIS A SLALOM.
-Dialogue: 0,0:02:53.97,0:02:56.27,Default,,0,0,0,,SO THAT'S GONNA TEST\NTHEIR STEERING ABILITY
-Dialogue: 0,0:02:56.27,0:02:58.00,Default,,0,0,0,,WHILE TALKING ON THE PHONE.
-Dialogue: 0,0:02:58.01,0:02:59.47,Default,,0,0,0,,Narrator: RIGHT NOW\NADAM AND JAMIE ARE BEING
-Dialogue: 0,0:02:59.47,0:03:01.11,Default,,0,0,0,,DELIBERATELY KEPT IN THE DARK.
-Dialogue: 0,0:03:01.11,0:03:02.74,Default,,0,0,0,,Storton:\NCOMING OUT OF THE SLALOM,
-Dialogue: 0,0:03:02.74,0:03:04.71,Default,,0,0,0,,THEY'LL IMMEDIATELY HAVE TO GET\NON THE BRAKES
-Dialogue: 0,0:03:04.71,0:03:08.28,Default,,0,0,0,,FOR A LOW-SPEED EXERCISE\NCALLED THE OFFSET LANE.
-Dialogue: 0,0:03:08.28,0:03:09.98,Default,,0,0,0,,Narrator: BECAUSE ANY\NPRE-EXISTING KNOWLEDGE OF
-Dialogue: 0,0:03:09.99,0:03:13.09,Default,,0,0,0,,THE ROUTE COULD\NDISCREDIT THEIR DATA.
-Dialogue: 0,0:03:13.09,0:03:14.25,Default,,0,0,0,,Storton:\NONCE THROUGH THAT,
-Dialogue: 0,0:03:14.26,0:03:17.62,Default,,0,0,0,,WE HEAD OVER TO\NWHAT'S CALLED A T-BOX.
-Dialogue: 0,0:03:17.63,0:03:19.16,Default,,0,0,0,,Narrator: INSTEAD,\NALL THEY KNOW IS THAT
-Dialogue: 0,0:03:19.16,0:03:21.76,Default,,0,0,0,,THEY MUST STICK TO\NTHE SPEED LIMITS
-Dialogue: 0,0:03:21.76,0:03:23.80,Default,,0,0,0,,AND NOT CLIP ANY CONES
-Dialogue: 0,0:03:23.80,0:03:27.10,Default,,0,0,0,,IF THEY'RE TO ACHIEVE\NA PERFECT SCORE.
-Dialogue: 0,0:03:27.10,0:03:29.40,Default,,0,0,0,,RIGHT.\NIF YOU BOLT THE TWO TOGETHER,
-Dialogue: 0,0:03:29.40,0:03:31.14,Default,,0,0,0,,MAYBE SOME STICKY TAPE\NIN THE MIDDLE,
-Dialogue: 0,0:03:31.14,0:03:32.57,Default,,0,0,0,,AND THAT SHOULD TOTALLY --\NOKAY. HOLD ON, HOLD ON, HOLD ON.
-Dialogue: 0,0:03:32.57,0:03:34.74,Default,,0,0,0,,I GOT A THING TO DO.\NOKAY, WAIT RIGHT THERE.
-Dialogue: 0,0:03:34.74,0:03:37.21,Default,,0,0,0,,OKAY, SO WHILE WE KNOW THAT\NDRIVING IN A CAR
-Dialogue: 0,0:03:37.21,0:03:38.75,Default,,0,0,0,,WHILE HOLDING ON\NTO A CELL PHONE AND TALKING
-Dialogue: 0,0:03:38.75,0:03:40.61,Default,,0,0,0,,IS BAD --\NSORRY, THAT WASN'T FOR YOU.
-Dialogue: 0,0:03:40.62,0:03:44.08,Default,,0,0,0,,THE MYTH IS THAT DRIVING\NHANDS-FREE IS JUST AS BAD,
-Dialogue: 0,0:03:44.09,0:03:45.45,Default,,0,0,0,,THAT THERE IS NO DIFFERENCE
-Dialogue: 0,0:03:45.45,0:03:47.25,Default,,0,0,0,,BETWEEN HANDS-FULL\NAND HANDS-FREE.
-Dialogue: 0,0:03:47.26,0:03:49.86,Default,,0,0,0,,AND WE ARE JUST ABOUT TO TEST IT\NON THE COURSE BEHIND ME.
-Dialogue: 0,0:03:49.86,0:03:51.69,Default,,0,0,0,,I CAN SEE IT FROM A DISTANCE,
-Dialogue: 0,0:03:51.69,0:03:53.16,Default,,0,0,0,,BUT THAT'S AS CLOSE\NAS I'M GONNA GET
-Dialogue: 0,0:03:53.16,0:03:57.06,Default,,0,0,0,,BECAUSE MY IGNORANCE OF THIS\NCOURSE IS INTRINSIC TO OUR TEST.
-Dialogue: 0,0:03:59.00,0:04:00.73,Default,,0,0,0,,Narrator: LIKE ADAM,\NJAMIE'S ALSO GOING
-Dialogue: 0,0:04:00.74,0:04:04.74,Default,,0,0,0,,THAT EXTRA MILE TO MAKE SURE\NTHEIR SCIENCE IS SOUND.
-Dialogue: 0,0:04:04.74,0:04:06.41,Default,,0,0,0,,ADAM'S GONNA RUN THIS TEST\NTWICE,
-Dialogue: 0,0:04:06.41,0:04:08.14,Default,,0,0,0,,FIRST,\NWITH PHONE HELD IN HIS HAND,
-Dialogue: 0,0:04:08.14,0:04:10.44,Default,,0,0,0,,AND THEN, SECONDLY, HANDS-FREE.
-Dialogue: 0,0:04:10.45,0:04:12.61,Default,,0,0,0,,THEN, I'M ALSO GONNA RUN\NTHE TEST TWICE.
-Dialogue: 0,0:04:12.61,0:04:14.91,Default,,0,0,0,,BUT I'M GONNA DO IT\NIN THE INVERSE ORDER.
-Dialogue: 0,0:04:14.92,0:04:17.72,Default,,0,0,0,,THE IDEA HERE IS THAT\NWE'RE GONNA BE ABLE TO REMOVE
-Dialogue: 0,0:04:17.72,0:04:20.25,Default,,0,0,0,,ANY BIAS AS FAR AS LEARNING,
-Dialogue: 0,0:04:20.26,0:04:23.22,Default,,0,0,0,,AND GETTING BETTER EVERY TIME\NWE DO THE TEST.
-Dialogue: 0,0:04:23.23,0:04:24.46,Default,,0,0,0,,Narrator: INDEED.
-Dialogue: 0,0:04:24.46,0:04:26.29,Default,,0,0,0,,AND WHILE ADAM WARMS UP\NIN THE TEST CAR...
-Dialogue: 0,0:04:26.29,0:04:28.06,Default,,0,0,0,,BREAKER, BREAKER.\NWE GOT A, UH, 5-5-5 ON AN M.P.B.
-Dialogue: 0,0:04:28.06,0:04:29.13,Default,,0,0,0,,I'LL TAKE CARE OF IT.
-Dialogue: 0,0:04:30.77,0:04:33.20,Default,,0,0,0,,Narrator: JAMIE SITS DOWN\NIN MISSION CONTROL.
-Dialogue: 0,0:04:33.20,0:04:34.77,Default,,0,0,0,,ALL RIGHT,\NI'VE GOT MY QUESTIONS,
-Dialogue: 0,0:04:34.77,0:04:36.77,Default,,0,0,0,,I'VE GOT MY PHONE.
-Dialogue: 0,0:04:36.77,0:04:39.74,Default,,0,0,0,,WE'LL SEE WHAT WE CAN DO TO MESS\NWITH ADAM'S WORLD.
-Dialogue: 0,0:04:42.54,0:04:44.41,Default,,0,0,0,,HELLO, SIR.\N- HELLO.
-Dialogue: 0,0:04:44.41,0:04:47.38,Default,,0,0,0,,Narrator: WITH DAVE RIDING\NSHOTGUN TO MARK ADAM'S MOVES,
-Dialogue: 0,0:04:47.38,0:04:50.62,Default,,0,0,0,,IT'S TIME TO HOLD THE PHONE.
-Dialogue: 0,0:04:50.62,0:04:52.72,Default,,0,0,0,,[ CELL PHONE RINGS ]
-Dialogue: 0,0:04:52.72,0:04:54.92,Default,,0,0,0,,HELLO.\N- Hello, Adam.
-Dialogue: 0,0:04:54.92,0:04:58.32,Default,,0,0,0,,I'VE GOT MY QUESTIONS READY\NFOR YOU AND WE'RE GOOD TO GO.
-Dialogue: 0,0:04:58.33,0:05:03.10,Default,,0,0,0,,3, 2, 1, HERE WE GO.
-Dialogue: 0,0:05:03.10,0:05:06.80,Default,,0,0,0,,OKAY, SO, IF YOU COULD COMPETE\NWITH THE OLYMPICS,
-Dialogue: 0,0:05:06.80,0:05:08.87,Default,,0,0,0,,WHAT EVENT WOULD YOU\NWANT TO BE IN?
-Dialogue: 0,0:05:08.87,0:05:12.31,Default,,0,0,0,,UM, IF I CAN COMPETE IN\NTHE OLYMPICS, I WOULD, UH,
-Dialogue: 0,0:05:12.31,0:05:13.84,Default,,0,0,0,,HOLD ON A SECOND.\NTHERE WE GO.
-Dialogue: 0,0:05:13.84,0:05:17.44,Default,,0,0,0,,HOLD ON, SORRY, UM,\NI THINK I WOULD DO THE LUGE
-Dialogue: 0,0:05:17.45,0:05:21.01,Default,,0,0,0,,BECAUSE IT REQUIRES, I THINK,\NTHE LEAST AMOUNT OF PHYSICAL,
-Dialogue: 0,0:05:21.02,0:05:22.85,Default,,0,0,0,,UH, ACUITY.
-Dialogue: 0,0:05:22.85,0:05:24.55,Default,,0,0,0,,OKAY. THAT'S GREAT.
-Dialogue: 0,0:05:24.55,0:05:27.95,Default,,0,0,0,,NOW, UH, I NEED YOU TO ADD\NTHE FIRST TWO GIVEN NUMBERS
-Dialogue: 0,0:05:27.96,0:05:31.12,Default,,0,0,0,,AND THEN ADD THE NEXT NUMBER\NTO THE LAST NUMBER GIVEN.
-Dialogue: 0,0:05:31.13,0:05:32.29,Default,,0,0,0,,OKAY.
-Dialogue: 0,0:05:32.29,0:05:34.09,Default,,0,0,0,,8 AND 7.
-Dialogue: 0,0:05:34.10,0:05:36.36,Default,,0,0,0,,UM, 8 AND 7 EQUALS 15.
-Dialogue: 0,0:05:36.36,0:05:38.87,Default,,0,0,0,,OKAY, 3.
-Dialogue: 0,0:05:38.87,0:05:41.84,Default,,0,0,0,,UH, 10.
-Dialogue: 0,0:05:41.84,0:05:43.30,Default,,0,0,0,,EXCELLENT. OKAY.
-Dialogue: 0,0:05:43.31,0:05:44.60,Default,,0,0,0,,FOR THE NEXT TEST, I'M GOING TO\NREAD YOU A LIST OF WORDS
-Dialogue: 0,0:05:44.61,0:05:47.64,Default,,0,0,0,,AND ASK YOU TO REPEAT THEM\NIN REVERSE ORDER.
-Dialogue: 0,0:05:47.64,0:05:49.34,Default,,0,0,0,,HOLD ON A SECOND.
-Dialogue: 0,0:05:49.34,0:05:50.81,Default,,0,0,0,,NOW, THIS IS WHAT YOU MIGHT BE\NWONDERING ABOUT THE COMPLEXITY
-Dialogue: 0,0:05:50.81,0:05:53.58,Default,,0,0,0,,OF THE QUESTIONS WE ARE ASKING\NEACH OTHER WHILE DRIVING.
-Dialogue: 0,0:05:53.58,0:05:55.98,Default,,0,0,0,,FLAMETHROWER. FIRE HYDRANT.\NWATER.
-Dialogue: 0,0:05:55.98,0:05:58.32,Default,,0,0,0,,WHY AREN'T WE JUST READING\N"WAR AND PEACE" OVER THE PHONE?
-Dialogue: 0,0:05:58.32,0:06:00.55,Default,,0,0,0,,WATER. FIRE HYDRANT.\NFLAMETHROWER.
-Dialogue: 0,0:06:00.56,0:06:03.19,Default,,0,0,0,,WELL, EACH OF OUR QUESTIONS\NFALLS INTO A CATEGORY THAT
-Dialogue: 0,0:06:03.19,0:06:05.66,Default,,0,0,0,,ACTIVATES THE COGNITIVE PORTIONS\NOF THE BRAIN.
-Dialogue: 0,0:06:05.66,0:06:06.83,Default,,0,0,0,,GENERAL KNOWLEDGE --
-Dialogue: 0,0:06:06.83,0:06:08.86,Default,,0,0,0,,WHICH COUNTRY HAS\NTHE LONGEST COASTLINE?
-Dialogue: 0,0:06:08.86,0:06:13.63,Default,,0,0,0,,UH, THE LONGEST COASTLINE\NOF ANY COUNTRY. CHINA?
-Dialogue: 0,0:06:13.64,0:06:16.10,Default,,0,0,0,,ALL REQUIRE THE DRIVER TO USE\NTHE PART OF THEIR BRAIN
-Dialogue: 0,0:06:16.10,0:06:18.24,Default,,0,0,0,,TO LISTEN AT THE SAME TIME\NAS THEY'RE TRYING TO USE
-Dialogue: 0,0:06:18.24,0:06:20.77,Default,,0,0,0,,ANOTHER PART OF\NTHEIR BRAIN TO DRIVE.
-Dialogue: 0,0:06:20.78,0:06:22.38,Default,,0,0,0,,Narrator:\NADAM ISN'T BEING JUDGED ON
-Dialogue: 0,0:06:22.38,0:06:24.68,Default,,0,0,0,,HOW WELL HE ANSWERS\NTHE QUESTIONS.
-Dialogue: 0,0:06:24.68,0:06:25.71,Default,,0,0,0,,ADD 1 AND 7.
-Dialogue: 0,0:06:25.71,0:06:27.41,Default,,0,0,0,,UH, HOLD ON.
-Dialogue: 0,0:06:27.42,0:06:29.08,Default,,0,0,0,,[ LAUGHS ] THIS IS...
+Dialogue: 0,0:00:24.02,0:00:25.12,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:00:25.12,0:00:27.15,Default,,0,0,0,,1.\n- hey, wait a second.
+Dialogue: 0,0:00:29.93,0:00:32.13,Default,,0,0,0,,here we go.\n[ cell phone ringing ]
+Dialogue: 0,0:00:32.13,0:00:33.13,Default,,0,0,0,,oh.
+Dialogue: 0,0:00:33.13,0:00:34.56,Default,,0,0,0,,[ beep ]\n- hello?
+Dialogue: 0,0:00:34.56,0:00:35.90,Default,,0,0,0,,oh, hi, mom.
+Dialogue: 0,0:00:35.90,0:00:38.06,Default,,0,0,0,,ah! no, no. not you.\nnot you.
+Dialogue: 0,0:00:41.74,0:00:43.47,Default,,0,0,0,,so, it --\nhold on -- hold on.
+Dialogue: 0,0:00:43.47,0:00:46.51,Default,,0,0,0,,mom, it's not really\nthe best time for me to talk.
+Dialogue: 0,0:00:46.51,0:00:47.57,Default,,0,0,0,,[ sheep bleat ]
+Dialogue: 0,0:00:47.58,0:00:51.24,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:00:51.25,0:00:53.35,Default,,0,0,0,,saturday? sure.\noh, mom, hold on.
+Dialogue: 0,0:00:53.35,0:00:54.78,Default,,0,0,0,,mom, hold on.\nmom, i got to go. i got to go.
+Dialogue: 0,0:00:54.78,0:00:57.22,Default,,0,0,0,,okay. i'll talk to you later.\n[ beep ]
+Dialogue: 0,0:00:57.22,0:00:59.29,Default,,0,0,0,,[ explosion ]
+Dialogue: 0,0:00:59.29,0:01:01.76,Default,,0,0,0,,ahh!
+Dialogue: 0,0:01:01.76,0:01:03.02,Default,,0,0,0,,i lost.
+Dialogue: 0,0:01:03.03,0:01:04.79,Default,,0,0,0,,you were looking a little\ndistracted there.
+Dialogue: 0,0:01:04.79,0:01:08.16,Default,,0,0,0,,yeah, but i did pretty good\nin reverse.
+Dialogue: 0,0:01:08.16,0:01:10.96,Default,,0,0,0,,uh, all right.\n- [ laughs ]
+Dialogue: 0,0:01:28.52,0:01:31.52,Default,,0,0,0,,--<font color="#ffff00"> captions by vitac</font> --\n<font color="#00ffff">www.vitac.com</font>
+Dialogue: 0,0:01:31.52,0:01:35.09,Default,,0,0,0,,captions paid for by\ndiscovery communications
+Dialogue: 0,0:01:35.09,0:01:36.19,Default,,0,0,0,,all right, sir.
+Dialogue: 0,0:01:36.19,0:01:37.66,Default,,0,0,0,,time to get\nyour racing gloves on.
+Dialogue: 0,0:01:37.66,0:01:39.99,Default,,0,0,0,,we have an entire episode\nthat puts the word "dangerous"
+Dialogue: 0,0:01:40.00,0:01:42.20,Default,,0,0,0,,into the phrase\n"dangerous driving."
+Dialogue: 0,0:01:42.20,0:01:43.56,Default,,0,0,0,,like what?
+Dialogue: 0,0:01:43.57,0:01:45.63,Default,,0,0,0,,well, we've got a hollywood\ncar chase story to tackle,
+Dialogue: 0,0:01:45.63,0:01:48.07,Default,,0,0,0,,that driving at\nhigh speed through traffic,
+Dialogue: 0,0:01:48.07,0:01:51.44,Default,,0,0,0,,evading your enemies\nin reverse, is easy.
+Dialogue: 0,0:01:51.44,0:01:53.31,Default,,0,0,0,,but first up,\nwe have a story all about
+Dialogue: 0,0:01:53.31,0:01:57.61,Default,,0,0,0,,the dangers of driving while\ntalking on your cell phone.
+Dialogue: 0,0:01:57.61,0:01:58.85,Default,,0,0,0,,oh, there's a law against that,
+Dialogue: 0,0:01:58.85,0:02:00.45,Default,,0,0,0,,at least as far as\nholding it in your hand.
+Dialogue: 0,0:02:00.45,0:02:02.35,Default,,0,0,0,,exactly,\nbut what is the solution
+Dialogue: 0,0:02:02.35,0:02:04.15,Default,,0,0,0,,for someone who wants to\ntalk on their phone?
+Dialogue: 0,0:02:04.15,0:02:06.25,Default,,0,0,0,,hands-free?\n- hello?
+Dialogue: 0,0:02:06.26,0:02:09.59,Default,,0,0,0,,yup, but there's a myth\nthat there is no improvement
+Dialogue: 0,0:02:09.59,0:02:13.46,Default,,0,0,0,,in safety talking hands-free\nversus holding on to your phone,
+Dialogue: 0,0:02:13.46,0:02:16.16,Default,,0,0,0,,that they both distract you\njust as much.
+Dialogue: 0,0:02:16.16,0:02:17.73,Default,,0,0,0,,and i think\nwe should test that.
+Dialogue: 0,0:02:17.73,0:02:18.83,Default,,0,0,0,,absolutely.
+Dialogue: 0,0:02:18.83,0:02:22.34,Default,,0,0,0,,narrator:\ntalking on a handheld phone
+Dialogue: 0,0:02:22.34,0:02:27.07,Default,,0,0,0,,leaves a driver both mentally\nand physically compromised.
+Dialogue: 0,0:02:27.08,0:02:30.71,Default,,0,0,0,,going hands-free does eliminate\nhalf the problem.
+Dialogue: 0,0:02:30.71,0:02:32.48,Default,,0,0,0,,but with the other half\nstill there,
+Dialogue: 0,0:02:32.48,0:02:35.38,Default,,0,0,0,,some say that it's just\nas dangerous.
+Dialogue: 0,0:02:35.38,0:02:36.48,Default,,0,0,0,,[ tires squeal,\nglass shatters ]
+Dialogue: 0,0:02:36.49,0:02:37.95,Default,,0,0,0,,hey! hey! hey!\n- hey! hey! hey!
+Dialogue: 0,0:02:41.36,0:02:43.32,Default,,0,0,0,,narrator: to find out,\nthe "mythbusters" crew
+Dialogue: 0,0:02:43.33,0:02:45.86,Default,,0,0,0,,have constructed\na classified course
+Dialogue: 0,0:02:45.86,0:02:48.86,Default,,0,0,0,,designed by drive expert\ndave storton.
+Dialogue: 0,0:02:51.47,0:02:53.97,Default,,0,0,0,,so the first section here\nis a slalom.
+Dialogue: 0,0:02:53.97,0:02:56.27,Default,,0,0,0,,so that's gonna test\ntheir steering ability
+Dialogue: 0,0:02:56.27,0:02:58.00,Default,,0,0,0,,while talking on the phone.
+Dialogue: 0,0:02:58.01,0:02:59.47,Default,,0,0,0,,narrator: right now\nadam and jamie are being
+Dialogue: 0,0:02:59.47,0:03:01.11,Default,,0,0,0,,deliberately kept in the dark.
+Dialogue: 0,0:03:01.11,0:03:02.74,Default,,0,0,0,,storton:\ncoming out of the slalom,
+Dialogue: 0,0:03:02.74,0:03:04.71,Default,,0,0,0,,they'll immediately have to get\non the brakes
+Dialogue: 0,0:03:04.71,0:03:08.28,Default,,0,0,0,,for a low-speed exercise\ncalled the offset lane.
+Dialogue: 0,0:03:08.28,0:03:09.98,Default,,0,0,0,,narrator: because any\npre-existing knowledge of
+Dialogue: 0,0:03:09.99,0:03:13.09,Default,,0,0,0,,the route could\ndiscredit their data.
+Dialogue: 0,0:03:13.09,0:03:14.25,Default,,0,0,0,,storton:\nonce through that,
+Dialogue: 0,0:03:14.26,0:03:17.62,Default,,0,0,0,,we head over to\nwhat's called a t-box.
+Dialogue: 0,0:03:17.63,0:03:19.16,Default,,0,0,0,,narrator: instead,\nall they know is that
+Dialogue: 0,0:03:19.16,0:03:21.76,Default,,0,0,0,,they must stick to\nthe speed limits
+Dialogue: 0,0:03:21.76,0:03:23.80,Default,,0,0,0,,and not clip any cones
+Dialogue: 0,0:03:23.80,0:03:27.10,Default,,0,0,0,,if they're to achieve\na perfect score.
+Dialogue: 0,0:03:27.10,0:03:29.40,Default,,0,0,0,,right.\nif you bolt the two together,
+Dialogue: 0,0:03:29.40,0:03:31.14,Default,,0,0,0,,maybe some sticky tape\nin the middle,
+Dialogue: 0,0:03:31.14,0:03:32.57,Default,,0,0,0,,and that should totally --\nokay. hold on, hold on, hold on.
+Dialogue: 0,0:03:32.57,0:03:34.74,Default,,0,0,0,,i got a thing to do.\nokay, wait right there.
+Dialogue: 0,0:03:34.74,0:03:37.21,Default,,0,0,0,,okay, so while we know that\ndriving in a car
+Dialogue: 0,0:03:37.21,0:03:38.75,Default,,0,0,0,,while holding on\nto a cell phone and talking
+Dialogue: 0,0:03:38.75,0:03:40.61,Default,,0,0,0,,is bad --\nsorry, that wasn't for you.
+Dialogue: 0,0:03:40.62,0:03:44.08,Default,,0,0,0,,the myth is that driving\nhands-free is just as bad,
+Dialogue: 0,0:03:44.09,0:03:45.45,Default,,0,0,0,,that there is no difference
+Dialogue: 0,0:03:45.45,0:03:47.25,Default,,0,0,0,,between hands-full\nand hands-free.
+Dialogue: 0,0:03:47.26,0:03:49.86,Default,,0,0,0,,and we are just about to test it\non the course behind me.
+Dialogue: 0,0:03:49.86,0:03:51.69,Default,,0,0,0,,i can see it from a distance,
+Dialogue: 0,0:03:51.69,0:03:53.16,Default,,0,0,0,,but that's as close\nas i'm gonna get
+Dialogue: 0,0:03:53.16,0:03:57.06,Default,,0,0,0,,because my ignorance of this\ncourse is intrinsic to our test.
+Dialogue: 0,0:03:59.00,0:04:00.73,Default,,0,0,0,,narrator: like adam,\njamie's also going
+Dialogue: 0,0:04:00.74,0:04:04.74,Default,,0,0,0,,that extra mile to make sure\ntheir science is sound.
+Dialogue: 0,0:04:04.74,0:04:06.41,Default,,0,0,0,,adam's gonna run this test\ntwice,
+Dialogue: 0,0:04:06.41,0:04:08.14,Default,,0,0,0,,first,\nwith phone held in his hand,
+Dialogue: 0,0:04:08.14,0:04:10.44,Default,,0,0,0,,and then, secondly, hands-free.
+Dialogue: 0,0:04:10.45,0:04:12.61,Default,,0,0,0,,then, i'm also gonna run\nthe test twice.
+Dialogue: 0,0:04:12.61,0:04:14.91,Default,,0,0,0,,but i'm gonna do it\nin the inverse order.
+Dialogue: 0,0:04:14.92,0:04:17.72,Default,,0,0,0,,the idea here is that\nwe're gonna be able to remove
+Dialogue: 0,0:04:17.72,0:04:20.25,Default,,0,0,0,,any bias as far as learning,
+Dialogue: 0,0:04:20.26,0:04:23.22,Default,,0,0,0,,and getting better every time\nwe do the test.
+Dialogue: 0,0:04:23.23,0:04:24.46,Default,,0,0,0,,narrator: indeed.
+Dialogue: 0,0:04:24.46,0:04:26.29,Default,,0,0,0,,and while adam warms up\nin the test car...
+Dialogue: 0,0:04:26.29,0:04:28.06,Default,,0,0,0,,breaker, breaker.\nwe got a, uh, 5-5-5 on an m.p.b.
+Dialogue: 0,0:04:28.06,0:04:29.13,Default,,0,0,0,,i'll take care of it.
+Dialogue: 0,0:04:30.77,0:04:33.20,Default,,0,0,0,,narrator: jamie sits down\nin mission control.
+Dialogue: 0,0:04:33.20,0:04:34.77,Default,,0,0,0,,all right,\ni've got my questions,
+Dialogue: 0,0:04:34.77,0:04:36.77,Default,,0,0,0,,i've got my phone.
+Dialogue: 0,0:04:36.77,0:04:39.74,Default,,0,0,0,,we'll see what we can do to mess\nwith adam's world.
+Dialogue: 0,0:04:42.54,0:04:44.41,Default,,0,0,0,,hello, sir.\n- hello.
+Dialogue: 0,0:04:44.41,0:04:47.38,Default,,0,0,0,,narrator: with dave riding\nshotgun to mark adam's moves,
+Dialogue: 0,0:04:47.38,0:04:50.62,Default,,0,0,0,,it's time to hold the phone.
+Dialogue: 0,0:04:50.62,0:04:52.72,Default,,0,0,0,,[ cell phone rings ]
+Dialogue: 0,0:04:52.72,0:04:54.92,Default,,0,0,0,,hello.\n- hello, adam.
+Dialogue: 0,0:04:54.92,0:04:58.32,Default,,0,0,0,,i've got my questions ready\nfor you and we're good to go.
+Dialogue: 0,0:04:58.33,0:05:03.10,Default,,0,0,0,,3, 2, 1, here we go.
+Dialogue: 0,0:05:03.10,0:05:06.80,Default,,0,0,0,,okay, so, if you could compete\nwith the olympics,
+Dialogue: 0,0:05:06.80,0:05:08.87,Default,,0,0,0,,what event would you\nwant to be in?
+Dialogue: 0,0:05:08.87,0:05:12.31,Default,,0,0,0,,um, if i can compete in\nthe olympics, i would, uh,
+Dialogue: 0,0:05:12.31,0:05:13.84,Default,,0,0,0,,hold on a second.\nthere we go.
+Dialogue: 0,0:05:13.84,0:05:17.44,Default,,0,0,0,,hold on, sorry, um,\ni think i would do the luge
+Dialogue: 0,0:05:17.45,0:05:21.01,Default,,0,0,0,,because it requires, i think,\nthe least amount of physical,
+Dialogue: 0,0:05:21.02,0:05:22.85,Default,,0,0,0,,uh, acuity.
+Dialogue: 0,0:05:22.85,0:05:24.55,Default,,0,0,0,,okay. that's great.
+Dialogue: 0,0:05:24.55,0:05:27.95,Default,,0,0,0,,now, uh, i need you to add\nthe first two given numbers
+Dialogue: 0,0:05:27.96,0:05:31.12,Default,,0,0,0,,and then add the next number\nto the last number given.
+Dialogue: 0,0:05:31.13,0:05:32.29,Default,,0,0,0,,okay.
+Dialogue: 0,0:05:32.29,0:05:34.09,Default,,0,0,0,,8 and 7.
+Dialogue: 0,0:05:34.10,0:05:36.36,Default,,0,0,0,,um, 8 and 7 equals 15.
+Dialogue: 0,0:05:36.36,0:05:38.87,Default,,0,0,0,,okay, 3.
+Dialogue: 0,0:05:38.87,0:05:41.84,Default,,0,0,0,,uh, 10.
+Dialogue: 0,0:05:41.84,0:05:43.30,Default,,0,0,0,,excellent. okay.
+Dialogue: 0,0:05:43.31,0:05:44.60,Default,,0,0,0,,for the next test, i'm going to\nread you a list of words
+Dialogue: 0,0:05:44.61,0:05:47.64,Default,,0,0,0,,and ask you to repeat them\nin reverse order.
+Dialogue: 0,0:05:47.64,0:05:49.34,Default,,0,0,0,,hold on a second.
+Dialogue: 0,0:05:49.34,0:05:50.81,Default,,0,0,0,,now, this is what you might be\nwondering about the complexity
+Dialogue: 0,0:05:50.81,0:05:53.58,Default,,0,0,0,,of the questions we are asking\neach other while driving.
+Dialogue: 0,0:05:53.58,0:05:55.98,Default,,0,0,0,,flamethrower. fire hydrant.\nwater.
+Dialogue: 0,0:05:55.98,0:05:58.32,Default,,0,0,0,,why aren't we just reading\n"war and peace" over the phone?
+Dialogue: 0,0:05:58.32,0:06:00.55,Default,,0,0,0,,water. fire hydrant.\nflamethrower.
+Dialogue: 0,0:06:00.56,0:06:03.19,Default,,0,0,0,,well, each of our questions\nfalls into a category that
+Dialogue: 0,0:06:03.19,0:06:05.66,Default,,0,0,0,,activates the cognitive portions\nof the brain.
+Dialogue: 0,0:06:05.66,0:06:06.83,Default,,0,0,0,,general knowledge --
+Dialogue: 0,0:06:06.83,0:06:08.86,Default,,0,0,0,,which country has\nthe longest coastline?
+Dialogue: 0,0:06:08.86,0:06:13.63,Default,,0,0,0,,uh, the longest coastline\nof any country. china?
+Dialogue: 0,0:06:13.64,0:06:16.10,Default,,0,0,0,,all require the driver to use\nthe part of their brain
+Dialogue: 0,0:06:16.10,0:06:18.24,Default,,0,0,0,,to listen at the same time\nas they're trying to use
+Dialogue: 0,0:06:18.24,0:06:20.77,Default,,0,0,0,,another part of\ntheir brain to drive.
+Dialogue: 0,0:06:20.78,0:06:22.38,Default,,0,0,0,,narrator:\nadam isn't being judged on
+Dialogue: 0,0:06:22.38,0:06:24.68,Default,,0,0,0,,how well he answers\nthe questions.
+Dialogue: 0,0:06:24.68,0:06:25.71,Default,,0,0,0,,add 1 and 7.
+Dialogue: 0,0:06:25.71,0:06:27.41,Default,,0,0,0,,uh, hold on.
+Dialogue: 0,0:06:27.42,0:06:29.08,Default,,0,0,0,,[ laughs ] this is...
 Dialogue: 0,0:06:29.08,0:06:30.65,Default,,0,0,0,,10.
-Dialogue: 0,0:06:30.65,0:06:35.26,Default,,0,0,0,,Narrator: IT'S HOW WELL HE'S\NDRIVING THAT'S THE ONLY METRIC.
-Dialogue: 0,0:06:35.26,0:06:37.69,Default,,0,0,0,,OH! WHOA, WHOA.
-Dialogue: 0,0:06:37.69,0:06:40.03,Default,,0,0,0,,Narrator: AND THE ANSWER TO THAT\NIS NOT VERY WELL.
-Dialogue: 0,0:06:40.03,0:06:42.63,Default,,0,0,0,,UM, HOLD ON. SORRY.
-Dialogue: 0,0:06:42.63,0:06:45.30,Default,,0,0,0,,Narrator: THE COMBINATION OF\NONE HAND ON THE WHEEL
-Dialogue: 0,0:06:45.30,0:06:48.74,Default,,0,0,0,,AND A BRAIN THAT'S MULTITASKING\NINTO MELTDOWN MEANS THAT,
-Dialogue: 0,0:06:48.74,0:06:50.40,Default,,0,0,0,,BY THE END OF THE TEST,
-Dialogue: 0,0:06:50.41,0:06:52.67,Default,,0,0,0,,ADAM'S FLUNKED\NWITH FLYING COLORS.
-Dialogue: 0,0:06:52.67,0:06:54.97,Default,,0,0,0,,JAMIE, I'M DONE.
-Dialogue: 0,0:06:54.98,0:06:57.64,Default,,0,0,0,,THAT WAS AWFUL. [ LAUGHS ]\N[ LAUGHS ]
-Dialogue: 0,0:06:57.65,0:06:59.61,Default,,0,0,0,,WELL, UH, LET'S RESET\NAND SEE WHETHER
-Dialogue: 0,0:06:59.61,0:07:02.28,Default,,0,0,0,,YOU'RE STILL A MENACE\NON THE NEXT ONE.
-Dialogue: 0,0:07:02.28,0:07:03.95,Default,,0,0,0,,ALL RIGHT.
-Dialogue: 0,0:07:03.95,0:07:07.89,Default,,0,0,0,,[ ENGINE SPUTTERING ]\N- OKAY.
-Dialogue: 0,0:07:07.89,0:07:11.02,Default,,0,0,0,,UM, [BLEEP].
-Dialogue: 0,0:07:11.03,0:07:12.93,Default,,0,0,0,,WELL,\NI'VE COMPLETED MY FIRST TEST,
-Dialogue: 0,0:07:12.93,0:07:16.46,Default,,0,0,0,,AND TALKING ON THE PHONE\NWAS ABSOLUTELY AWFUL.
-Dialogue: 0,0:07:16.46,0:07:19.70,Default,,0,0,0,,AND THEN,\NTHE CAR STOPPED WORKING.
-Dialogue: 0,0:07:19.70,0:07:22.87,Default,,0,0,0,,SO WE ARE ACTUALLY GOING TO\NTRANSFER ALL OF THE CAMERAS
-Dialogue: 0,0:07:22.87,0:07:24.44,Default,,0,0,0,,AND MICROPHONES FROM INSIDE\NTHIS CAR
-Dialogue: 0,0:07:24.44,0:07:26.04,Default,,0,0,0,,TO ONE OF\NOUR PRODUCTION VEHICLES.
-Dialogue: 0,0:07:26.04,0:07:28.88,Default,,0,0,0,,AND I'M GONNA RUN THE TEST\NA SECOND TIME, HANDS-FREE.
-Dialogue: 0,0:07:28.88,0:07:30.61,Default,,0,0,0,,I MEAN, WE STILL CONSIDER\NMY FIRST TEST VALID,
-Dialogue: 0,0:07:30.61,0:07:33.21,Default,,0,0,0,,JUST HAVE TO DO THE SECOND ONE\NIN A DIFFERENT CAR.
-Dialogue: 0,0:07:33.22,0:07:35.45,Default,,0,0,0,,Narrator:\NSO, WHILE THE TEAM PUSHES ON,
-Dialogue: 0,0:07:35.45,0:07:38.99,Default,,0,0,0,,WHAT ELSE IS ON THE DOCKET?
-Dialogue: 0,0:07:38.99,0:07:41.22,Default,,0,0,0,,SO DRIVING IN REVERSE.\NPAINT ME A PICTURE.
-Dialogue: 0,0:07:41.22,0:07:42.82,Default,,0,0,0,,WELL, LOOK,\NOUR HERO, LET'S SAY,
-Dialogue: 0,0:07:42.82,0:07:44.22,Default,,0,0,0,,IS DRIVING DOWN\NA ONE WAY STREET.
-Dialogue: 0,0:07:44.23,0:07:45.59,Default,,0,0,0,,HE THINKS HE'S HOME FREE,
-Dialogue: 0,0:07:45.59,0:07:48.39,Default,,0,0,0,,BUT BLOCKING HIS PATH IS\NA VILLAIN IN A CAR.
-Dialogue: 0,0:07:48.40,0:07:50.30,Default,,0,0,0,,HE'S GOT NOWHERE TO GO,
-Dialogue: 0,0:07:50.30,0:07:51.97,Default,,0,0,0,,SO USING THE ONLY AVENUE\NOPEN TO HIM,
-Dialogue: 0,0:07:51.97,0:07:55.03,Default,,0,0,0,,THE HERO THROWS THE CAR\NINTO REVERSE AND BACKS UP,
-Dialogue: 0,0:07:55.04,0:07:57.54,Default,,0,0,0,,BOBBING AND WEAVING THROUGH\NTRAFFIC AT HIGH SPEED
-Dialogue: 0,0:07:57.54,0:08:00.71,Default,,0,0,0,,TO EVENTUALLY\NEVADE HIS CHASER.
-Dialogue: 0,0:08:00.71,0:08:02.24,Default,,0,0,0,,AND YOU WANNA KNOW\NIF THIS IS POSSIBLE.
-Dialogue: 0,0:08:02.24,0:08:03.64,Default,,0,0,0,,I TOTALLY DO.
-Dialogue: 0,0:08:03.65,0:08:05.04,Default,,0,0,0,,WE'VE BEEN TRAINED TO DRIVE\NIN A LOT OF DIFFERENT WAYS
-Dialogue: 0,0:08:05.05,0:08:07.71,Default,,0,0,0,,OVER THE YEARS, BUT BACKWARDS\NISN'T ONE OF THEM.
-Dialogue: 0,0:08:07.72,0:08:10.35,Default,,0,0,0,,AND IT INVOLVES A LOT OF\NDIFFERENT SKILLS,
-Dialogue: 0,0:08:10.35,0:08:12.75,Default,,0,0,0,,NOT ONLY DRIVING ABILITY\NAND SPATIAL AWARENESS BUT ALSO,
-Dialogue: 0,0:08:12.75,0:08:15.62,Default,,0,0,0,,REALLY, PROPRIOCEPTION.\NYEAH, YEAH.
-Dialogue: 0,0:08:15.62,0:08:17.69,Default,,0,0,0,,LET'S GET TO DRIVING.\N- OKAY.
-Dialogue: 0,0:08:25.97,0:08:28.87,Default,,0,0,0,,BEAUTIFUL DAY.
-Dialogue: 0,0:08:28.87,0:08:30.87,Default,,0,0,0,,WIDE-OPEN, EMPTY RUNWAY.
-Dialogue: 0,0:08:30.87,0:08:33.57,Default,,0,0,0,,THE CONDITIONS ARE PERFECT.
-Dialogue: 0,0:08:33.58,0:08:37.98,Default,,0,0,0,,OH, WAIT.\NWE NEED A CAR.
-Dialogue: 0,0:08:41.05,0:08:45.02,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:08:45.02,0:08:47.59,Default,,0,0,0,,YOU ORDERED A CAR?\NINDEED I DID, SIR.
-Dialogue: 0,0:08:47.59,0:08:49.69,Default,,0,0,0,,PERFECT TIMING.\N- [ LAUGHS ]
-Dialogue: 0,0:08:53.46,0:08:55.86,Default,,0,0,0,,YOU KNOW, THE MOVIES ARE PACKED\NWITH PEOPLE WHO CAN DRIVE WELL,
-Dialogue: 0,0:08:55.86,0:08:57.63,Default,,0,0,0,,BUT THEY WOULD LEAD YOU TO\NBELIEVE THAT YOU COULD DRIVE
-Dialogue: 0,0:08:57.63,0:09:00.77,Default,,0,0,0,,FORWARD OR REVERSE,\NHOWEVER YOU CHOOSE.
-Dialogue: 0,0:09:00.77,0:09:03.44,Default,,0,0,0,,WE ARE CONSTANTLY SEEING\NOUR MOVIE HEROES RACING AWAY
-Dialogue: 0,0:09:03.44,0:09:06.31,Default,,0,0,0,,FROM THE BAD GUYS,\NAVOIDING OBSTACLES,
-Dialogue: 0,0:09:06.31,0:09:08.78,Default,,0,0,0,,AND DRIVING ALL OVER THE PLACE\NWITH THE REAR END OF THE CAR
-Dialogue: 0,0:09:08.78,0:09:12.85,Default,,0,0,0,,FACING THE DIRECTION\NTHAT THEY ARE ACTUALLY GOING.
-Dialogue: 0,0:09:12.85,0:09:16.28,Default,,0,0,0,,Narrator: BUT BEFORE TRYING OUT\NANY TWISTS OR TURNS...
-Dialogue: 0,0:09:16.28,0:09:19.32,Default,,0,0,0,,AND...THAT'S A QUARTER MILE.
-Dialogue: 0,0:09:19.32,0:09:20.89,Default,,0,0,0,,Narrator:\NTHE GUYS FIRST WANT TO KNOW IF
-Dialogue: 0,0:09:20.89,0:09:24.79,Default,,0,0,0,,CARS CAN EVEN REVERSE\NHOLLYWOOD-FAST IN REAL LIFE.
-Dialogue: 0,0:09:24.79,0:09:27.73,Default,,0,0,0,,AND FOR THAT, THEY'RE HITTING\NTHE STRAIGHTAWAY.
-Dialogue: 0,0:09:27.73,0:09:30.30,Default,,0,0,0,,WE'VE SET UP A COURSE\NTHAT'S MEASURED.
-Dialogue: 0,0:09:30.30,0:09:32.33,Default,,0,0,0,,AND WE'RE GONNA TEST OUT\NTHESE CARS,
-Dialogue: 0,0:09:32.33,0:09:34.07,Default,,0,0,0,,SEE HOW FAST THEY GO\NIN FORWARD
-Dialogue: 0,0:09:34.07,0:09:36.70,Default,,0,0,0,,AND COMPARE THAT TO HOW FAST\NTHEY GO IN REVERSE.
-Dialogue: 0,0:09:39.81,0:09:41.77,Default,,0,0,0,,ALL RIGHT, MR. HYNEMAN,\NARE YOU READY?
-Dialogue: 0,0:09:41.78,0:09:44.14,Default,,0,0,0,,I'M GOOD TO GO.
-Dialogue: 0,0:09:44.15,0:09:45.98,Default,,0,0,0,,ALL RIGHT,\NCOMMENCE QUARTER-MILE TEST
-Dialogue: 0,0:09:45.98,0:09:48.68,Default,,0,0,0,,IN 3, 2, 1...GO.
-Dialogue: 0,0:09:48.68,0:09:50.08,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:09:52.92,0:09:56.12,Default,,0,0,0,,HERE IT COMES.
-Dialogue: 0,0:09:56.12,0:09:58.26,Default,,0,0,0,,80 PER HOUR.
-Dialogue: 0,0:10:00.93,0:10:03.36,Default,,0,0,0,,Narrator: IT'S A GOOD START\NFOR THEIR CONVERTED CAB.
-Dialogue: 0,0:10:03.37,0:10:07.00,Default,,0,0,0,,BUT HOW WILL THAT SPEED COMPARE\NWHEN IT'S BACK-TO-FRONT?
-Dialogue: 0,0:10:07.00,0:10:08.74,Default,,0,0,0,,MOST CARS THAT\NYOU'RE EVER GONNA RUN INTO
-Dialogue: 0,0:10:08.74,0:10:10.10,Default,,0,0,0,,HAVE ONLY ONE REVERSE GEAR,
-Dialogue: 0,0:10:10.11,0:10:12.74,Default,,0,0,0,,WHICH MEANS THAT THE TOP SPEED\NOF YOUR CAR IN REVERSE
-Dialogue: 0,0:10:12.74,0:10:15.58,Default,,0,0,0,,IS ULTIMATELY LIMITED BY\NTHE REVERSE GEARING
-Dialogue: 0,0:10:15.58,0:10:17.94,Default,,0,0,0,,AND THE SPEED AT WHICH\NTHE ENGINE IS TURNING OVER.
-Dialogue: 0,0:10:17.95,0:10:19.88,Default,,0,0,0,,NOW, WILL OUR CAR\NBE ABLE TO GO AS FAST
-Dialogue: 0,0:10:19.88,0:10:21.91,Default,,0,0,0,,AS THEY SEEM TO GO IN\NTHE MOVIES?
-Dialogue: 0,0:10:21.92,0:10:24.22,Default,,0,0,0,,THAT IS JUST WHAT\NWE'RE ABOUT TO FIND OUT.
-Dialogue: 0,0:10:24.22,0:10:31.09,Default,,0,0,0,,OKAY, COMMENCE BACKWARDS\NQUARTER MILE IN 3, 2, 1...GO.
-Dialogue: 0,0:10:31.09,0:10:33.19,Default,,0,0,0,,Narrator: JAMIE'S OFF.
-Dialogue: 0,0:10:33.19,0:10:34.56,Default,,0,0,0,,BUT FROM THE GET-GO,
-Dialogue: 0,0:10:34.56,0:10:37.26,Default,,0,0,0,,IT'S CLEAR THAT HE'S LESS\N"FAST AND FURIOUS"...
-Dialogue: 0,0:10:40.17,0:10:42.90,Default,,0,0,0,,...AND MORE\N"DRIVING MISS DAISY."
-Dialogue: 0,0:10:44.51,0:10:48.44,Default,,0,0,0,,BUT THAT'S BECAUSE HE'S USING\NTHIS RUN TO GET HIS EYE IN.
-Dialogue: 0,0:10:48.44,0:10:50.94,Default,,0,0,0,,31 MILES PER HOUR.\NI THINK HE CAN DO BETTER.
-Dialogue: 0,0:10:50.95,0:10:52.51,Default,,0,0,0,,I THINK HE'S GOT MORE.
-Dialogue: 0,0:10:52.51,0:10:55.78,Default,,0,0,0,,Narrator:\NYUP, IT'S TEST TWO,
-Dialogue: 0,0:10:55.78,0:10:57.45,Default,,0,0,0,,WHERE THE RUBBER WILL MEET\NTHE ROAD.
-Dialogue: 0,0:10:57.45,0:11:00.39,Default,,0,0,0,,OKAY, ADAM, I'M IN PLACE\NAND READY TO GO IN REVERSE.
-Dialogue: 0,0:11:00.39,0:11:01.62,Default,,0,0,0,,Narrator:\NAS JAMIE, THIS TIME,
-Dialogue: 0,0:11:01.62,0:11:03.92,Default,,0,0,0,,PLANS TO PUT THE PEDAL\NTO THE METAL.
-Dialogue: 0,0:11:03.93,0:11:07.19,Default,,0,0,0,,ALL RIGHT, MR. HYNEMAN,\NIN 3, 2, 1...GO.
+Dialogue: 0,0:06:30.65,0:06:35.26,Default,,0,0,0,,narrator: it's how well he's\ndriving that's the only metric.
+Dialogue: 0,0:06:35.26,0:06:37.69,Default,,0,0,0,,oh! whoa, whoa.
+Dialogue: 0,0:06:37.69,0:06:40.03,Default,,0,0,0,,narrator: and the answer to that\nis not very well.
+Dialogue: 0,0:06:40.03,0:06:42.63,Default,,0,0,0,,um, hold on. sorry.
+Dialogue: 0,0:06:42.63,0:06:45.30,Default,,0,0,0,,narrator: the combination of\none hand on the wheel
+Dialogue: 0,0:06:45.30,0:06:48.74,Default,,0,0,0,,and a brain that's multitasking\ninto meltdown means that,
+Dialogue: 0,0:06:48.74,0:06:50.40,Default,,0,0,0,,by the end of the test,
+Dialogue: 0,0:06:50.41,0:06:52.67,Default,,0,0,0,,adam's flunked\nwith flying colors.
+Dialogue: 0,0:06:52.67,0:06:54.97,Default,,0,0,0,,jamie, i'm done.
+Dialogue: 0,0:06:54.98,0:06:57.64,Default,,0,0,0,,that was awful. [ laughs ]\n[ laughs ]
+Dialogue: 0,0:06:57.65,0:06:59.61,Default,,0,0,0,,well, uh, let's reset\nand see whether
+Dialogue: 0,0:06:59.61,0:07:02.28,Default,,0,0,0,,you're still a menace\non the next one.
+Dialogue: 0,0:07:02.28,0:07:03.95,Default,,0,0,0,,all right.
+Dialogue: 0,0:07:03.95,0:07:07.89,Default,,0,0,0,,[ engine sputtering ]\n- okay.
+Dialogue: 0,0:07:07.89,0:07:11.02,Default,,0,0,0,,um, [bleep].
+Dialogue: 0,0:07:11.03,0:07:12.93,Default,,0,0,0,,well,\ni've completed my first test,
+Dialogue: 0,0:07:12.93,0:07:16.46,Default,,0,0,0,,and talking on the phone\nwas absolutely awful.
+Dialogue: 0,0:07:16.46,0:07:19.70,Default,,0,0,0,,and then,\nthe car stopped working.
+Dialogue: 0,0:07:19.70,0:07:22.87,Default,,0,0,0,,so we are actually going to\ntransfer all of the cameras
+Dialogue: 0,0:07:22.87,0:07:24.44,Default,,0,0,0,,and microphones from inside\nthis car
+Dialogue: 0,0:07:24.44,0:07:26.04,Default,,0,0,0,,to one of\nour production vehicles.
+Dialogue: 0,0:07:26.04,0:07:28.88,Default,,0,0,0,,and i'm gonna run the test\na second time, hands-free.
+Dialogue: 0,0:07:28.88,0:07:30.61,Default,,0,0,0,,i mean, we still consider\nmy first test valid,
+Dialogue: 0,0:07:30.61,0:07:33.21,Default,,0,0,0,,just have to do the second one\nin a different car.
+Dialogue: 0,0:07:33.22,0:07:35.45,Default,,0,0,0,,narrator:\nso, while the team pushes on,
+Dialogue: 0,0:07:35.45,0:07:38.99,Default,,0,0,0,,what else is on the docket?
+Dialogue: 0,0:07:38.99,0:07:41.22,Default,,0,0,0,,so driving in reverse.\npaint me a picture.
+Dialogue: 0,0:07:41.22,0:07:42.82,Default,,0,0,0,,well, look,\nour hero, let's say,
+Dialogue: 0,0:07:42.82,0:07:44.22,Default,,0,0,0,,is driving down\na one way street.
+Dialogue: 0,0:07:44.23,0:07:45.59,Default,,0,0,0,,he thinks he's home free,
+Dialogue: 0,0:07:45.59,0:07:48.39,Default,,0,0,0,,but blocking his path is\na villain in a car.
+Dialogue: 0,0:07:48.40,0:07:50.30,Default,,0,0,0,,he's got nowhere to go,
+Dialogue: 0,0:07:50.30,0:07:51.97,Default,,0,0,0,,so using the only avenue\nopen to him,
+Dialogue: 0,0:07:51.97,0:07:55.03,Default,,0,0,0,,the hero throws the car\ninto reverse and backs up,
+Dialogue: 0,0:07:55.04,0:07:57.54,Default,,0,0,0,,bobbing and weaving through\ntraffic at high speed
+Dialogue: 0,0:07:57.54,0:08:00.71,Default,,0,0,0,,to eventually\nevade his chaser.
+Dialogue: 0,0:08:00.71,0:08:02.24,Default,,0,0,0,,and you wanna know\nif this is possible.
+Dialogue: 0,0:08:02.24,0:08:03.64,Default,,0,0,0,,i totally do.
+Dialogue: 0,0:08:03.65,0:08:05.04,Default,,0,0,0,,we've been trained to drive\nin a lot of different ways
+Dialogue: 0,0:08:05.05,0:08:07.71,Default,,0,0,0,,over the years, but backwards\nisn't one of them.
+Dialogue: 0,0:08:07.72,0:08:10.35,Default,,0,0,0,,and it involves a lot of\ndifferent skills,
+Dialogue: 0,0:08:10.35,0:08:12.75,Default,,0,0,0,,not only driving ability\nand spatial awareness but also,
+Dialogue: 0,0:08:12.75,0:08:15.62,Default,,0,0,0,,really, proprioception.\nyeah, yeah.
+Dialogue: 0,0:08:15.62,0:08:17.69,Default,,0,0,0,,let's get to driving.\n- okay.
+Dialogue: 0,0:08:25.97,0:08:28.87,Default,,0,0,0,,beautiful day.
+Dialogue: 0,0:08:28.87,0:08:30.87,Default,,0,0,0,,wide-open, empty runway.
+Dialogue: 0,0:08:30.87,0:08:33.57,Default,,0,0,0,,the conditions are perfect.
+Dialogue: 0,0:08:33.58,0:08:37.98,Default,,0,0,0,,oh, wait.\nwe need a car.
+Dialogue: 0,0:08:41.05,0:08:45.02,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:08:45.02,0:08:47.59,Default,,0,0,0,,you ordered a car?\nindeed i did, sir.
+Dialogue: 0,0:08:47.59,0:08:49.69,Default,,0,0,0,,perfect timing.\n- [ laughs ]
+Dialogue: 0,0:08:53.46,0:08:55.86,Default,,0,0,0,,you know, the movies are packed\nwith people who can drive well,
+Dialogue: 0,0:08:55.86,0:08:57.63,Default,,0,0,0,,but they would lead you to\nbelieve that you could drive
+Dialogue: 0,0:08:57.63,0:09:00.77,Default,,0,0,0,,forward or reverse,\nhowever you choose.
+Dialogue: 0,0:09:00.77,0:09:03.44,Default,,0,0,0,,we are constantly seeing\nour movie heroes racing away
+Dialogue: 0,0:09:03.44,0:09:06.31,Default,,0,0,0,,from the bad guys,\navoiding obstacles,
+Dialogue: 0,0:09:06.31,0:09:08.78,Default,,0,0,0,,and driving all over the place\nwith the rear end of the car
+Dialogue: 0,0:09:08.78,0:09:12.85,Default,,0,0,0,,facing the direction\nthat they are actually going.
+Dialogue: 0,0:09:12.85,0:09:16.28,Default,,0,0,0,,narrator: but before trying out\nany twists or turns...
+Dialogue: 0,0:09:16.28,0:09:19.32,Default,,0,0,0,,and...that's a quarter mile.
+Dialogue: 0,0:09:19.32,0:09:20.89,Default,,0,0,0,,narrator:\nthe guys first want to know if
+Dialogue: 0,0:09:20.89,0:09:24.79,Default,,0,0,0,,cars can even reverse\nhollywood-fast in real life.
+Dialogue: 0,0:09:24.79,0:09:27.73,Default,,0,0,0,,and for that, they're hitting\nthe straightaway.
+Dialogue: 0,0:09:27.73,0:09:30.30,Default,,0,0,0,,we've set up a course\nthat's measured.
+Dialogue: 0,0:09:30.30,0:09:32.33,Default,,0,0,0,,and we're gonna test out\nthese cars,
+Dialogue: 0,0:09:32.33,0:09:34.07,Default,,0,0,0,,see how fast they go\nin forward
+Dialogue: 0,0:09:34.07,0:09:36.70,Default,,0,0,0,,and compare that to how fast\nthey go in reverse.
+Dialogue: 0,0:09:39.81,0:09:41.77,Default,,0,0,0,,all right, mr. hyneman,\nare you ready?
+Dialogue: 0,0:09:41.78,0:09:44.14,Default,,0,0,0,,i'm good to go.
+Dialogue: 0,0:09:44.15,0:09:45.98,Default,,0,0,0,,all right,\ncommence quarter-mile test
+Dialogue: 0,0:09:45.98,0:09:48.68,Default,,0,0,0,,in 3, 2, 1...go.
+Dialogue: 0,0:09:48.68,0:09:50.08,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:09:52.92,0:09:56.12,Default,,0,0,0,,here it comes.
+Dialogue: 0,0:09:56.12,0:09:58.26,Default,,0,0,0,,80 per hour.
+Dialogue: 0,0:10:00.93,0:10:03.36,Default,,0,0,0,,narrator: it's a good start\nfor their converted cab.
+Dialogue: 0,0:10:03.37,0:10:07.00,Default,,0,0,0,,but how will that speed compare\nwhen it's back-to-front?
+Dialogue: 0,0:10:07.00,0:10:08.74,Default,,0,0,0,,most cars that\nyou're ever gonna run into
+Dialogue: 0,0:10:08.74,0:10:10.10,Default,,0,0,0,,have only one reverse gear,
+Dialogue: 0,0:10:10.11,0:10:12.74,Default,,0,0,0,,which means that the top speed\nof your car in reverse
+Dialogue: 0,0:10:12.74,0:10:15.58,Default,,0,0,0,,is ultimately limited by\nthe reverse gearing
+Dialogue: 0,0:10:15.58,0:10:17.94,Default,,0,0,0,,and the speed at which\nthe engine is turning over.
+Dialogue: 0,0:10:17.95,0:10:19.88,Default,,0,0,0,,now, will our car\nbe able to go as fast
+Dialogue: 0,0:10:19.88,0:10:21.91,Default,,0,0,0,,as they seem to go in\nthe movies?
+Dialogue: 0,0:10:21.92,0:10:24.22,Default,,0,0,0,,that is just what\nwe're about to find out.
+Dialogue: 0,0:10:24.22,0:10:31.09,Default,,0,0,0,,okay, commence backwards\nquarter mile in 3, 2, 1...go.
+Dialogue: 0,0:10:31.09,0:10:33.19,Default,,0,0,0,,narrator: jamie's off.
+Dialogue: 0,0:10:33.19,0:10:34.56,Default,,0,0,0,,but from the get-go,
+Dialogue: 0,0:10:34.56,0:10:37.26,Default,,0,0,0,,it's clear that he's less\n"fast and furious"...
+Dialogue: 0,0:10:40.17,0:10:42.90,Default,,0,0,0,,...and more\n"driving miss daisy."
+Dialogue: 0,0:10:44.51,0:10:48.44,Default,,0,0,0,,but that's because he's using\nthis run to get his eye in.
+Dialogue: 0,0:10:48.44,0:10:50.94,Default,,0,0,0,,31 miles per hour.\ni think he can do better.
+Dialogue: 0,0:10:50.95,0:10:52.51,Default,,0,0,0,,i think he's got more.
+Dialogue: 0,0:10:52.51,0:10:55.78,Default,,0,0,0,,narrator:\nyup, it's test two,
+Dialogue: 0,0:10:55.78,0:10:57.45,Default,,0,0,0,,where the rubber will meet\nthe road.
+Dialogue: 0,0:10:57.45,0:11:00.39,Default,,0,0,0,,okay, adam, i'm in place\nand ready to go in reverse.
+Dialogue: 0,0:11:00.39,0:11:01.62,Default,,0,0,0,,narrator:\nas jamie, this time,
+Dialogue: 0,0:11:01.62,0:11:03.92,Default,,0,0,0,,plans to put the pedal\nto the metal.
+Dialogue: 0,0:11:03.93,0:11:07.19,Default,,0,0,0,,all right, mr. hyneman,\nin 3, 2, 1...go.
 Dialogue: 0,0:11:14.67,0:11:21.04,Default,,0,0,0,,49, 50, 52, 53.
-Dialogue: 0,0:11:24.58,0:11:26.51,Default,,0,0,0,,54 MILES PER HOUR.
-Dialogue: 0,0:11:26.51,0:11:28.65,Default,,0,0,0,,Narrator:\NNOW, THAT'S MORE LIKE IT.
-Dialogue: 0,0:11:28.65,0:11:31.18,Default,,0,0,0,,REACHING FREEWAY SPEEDS\NIS MORE THAN A MATCH
-Dialogue: 0,0:11:31.19,0:11:35.49,Default,,0,0,0,,FOR A HOLLYWOOD HERO,\NBUT IT'S NOT ALL GOOD NEWS.
-Dialogue: 0,0:11:35.49,0:11:37.06,Default,,0,0,0,,THE TRICK WITH DRIVING\NAT HIGH SPEED IN REVERSE
-Dialogue: 0,0:11:37.06,0:11:38.96,Default,,0,0,0,,WAS TO NOT DO VERY MUCH,
-Dialogue: 0,0:11:38.96,0:11:41.29,Default,,0,0,0,,JUST KIND OF HOLD STILL\NAND TRY AND KEEP THE CAR
-Dialogue: 0,0:11:41.30,0:11:42.86,Default,,0,0,0,,IN A STRAIGHT LINE.
-Dialogue: 0,0:11:42.86,0:11:46.10,Default,,0,0,0,,BUT UNFORTUNATELY, WE'RE NOT\NGOING TO HAVE THAT OPTION NOW
-Dialogue: 0,0:11:46.10,0:11:49.10,Default,,0,0,0,,BECAUSE, NOW WE'VE GOT TO DRIVE\NTHROUGH A SLALOM IN REVERSE.
-Dialogue: 0,0:11:49.10,0:11:51.30,Default,,0,0,0,,AND THAT'S ALL ABOUT STEERING.
-Dialogue: 0,0:11:51.31,0:11:52.67,Default,,0,0,0,,THAT'S GONNA BE REALLY HARD.
-Dialogue: 0,0:11:54.38,0:11:56.01,Default,,0,0,0,,Narrator: STILL TO COME...\NBYE, COP.
-Dialogue: 0,0:11:56.01,0:11:59.18,Default,,0,0,0,,Narrator: BACKUP BOLOGNA\NGETS A MOVIE MAKEOVER.
-Dialogue: 0,0:11:59.18,0:12:00.98,Default,,0,0,0,,YEAH!
-Dialogue: 0,0:12:00.98,0:12:02.65,Default,,0,0,0,,Narrator: AND...\N- HELLO.
-Dialogue: 0,0:12:02.65,0:12:04.88,Default,,0,0,0,,...HANDS-FREE GOES HIGH-TECH.
-Dialogue: 0,0:12:04.89,0:12:06.92,Default,,0,0,0,,AHH!
-Dialogue: 0,0:12:06.92,0:12:08.85,Default,,0,0,0,,[ LAUGHS ]
-Dialogue: 0,0:12:14.76,0:12:17.06,Default,,0,0,0,,Narrator: IS DRIVING AT SPEED\NIN REVERSE
-Dialogue: 0,0:12:17.06,0:12:19.26,Default,,0,0,0,,AS EASY AS THE MOVIES MAKE OUT?
-Dialogue: 0,0:12:19.27,0:12:21.70,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:12:21.70,0:12:23.90,Default,,0,0,0,,WELL, NOT IF ADAM'S\NSTRAIGHT LINE TEST...
-Dialogue: 0,0:12:23.90,0:12:25.54,Default,,0,0,0,,Jamie: COMING UP FAST.
-Dialogue: 0,0:12:25.54,0:12:26.97,Default,,0,0,0,,Narrator:\N...IS ANYTHING TO GO BY.
-Dialogue: 0,0:12:26.97,0:12:29.57,Default,,0,0,0,,Adam: AHH!
-Dialogue: 0,0:12:29.58,0:12:31.24,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:12:31.24,0:12:33.45,Default,,0,0,0,,WHOA!
-Dialogue: 0,0:12:33.45,0:12:34.85,Default,,0,0,0,,THERE ARE A COUPLE REASONS THAT\NCARS ARE DIFFICULT TO DRIVE
-Dialogue: 0,0:12:34.85,0:12:36.51,Default,,0,0,0,,AT HIGH SPEED IN REVERSE.
-Dialogue: 0,0:12:36.52,0:12:39.78,Default,,0,0,0,,[ LAUGHS ] HEY. YEAH, YOU\NSTARTED TO LOSE IT AT ABOUT 50.
-Dialogue: 0,0:12:39.79,0:12:41.32,Default,,0,0,0,,YEAH, MAN.
-Dialogue: 0,0:12:41.32,0:12:42.49,Default,,0,0,0,,Jamie: AND THE FIRST IS THAT
-Dialogue: 0,0:12:42.49,0:12:43.76,Default,,0,0,0,,THE STEERING IS NOT\NSELF-CENTERING.
-Dialogue: 0,0:12:43.76,0:12:46.26,Default,,0,0,0,,IF YOU LET GO OF THE WHEEL\NOF A CAR GOING FORWARD
-Dialogue: 0,0:12:46.26,0:12:49.16,Default,,0,0,0,,FOR JUST A SECOND,\NIT'LL TEND TO SELF-CORRECT
-Dialogue: 0,0:12:49.16,0:12:51.33,Default,,0,0,0,,BECAUSE OF THE OFFSET\NOF THE WHEELS.
-Dialogue: 0,0:12:51.33,0:12:53.80,Default,,0,0,0,,IF YOU'RE GOING IN REVERSE,\NIT DOES THE OPPOSITE.
-Dialogue: 0,0:12:53.80,0:12:55.37,Default,,0,0,0,,IF YOU LET GO OF THAT WHEEL,
-Dialogue: 0,0:12:55.37,0:12:57.37,Default,,0,0,0,,YOU'RE GONNA GO HARD\NTO THE SIDE,
-Dialogue: 0,0:12:57.37,0:12:59.77,Default,,0,0,0,,AND YOU'RE GONNA DO A 180,\NAND THAT'S DANGEROUS.
-Dialogue: 0,0:12:59.77,0:13:03.64,Default,,0,0,0,,AND CORRECT A LITTLE TOO MUCH,\NYOU'RE GONNA LOSE IT.
-Dialogue: 0,0:13:03.64,0:13:05.74,Default,,0,0,0,,THE OTHER THING IS THAT\NIT'S ALL ABOUT PERSPECTIVE.
-Dialogue: 0,0:13:05.75,0:13:07.51,Default,,0,0,0,,WHEN YOU'RE GOING FORWARDS,\NWITH YOUR HEAD IN ALIGN
-Dialogue: 0,0:13:07.51,0:13:09.81,Default,,0,0,0,,WITH THE STEERING WHEEL,\NDRIVING'S REALLY INTUITIVE.
-Dialogue: 0,0:13:09.82,0:13:12.58,Default,,0,0,0,,BUT IN REVERSE, YOU'RE EITHER\NLOOKING INTO THE MIRROR
-Dialogue: 0,0:13:12.59,0:13:14.05,Default,,0,0,0,,OR OVER YOUR SHOULDER,
-Dialogue: 0,0:13:14.05,0:13:15.92,Default,,0,0,0,,MEANING YOUR BRAIN'S HAVING TO\NMAKE COMPLEX DECISIONS
-Dialogue: 0,0:13:15.92,0:13:18.42,Default,,0,0,0,,FROM A VIEWPOINT\NTHAT IT'S JUST NOT USED TO.
-Dialogue: 0,0:13:18.43,0:13:19.99,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:13:19.99,0:13:22.73,Default,,0,0,0,,AND SO, WHEN THINGS GO WRONG,
-Dialogue: 0,0:13:22.73,0:13:25.26,Default,,0,0,0,,YOU'RE GONNA FLIP THE CAR\NOR SOMETHING BAD.
-Dialogue: 0,0:13:25.27,0:13:28.97,Default,,0,0,0,,Narrator: GIVEN THEIR STRUGGLES\NON THE STRAIGHTAWAY,
-Dialogue: 0,0:13:28.97,0:13:31.47,Default,,0,0,0,,TODAY'S TEST LOOKS TERRIFYING.
-Dialogue: 0,0:13:31.47,0:13:35.21,Default,,0,0,0,,THIS IS WHAT WE CALL THE "DIVING\NIN AT THE DEEP END" TEST.
-Dialogue: 0,0:13:35.21,0:13:37.54,Default,,0,0,0,,WE'VE GOT A COURSE THAT'S FULL\NOF THE KIND OF CHALLENGES
-Dialogue: 0,0:13:37.54,0:13:40.55,Default,,0,0,0,,A HOLLYWOOD HERO HAS TO FACE,\NAND WE'RE GOING TO SEE IF WE CAN
-Dialogue: 0,0:13:40.55,0:13:44.12,Default,,0,0,0,,REVERSE THROUGH IT\NAT HIGH SPEEDS WITHOUT CRASHING.
-Dialogue: 0,0:13:44.12,0:13:47.32,Default,,0,0,0,,[ LAUGHS ]\NTHIS IS WHY WE HAVE INSURANCE.
-Dialogue: 0,0:13:47.32,0:13:49.62,Default,,0,0,0,,Narrator: IT'S A COURSE THAT\NA MOVIE MAESTRO
-Dialogue: 0,0:13:49.62,0:13:51.32,Default,,0,0,0,,WOULD FINISH IN A FLASH.
-Dialogue: 0,0:13:51.32,0:13:53.76,Default,,0,0,0,,BUT HOW WILL\NTHE MYTHBUSTERS MANAGE?
-Dialogue: 0,0:13:57.73,0:13:59.00,Default,,0,0,0,,ALL RIGHT.
-Dialogue: 0,0:13:59.00,0:14:04.70,Default,,0,0,0,,FIRST RUN IN 3, 2, 1...GO.
-Dialogue: 0,0:14:04.71,0:14:06.40,Default,,0,0,0,,Narrator: ADAM'S OFF.
-Dialogue: 0,0:14:06.41,0:14:09.47,Default,,0,0,0,,AND FROM THE OUTSET,\NHE'S IGNORING THE MIRRORS...
-Dialogue: 0,0:14:09.48,0:14:11.84,Default,,0,0,0,,WHOA.
-Dialogue: 0,0:14:11.85,0:14:13.38,Default,,0,0,0,,OH, THERE GOES A CONE.
-Dialogue: 0,0:14:13.38,0:14:17.02,Default,,0,0,0,,Narrator: AND GOING WITH\NTHE OVER-THE-SHOULDER TECHNIQUE.
-Dialogue: 0,0:14:17.02,0:14:18.95,Default,,0,0,0,,AH, [BLEEP]!
-Dialogue: 0,0:14:21.09,0:14:24.76,Default,,0,0,0,,Narrator: BUT IT'S HARDLY\NPAYING DIVIDENDS.
-Dialogue: 0,0:14:24.76,0:14:28.76,Default,,0,0,0,,BECAUSE NOT ONLY POOR STEERING\NCRIPPLE HIS CONE COUNT...
-Dialogue: 0,0:14:30.96,0:14:32.76,Default,,0,0,0,,AH.
-Dialogue: 0,0:14:32.77,0:14:37.70,Default,,0,0,0,,Narrator: BUT HIS SLOW SPEED\NMEANS HIS TIME IS TERRIBLE.
-Dialogue: 0,0:14:37.70,0:14:39.97,Default,,0,0,0,,[ LAUGHS ]
-Dialogue: 0,0:14:39.97,0:14:40.97,Default,,0,0,0,,HOW DID I DO?
-Dialogue: 0,0:14:40.97,0:14:43.27,Default,,0,0,0,,1 MINUTE 7 SECONDS.
-Dialogue: 0,0:14:43.28,0:14:45.21,Default,,0,0,0,,1 MINUTE, 7 SECONDS?
-Dialogue: 0,0:14:45.21,0:14:49.08,Default,,0,0,0,,I'LL TELL YOU WHAT THAT DOES.\NIT WREAKS HAVOC ON MY NECK.
-Dialogue: 0,0:14:52.95,0:14:56.62,Default,,0,0,0,,WELL, I-I HAD A COUPLE OF\NSCREWUPS ON THAT ONE.
-Dialogue: 0,0:14:56.62,0:14:59.46,Default,,0,0,0,,IT'S VERY HARD TO GAUGE\NHOW HARD YOU NEED TO
-Dialogue: 0,0:14:59.46,0:15:02.29,Default,,0,0,0,,HIT A TURN IN REVERSE
-Dialogue: 0,0:15:02.30,0:15:04.56,Default,,0,0,0,,BECAUSE ALL OF YOUR METRICS\NFOR REACTION,
-Dialogue: 0,0:15:04.56,0:15:06.30,Default,,0,0,0,,IN TERMS OF HOW THE CAR MOVES,
-Dialogue: 0,0:15:06.30,0:15:07.77,Default,,0,0,0,,ARE WAY OFF-KILTER.
-Dialogue: 0,0:15:07.77,0:15:10.10,Default,,0,0,0,,IT'S A FAR MORE SENSITIVE\NDEVICE IN REVERSE.
-Dialogue: 0,0:15:12.24,0:15:14.87,Default,,0,0,0,,Narrator: INDEED,\NBUT CAN JAMIE MASTER THE METHOD
-Dialogue: 0,0:15:14.88,0:15:17.51,Default,,0,0,0,,AND REVERSE\NTHIS MYTH'S FORTUNES?
-Dialogue: 0,0:15:17.51,0:15:19.01,Default,,0,0,0,,[ ENGINE STARTS ]\NALL RIGHT, COWBOY.
-Dialogue: 0,0:15:19.01,0:15:22.21,Default,,0,0,0,,HERE WE GO\NIN 3, 2, 1...GO.
-Dialogue: 0,0:15:22.22,0:15:25.48,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:15:25.49,0:15:27.32,Default,,0,0,0,,[ LAUGHS ]\NI LOVE THAT THIS IS OUR JOB.
-Dialogue: 0,0:15:27.32,0:15:29.92,Default,,0,0,0,,Narrator: UNLIKE ADAM,\NJAMIE'S USING THE MIRRORS
-Dialogue: 0,0:15:29.92,0:15:32.16,Default,,0,0,0,,AND THE OVER-THE-SHOULDER\NSYSTEM.
-Dialogue: 0,0:15:32.16,0:15:34.56,Default,,0,0,0,,BUT IT'S NOT\NA WINNING COMBINATION...
-Dialogue: 0,0:15:34.56,0:15:37.53,Default,,0,0,0,,[ TIRES SQUEAL ]\N[ LAUGHING ]
-Dialogue: 0,0:15:37.53,0:15:38.76,Default,,0,0,0,,[ SHIFTS GEARS ]
-Dialogue: 0,0:15:38.77,0:15:40.37,Default,,0,0,0,,Narrator:\NBECAUSE HIS CRASH COURSE
-Dialogue: 0,0:15:40.37,0:15:42.60,Default,,0,0,0,,IS EVEN WORSE THAN ADAM'S.
-Dialogue: 0,0:15:45.64,0:15:48.37,Default,,0,0,0,,BUT EVENTUALLY,\NHE CRAWLS TO THE FINISH LINE
-Dialogue: 0,0:15:48.38,0:15:51.14,Default,,0,0,0,,IN A SLUGGISH 72 SECONDS...
-Dialogue: 0,0:15:51.14,0:15:52.48,Default,,0,0,0,,[ TIRES SCREECH ]\N[ LAUGHS ]
-Dialogue: 0,0:15:52.48,0:15:53.68,Default,,0,0,0,,[ GROANS ]
-Dialogue: 0,0:15:55.45,0:15:58.82,Default,,0,0,0,,Narrator: ...WHICH IS NOT\NGOOD NEWS FOR THE MYTH.
-Dialogue: 0,0:15:58.82,0:16:01.25,Default,,0,0,0,,OKAY, YOU WIN.\N- [ LAUGHS ]
-Dialogue: 0,0:16:01.25,0:16:03.56,Default,,0,0,0,,Narrator:\NBUT ALL IS NOT LOST.
-Dialogue: 0,0:16:03.56,0:16:06.69,Default,,0,0,0,,LOOK, THERE IS NO DOUBT THAT\NTHIS TEST WAS HARD.
-Dialogue: 0,0:16:06.69,0:16:08.16,Default,,0,0,0,,AH!
-Dialogue: 0,0:16:08.16,0:16:10.16,Default,,0,0,0,,THE COURSE WAS DIFFICULT,\NAND WE ARE AT THE NOVICE END
-Dialogue: 0,0:16:10.16,0:16:11.86,Default,,0,0,0,,OF THE REVERSE DRIVING SPECTRUM.
-Dialogue: 0,0:16:11.87,0:16:14.10,Default,,0,0,0,,BUT WITH SOME EXPERT TRAINING,
-Dialogue: 0,0:16:14.10,0:16:16.80,Default,,0,0,0,,WILL WE BE ABLE TO BRING THIS\NMYTH BACK FROM THE BRINK?
-Dialogue: 0,0:16:16.80,0:16:18.54,Default,,0,0,0,,THAT'S WHAT'S NEXT.
-Dialogue: 0,0:16:18.54,0:16:21.17,Default,,0,0,0,,Narrator:\NACTUALLY, NOT QUITE.
-Dialogue: 0,0:16:21.17,0:16:27.11,Default,,0,0,0,,BECAUSE NEXT, THE GUYS ARE\NJUMPING SHIP BACK TO ALAMEDA
-Dialogue: 0,0:16:27.11,0:16:29.91,Default,,0,0,0,,TO FIND OUT IF HANDS-FREE IS\NAS DISTRACTING
-Dialogue: 0,0:16:29.92,0:16:31.52,Default,,0,0,0,,AS HOLDING THE PHONE.\N[ CELL PHONE RINGS ]
-Dialogue: 0,0:16:31.52,0:16:32.85,Default,,0,0,0,,UH, HELLO, JAMIE.
-Dialogue: 0,0:16:32.85,0:16:36.15,Default,,0,0,0,,Narrator: ADAM STARTED\NWITH A HANDS-FULL CONTROL...
-Dialogue: 0,0:16:36.16,0:16:37.69,Default,,0,0,0,,OH, WHOA. WHOA.
-Dialogue: 0,0:16:37.69,0:16:39.66,Default,,0,0,0,,Narrator:\NTHAT WENT SO BADLY...
-Dialogue: 0,0:16:39.66,0:16:40.73,Default,,0,0,0,,RIGHT.
-Dialogue: 0,0:16:40.73,0:16:41.96,Default,,0,0,0,,Narrator:\NHIS CAR REFUSED TO CONTINUE.
-Dialogue: 0,0:16:41.96,0:16:45.33,Default,,0,0,0,,OKAY.\N- [ ENGINE SPUTTERS ]
-Dialogue: 0,0:16:45.33,0:16:47.20,Default,,0,0,0,,Narrator:\NSO IT'S OUT WITH THE OLD.
-Dialogue: 0,0:16:47.20,0:16:48.40,Default,,0,0,0,,ALL RIGHT, DAVE.\NLET'S DO IT.
-Dialogue: 0,0:16:48.40,0:16:49.77,Default,,0,0,0,,Narrator:\NAND IN WITH THE NEW.
-Dialogue: 0,0:16:49.77,0:16:54.34,Default,,0,0,0,,BUT WILL GOING HANDS-FREE\NREALLY BE JUST AS BAD?
-Dialogue: 0,0:16:54.34,0:16:56.11,Default,,0,0,0,,[ LINE RINGING ]\NHERE WE GO.
-Dialogue: 0,0:16:56.11,0:16:57.88,Default,,0,0,0,,[ BEEP ]\N- WHY, HELLO, THIS IS ADAM.
-Dialogue: 0,0:16:57.88,0:17:00.45,Default,,0,0,0,,WELL, HELLO THERE, ADAM.\NShould I start driving?
-Dialogue: 0,0:17:00.45,0:17:02.48,Default,,0,0,0,,Yes. Go ahead.\N- OKAY.
-Dialogue: 0,0:17:02.48,0:17:05.62,Default,,0,0,0,,Narrator: LIKE LAST TIME,\NADAM MUST COMPLETE THE COURSE
-Dialogue: 0,0:17:05.62,0:17:08.05,Default,,0,0,0,,WHILE ANSWERING QUESTIONS\NBOTH EASY...
-Dialogue: 0,0:17:08.05,0:17:11.49,Default,,0,0,0,,OKAY, ON WHICH CONTINENT IS\NTHE SAHARA DESERT?
-Dialogue: 0,0:17:11.49,0:17:14.26,Default,,0,0,0,,THE SAHARA DESERT IS ON\NTHE AFRICAN CONTINENT.
-Dialogue: 0,0:17:14.26,0:17:16.16,Default,,0,0,0,,Narrator: AND HARD.
-Dialogue: 0,0:17:16.16,0:17:18.20,Default,,0,0,0,,IF BUSTER WALKS HALFWAY\NAROUND A CIRCLE
-Dialogue: 0,0:17:18.20,0:17:20.23,Default,,0,0,0,,AND THEN TURNS AROUND\NAND WALKS HALFWAY BACK,
-Dialogue: 0,0:17:20.23,0:17:22.07,Default,,0,0,0,,IS HE NOW BACK\NWHERE HE STARTED?
-Dialogue: 0,0:17:22.07,0:17:23.60,Default,,0,0,0,,YES, HE IS.
-Dialogue: 0,0:17:23.60,0:17:25.70,Default,,0,0,0,,NO, HE'S HALFWAY BACK.
-Dialogue: 0,0:17:25.71,0:17:27.31,Default,,0,0,0,,[ Laughs ]\N- AH.
-Dialogue: 0,0:17:27.31,0:17:28.67,Default,,0,0,0,,OKAY.
-Dialogue: 0,0:17:28.68,0:17:31.94,Default,,0,0,0,,Narrator: BUT DESPITE\NTHE OBVIOUS BURDEN ON HIS BRAIN,
-Dialogue: 0,0:17:31.95,0:17:33.85,Default,,0,0,0,,HIS DRIVING HAS GOT BETTER.
-Dialogue: 0,0:17:33.85,0:17:38.28,Default,,0,0,0,,AND ALTHOUGH A CLIPPED CONE\NSEES HIM MARKED DOWN...
-Dialogue: 0,0:17:38.29,0:17:40.35,Default,,0,0,0,,[ LAUGHING ]\N- [ Laughs ]
-Dialogue: 0,0:17:40.35,0:17:42.69,Default,,0,0,0,,SORRY.\NI JUST HIT SOMETHING.
-Dialogue: 0,0:17:42.69,0:17:45.36,Default,,0,0,0,,Narrator:\NHIS FINAL SCORE HAS IMPROVED,
-Dialogue: 0,0:17:45.36,0:17:47.73,Default,,0,0,0,,BUT WAS IT DUE TO THE PHONE?
-Dialogue: 0,0:17:47.73,0:17:50.06,Default,,0,0,0,,Adam: WELL, I'VE COMPLETED\NMY HANDS-FREE RUN
-Dialogue: 0,0:17:50.06,0:17:54.60,Default,,0,0,0,,OF OUR DRIVING COURSE,\NAND I DID IT A LOT BETTER.
-Dialogue: 0,0:17:54.60,0:17:56.03,Default,,0,0,0,,BUT HERE'S THE THING,
-Dialogue: 0,0:17:56.04,0:17:59.57,Default,,0,0,0,,I FOUND TAKING THE QUESTIONS\NFROM JAMIE JUST AS DISTRACTING
-Dialogue: 0,0:17:59.57,0:18:00.97,Default,,0,0,0,,AS I DID THE FIRST TIME.
-Dialogue: 0,0:18:00.97,0:18:04.38,Default,,0,0,0,,I FEEL LIKE MY BETTER\NPERFORMANCE ON THE SECOND TEST
-Dialogue: 0,0:18:04.38,0:18:06.88,Default,,0,0,0,,COULD BE CHALKED UP TO JUST\NUNDERSTANDING THE COURSE
-Dialogue: 0,0:18:06.88,0:18:08.18,Default,,0,0,0,,A LITTLE BIT BETTER.
-Dialogue: 0,0:18:08.18,0:18:10.32,Default,,0,0,0,,BUT THAT'S WHY JAMIE'S\NGONNA START HANDS-FREE
-Dialogue: 0,0:18:10.32,0:18:11.78,Default,,0,0,0,,AND THEN GO TO HANDS-FULL.
-Dialogue: 0,0:18:11.79,0:18:13.79,Default,,0,0,0,,IF THAT IS IN EFFECT,\NWE SHOULD CANCEL IT OUT
-Dialogue: 0,0:18:13.79,0:18:17.12,Default,,0,0,0,,BY CHANGING THE ORDER\NTHAT WE DO THE TEST IN.
-Dialogue: 0,0:18:17.12,0:18:18.56,Default,,0,0,0,,THAT'S THE THEORY, ANYWAY.
-Dialogue: 0,0:18:21.70,0:18:23.93,Default,,0,0,0,,WANT TO SEE\NWHAT YOU CAN DO WITH IT.
-Dialogue: 0,0:18:23.93,0:18:26.00,Default,,0,0,0,,I'M GONNA SUCK.\NI CAN TELL YOU ALREADY.
-Dialogue: 0,0:18:26.00,0:18:30.17,Default,,0,0,0,,Narrator: NOT ONLY WILL JAMIE\NINCREASE THEIR SAMPLE SIZE,
-Dialogue: 0,0:18:30.17,0:18:32.47,Default,,0,0,0,,BUT BY GOING HANDS-FREE FIRST...
-Dialogue: 0,0:18:32.47,0:18:35.07,Default,,0,0,0,,JAMIE AND I ALMOST NEVER\NACTUALLY SPEAK ON THE PHONE.
-Dialogue: 0,0:18:35.08,0:18:37.94,Default,,0,0,0,,SO THIS ACTUALLY HAS A BIT OF\NNOVELTY TO ME.
-Dialogue: 0,0:18:37.94,0:18:39.04,Default,,0,0,0,,Narrator:\NTHE GUYS ARE TRYING TO ELIMINATE
-Dialogue: 0,0:18:39.05,0:18:41.45,Default,,0,0,0,,ANY COURSE-LEARNING BIAS.
-Dialogue: 0,0:18:41.45,0:18:45.32,Default,,0,0,0,,[ LINE RINGING ]\NTHIS IS JAMIE.
-Dialogue: 0,0:18:45.32,0:18:47.22,Default,,0,0,0,,AH, GOOD AFTERNOON, JAMIE.\NIT'S ADAM.
-Dialogue: 0,0:18:47.22,0:18:48.75,Default,,0,0,0,,Go ahead and start driving,
-Dialogue: 0,0:18:48.76,0:18:50.56,Default,,0,0,0,,and I'm going to start\Nasking you some questions.
-Dialogue: 0,0:18:50.56,0:18:53.99,Default,,0,0,0,,Narrator: ADAM STARTS\NWITH A SIMPLE ICEBREAKER.
-Dialogue: 0,0:18:53.99,0:18:56.36,Default,,0,0,0,,ALL RIGHT, HEY, JAMIE,\NIF YOU COULD WAKE UP TOMORROW
-Dialogue: 0,0:18:56.36,0:18:59.10,Default,,0,0,0,,AND GAIN ANY SINGLE\NQUALITY OR ABILITY,
-Dialogue: 0,0:18:59.10,0:19:01.33,Default,,0,0,0,,WHAT WOULD IT BE AND WHY?
-Dialogue: 0,0:19:01.33,0:19:04.77,Default,,0,0,0,,UM, I COULD FLY.
-Dialogue: 0,0:19:04.77,0:19:06.10,Default,,0,0,0,,WHY?
-Dialogue: 0,0:19:06.11,0:19:08.01,Default,,0,0,0,,Narrator: BUT EVEN THAT PROVES\NTOO MUCH FOR JAMIE.
-Dialogue: 0,0:19:08.01,0:19:11.24,Default,,0,0,0,,WELL, UH,\NBECAUSE THEN I COULD GO, UM...
-Dialogue: 0,0:19:11.24,0:19:12.91,Default,,0,0,0,,WHAT WAS THE QUESTION AGAIN?
-Dialogue: 0,0:19:12.91,0:19:14.51,Default,,0,0,0,,WHY WOULD YOU LIKE TO FLY?
-Dialogue: 0,0:19:14.51,0:19:18.88,Default,,0,0,0,,UH, WELL, BECAUSE,\NTHAT WOULD, UH,
-Dialogue: 0,0:19:18.89,0:19:21.59,Default,,0,0,0,,IT WOULD SAVE A LOT OF\NGASOLINE ACTUALLY.
-Dialogue: 0,0:19:21.59,0:19:24.29,Default,,0,0,0,,AND, UH, YOU KNOW,\NI COULD, UH,
-Dialogue: 0,0:19:24.29,0:19:25.36,Default,,0,0,0,,OH, LOOK AT THAT.
-Dialogue: 0,0:19:25.36,0:19:26.76,Default,,0,0,0,,I BUMPED OVER\NA WHOLE BUNCH OF THINGS.
-Dialogue: 0,0:19:26.76,0:19:28.29,Default,,0,0,0,,[ LAUGHS ]
-Dialogue: 0,0:19:28.29,0:19:30.73,Default,,0,0,0,,Narrator: WITH NO IMPROVEMENT\NOVER THE REST OF THE COURSE...
-Dialogue: 0,0:19:30.73,0:19:33.06,Default,,0,0,0,,I'D LIKE YOU TO ADD\NTHE NUMBERS 4 AND 7.
-Dialogue: 0,0:19:33.07,0:19:38.20,Default,,0,0,0,,LET'S SEE.\NUH, 4 AND 7, UH...
-Dialogue: 0,0:19:38.20,0:19:40.54,Default,,0,0,0,,Uh...
-Dialogue: 0,0:19:40.54,0:19:41.94,Default,,0,0,0,,TICKTOCK, GRANDPA.
-Dialogue: 0,0:19:41.94,0:19:44.94,Default,,0,0,0,,10 -- OR, NO, 11.
-Dialogue: 0,0:19:44.94,0:19:47.78,Default,,0,0,0,,Narrator: JAMIE SCORES\NTHE WORST RESULT OF THE DAY --
-Dialogue: 0,0:19:47.78,0:19:50.15,Default,,0,0,0,,A DISAPPOINTING 66.
-Dialogue: 0,0:19:50.15,0:19:51.88,Default,,0,0,0,,THAT WAS AWESOME.
-Dialogue: 0,0:19:51.89,0:19:56.05,Default,,0,0,0,,HE STARTS EVERY ANSWER\NWITH, "LET'S SEE." [ LAUGHS ]
-Dialogue: 0,0:19:56.06,0:19:58.29,Default,,0,0,0,,I'M SURE I WAS DOING\NTHE SAME THINGS,
-Dialogue: 0,0:19:58.29,0:20:01.66,Default,,0,0,0,,BUT IT'S JUST VERY ENJOYABLE TO\NLISTEN TO SOMEONE SO DISTRACTED.
-Dialogue: 0,0:20:03.06,0:20:04.76,Default,,0,0,0,,Narrator:\NA QUICK RESET LATER,
-Dialogue: 0,0:20:04.76,0:20:06.13,Default,,0,0,0,,[ CELL PHONE RINGS ]
-Dialogue: 0,0:20:06.13,0:20:07.70,Default,,0,0,0,,AND THEY'RE SET FOR\NTHE FOURTH AND FINAL RUN...
-Dialogue: 0,0:20:07.70,0:20:09.37,Default,,0,0,0,,HELLO.
-Dialogue: 0,0:20:09.37,0:20:10.44,Default,,0,0,0,,ALL RIGHT.\NSTART YOUR DRIVING.
-Dialogue: 0,0:20:10.44,0:20:11.94,Default,,0,0,0,,Narrator:\NJAMIE, HANDS-FULL.
-Dialogue: 0,0:20:11.94,0:20:14.17,Default,,0,0,0,,I'm going to read you\Na list of words
-Dialogue: 0,0:20:14.17,0:20:16.41,Default,,0,0,0,,and ask you to repeat them\Nin a reverse order.
-Dialogue: 0,0:20:16.41,0:20:18.78,Default,,0,0,0,,CRASH, BURN, DEMOLISH.
-Dialogue: 0,0:20:18.78,0:20:22.31,Default,,0,0,0,,UH, DEMOLISH, UH, BURN, CRASH.
-Dialogue: 0,0:20:22.32,0:20:24.92,Default,,0,0,0,,E.M.T., AMBULANCE, DOCTOR.
-Dialogue: 0,0:20:24.92,0:20:27.25,Default,,0,0,0,,THERE'S QUITE A NARRATIVE\NIMPLIED BY THESE.
-Dialogue: 0,0:20:27.25,0:20:30.56,Default,,0,0,0,,DOCTOR, AMBULANCE, E.M.T.\N- YES.
-Dialogue: 0,0:20:30.56,0:20:33.42,Default,,0,0,0,,Narrator: DESPITE HAVING ONLY\NONE HAND ON THE WHEEL
-Dialogue: 0,0:20:33.43,0:20:37.86,Default,,0,0,0,,AND SWAPPING THE PHONE\NMID-DRIVE, JAMIE SCORES 72,
-Dialogue: 0,0:20:37.86,0:20:42.00,Default,,0,0,0,,A FAIL BY SOME DISTANCE,\NBUT AN IMPROVEMENT NONETHELESS.
-Dialogue: 0,0:20:42.00,0:20:44.24,Default,,0,0,0,,SO, WHAT DOES THIS MEAN\NFOR THE MYTH?
-Dialogue: 0,0:20:44.24,0:20:46.17,Default,,0,0,0,,OKAY, NOW,\NFOR THIS MYTH TO BE TRUE,
-Dialogue: 0,0:20:46.17,0:20:50.14,Default,,0,0,0,,JAMIE'S HANDS-FREE SCORE HAD TO\NMATCH HIS HANDS-FULL SCORE.
-Dialogue: 0,0:20:50.14,0:20:51.31,Default,,0,0,0,,AND SO DID MINE.
-Dialogue: 0,0:20:51.31,0:20:53.85,Default,,0,0,0,,BUT THAT DIDN'T QUITE HAPPEN.
-Dialogue: 0,0:20:53.85,0:20:56.05,Default,,0,0,0,,GRAPHICS, HELP ME OUT.
-Dialogue: 0,0:20:56.05,0:20:57.72,Default,,0,0,0,,YOU CAN SEE THAT I DROVE BETTER\NHANDS-FREE,
-Dialogue: 0,0:20:57.72,0:20:59.88,Default,,0,0,0,,WHILE JAMIE DROVE\NBETTER HANDS-FULL.
-Dialogue: 0,0:20:59.89,0:21:02.62,Default,,0,0,0,,BUT THAT DATA ALSO SHOWS\NTHAT WE BOTH IMPROVED ON
-Dialogue: 0,0:21:02.62,0:21:06.26,Default,,0,0,0,,OUR SECOND RUNS BECAUSE WE HAD\NEXPERIENCE OF THE COURSE.
-Dialogue: 0,0:21:06.26,0:21:10.39,Default,,0,0,0,,NOW, IF WE REMOVE THAT BIAS BY\NAVERAGING JAMIE'S AND MY DATA,
-Dialogue: 0,0:21:10.40,0:21:12.23,Default,,0,0,0,,WHAT DO WE GET?
-Dialogue: 0,0:21:12.23,0:21:15.03,Default,,0,0,0,,BEAUTIFUL,\NNEAR-IDENTICAL SCORES
-Dialogue: 0,0:21:15.03,0:21:17.30,Default,,0,0,0,,FOR EACH OF THE TWO TECHNIQUES.
-Dialogue: 0,0:21:17.30,0:21:20.61,Default,,0,0,0,,BUT WE ARE NOT DONE YET,\NFOR TWO PARTICULAR REASONS.
-Dialogue: 0,0:21:20.61,0:21:23.34,Default,,0,0,0,,ONE, OUR COURSE\NISN'T VERY REAL-WORLD.
-Dialogue: 0,0:21:23.34,0:21:25.54,Default,,0,0,0,,FOR STARTERS,\NTHERE'S NO TRAFFIC.
-Dialogue: 0,0:21:25.55,0:21:27.45,Default,,0,0,0,,SECOND,\NAND PERHAPS MORE IMPORTANTLY,
-Dialogue: 0,0:21:27.45,0:21:29.31,Default,,0,0,0,,IS JAMIE'S\NAND MY DRIVING ABILITIES.
-Dialogue: 0,0:21:29.32,0:21:32.28,Default,,0,0,0,,WE HAVE BOTH RECEIVED\NTONS OF TRAINING OVER THE YEARS
-Dialogue: 0,0:21:32.29,0:21:33.95,Default,,0,0,0,,IN LOTS OF DIFFERENT\NDRIVING TECHNIQUES.
-Dialogue: 0,0:21:33.95,0:21:35.15,Default,,0,0,0,,WHOA!
-Dialogue: 0,0:21:35.16,0:21:36.72,Default,,0,0,0,,WHOO, YEAH!
-Dialogue: 0,0:21:36.72,0:21:38.99,Default,,0,0,0,,WE ARE QUITE FAR\NFROM YOUR AVERAGE JOES,
-Dialogue: 0,0:21:38.99,0:21:41.39,Default,,0,0,0,,AND THAT IS WHAT WE NEED NEXT.
-Dialogue: 0,0:21:44.80,0:21:51.10,Default,,0,0,0,,AAH!
-Dialogue: 0,0:21:51.10,0:21:53.20,Default,,0,0,0,,3, 2, 1...GO.
-Dialogue: 0,0:21:53.21,0:21:54.74,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:21:54.74,0:21:56.44,Default,,0,0,0,,Adam: NOW, JAMIE AND I HAVE\NALREADY GONE PRETTY FAR,
-Dialogue: 0,0:21:56.44,0:21:59.34,Default,,0,0,0,,TEACHING OURSELVES THE RUDIMENTS\NOF DRIVING IN REVERSE.
-Dialogue: 0,0:21:59.34,0:22:01.98,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:22:01.98,0:22:04.18,Default,,0,0,0,,[ LAUGHS ]
-Dialogue: 0,0:22:04.18,0:22:06.12,Default,,0,0,0,,BUT IF WE'RE GONNA GET\NREALLY GOOD AT THIS,
-Dialogue: 0,0:22:06.12,0:22:08.08,Default,,0,0,0,,WE'RE GONNA NEED TO\NGET TRAINED BY AN EXPERT.
-Dialogue: 0,0:22:08.09,0:22:11.49,Default,,0,0,0,,LUCKILY, WE HAVE AN EXPERT\NIN REVERSE TACTICAL DRIVING
-Dialogue: 0,0:22:11.49,0:22:13.56,Default,,0,0,0,,RIGHT HERE.
-Dialogue: 0,0:22:13.56,0:22:16.16,Default,,0,0,0,,HELLO, SIR. HELLO.
-Dialogue: 0,0:22:16.16,0:22:17.43,Default,,0,0,0,,Jamie:\NBRIAN FRAZER IS A TRAINER
-Dialogue: 0,0:22:17.43,0:22:19.43,Default,,0,0,0,,AT THE EMERGENCY VEHICLE\NOPERATIONS COURSE
-Dialogue: 0,0:22:19.43,0:22:20.96,Default,,0,0,0,,HERE IN CALIFORNIA.
-Dialogue: 0,0:22:20.97,0:22:23.80,Default,,0,0,0,,NOW, WE'VE USED HIM REPEATEDLY\NOVER PAST YEARS,
-Dialogue: 0,0:22:23.80,0:22:26.30,Default,,0,0,0,,WHENEVER WE'VE HAD TO LEARN\NHOW TO DEAL WITH A PARTICULARLY
-Dialogue: 0,0:22:26.30,0:22:29.21,Default,,0,0,0,,DIFFICULT DRIVING SITUATION.
-Dialogue: 0,0:22:29.21,0:22:33.64,Default,,0,0,0,,AND DRIVING AT SPEED\NIN REVERSE CERTAINLY QUALIFIES.
-Dialogue: 0,0:22:33.65,0:22:36.65,Default,,0,0,0,,ALL RIGHT, BRIAN.\NWHERE DO WE START?
-Dialogue: 0,0:22:36.65,0:22:39.02,Default,,0,0,0,,WE'RE GOING TO PUT BARREL HERE,\NTWO BARRELS HERE,
-Dialogue: 0,0:22:39.02,0:22:41.22,Default,,0,0,0,,ONE ON EACH SIDE OF THE CAR.\NALL RIGHT.
-Dialogue: 0,0:22:41.22,0:22:45.05,Default,,0,0,0,,Narrator: BRIAN'S FIRST JOB IS\NTO IGNORE THE CURRENT COURSE...
-Dialogue: 0,0:22:45.06,0:22:46.49,Default,,0,0,0,,RIGHT THERE IS GOOD.
-Dialogue: 0,0:22:46.49,0:22:48.29,Default,,0,0,0,,GOOD. GOOD ENDING POINT.\NAW.
-Dialogue: 0,0:22:48.29,0:22:50.56,Default,,0,0,0,,THIS IS WHY WE CAN'T HAVE\NNICE THINGS.
-Dialogue: 0,0:22:50.56,0:22:53.73,Default,,0,0,0,,Narrator: AND SET UP SOMETHING\NWAY MORE STRAIGHTFORWARD...
-Dialogue: 0,0:22:53.73,0:22:57.03,Default,,0,0,0,,ALL RIGHT, THAT'S THE COURSE.\NNOW WHAT DO WE DO?
-Dialogue: 0,0:22:57.04,0:22:59.20,Default,,0,0,0,,DRIVE IT.\N- OKAY. LET'S GO.
-Dialogue: 0,0:22:59.20,0:23:01.84,Default,,0,0,0,,Narrator: BECAUSE THE TECHNIQUE\NHE'S GOING TO TEACH
-Dialogue: 0,0:23:01.84,0:23:03.84,Default,,0,0,0,,IS SURPRISINGLY SIMPLE.
-Dialogue: 0,0:23:03.84,0:23:05.38,Default,,0,0,0,,SO I'M GONNA CHANGE\NMY SEATING POSITION NOW
-Dialogue: 0,0:23:05.38,0:23:06.88,Default,,0,0,0,,A LITTLE BIT.\N- OKAY.
-Dialogue: 0,0:23:06.88,0:23:10.15,Default,,0,0,0,,I'M GOING TO PROP MYSELF UP,\NLOOSEN MY SEAT BELT.
-Dialogue: 0,0:23:10.15,0:23:12.08,Default,,0,0,0,,TURN YOURSELF AS FAR AS\NYOU CAN AROUND.
-Dialogue: 0,0:23:12.08,0:23:13.98,Default,,0,0,0,,GET YOUR BODY ALMOST IN\NTHE CENTER OF THE -- OF THE CAR.
-Dialogue: 0,0:23:13.99,0:23:15.42,Default,,0,0,0,,OKAY.
-Dialogue: 0,0:23:15.42,0:23:17.29,Default,,0,0,0,,I'M GONNA STEER THE CAR NOW\NWITH ONE HAND.
-Dialogue: 0,0:23:17.29,0:23:19.52,Default,,0,0,0,,BUT THIS HAND WILL NEVER LEAVE\NTHE STEERING WHEEL.
-Dialogue: 0,0:23:19.52,0:23:21.62,Default,,0,0,0,,NOT -- YOU'RE NOT GONNA LET\NTHE STEERING WHEEL
-Dialogue: 0,0:23:21.63,0:23:23.76,Default,,0,0,0,,SHIFT IN YOUR HAND TO LOCK.
-Dialogue: 0,0:23:23.76,0:23:26.60,Default,,0,0,0,,YOU'RE -- YOU'RE PALMING\NTHE WHEEL THE ENTIRE TIME.
-Dialogue: 0,0:23:26.60,0:23:27.93,Default,,0,0,0,,I SEE. OKAY, COOL.
-Dialogue: 0,0:23:27.93,0:23:29.10,Default,,0,0,0,,Narrator:\NAND BELIEVE IT OR NOT,
-Dialogue: 0,0:23:29.10,0:23:31.27,Default,,0,0,0,,THAT'S APPARENTLY\NALL THERE IS TO IT.
-Dialogue: 0,0:23:31.27,0:23:36.37,Default,,0,0,0,,3, 2, 1...GO.
-Dialogue: 0,0:23:36.37,0:23:41.21,Default,,0,0,0,,Narrator: BY SHIFTING HIS BODY\NTO THE CENTER OF THE CAR...
-Dialogue: 0,0:23:41.21,0:23:44.38,Default,,0,0,0,,[ LAUGHS ] OH, WOW!
-Dialogue: 0,0:23:44.38,0:23:49.35,Default,,0,0,0,,Narrator: AND KEEPING ONE HAND\NON THE WHEEL AT ALL TIMES...
-Dialogue: 0,0:23:49.35,0:23:52.36,Default,,0,0,0,,WOW, I CAN'T BELIEVE HOW FAST\NYOU'RE ABLE TO DO THIS.
-Dialogue: 0,0:23:52.36,0:23:54.19,Default,,0,0,0,,Narrator:\NBRIAN SPEEDS THROUGH THE COURSE
-Dialogue: 0,0:23:54.19,0:23:58.33,Default,,0,0,0,,AT AN IMPRESSIVE\N41 MILES PER HOUR.
-Dialogue: 0,0:23:58.33,0:24:00.20,Default,,0,0,0,,THAT IS AMAZING.
-Dialogue: 0,0:24:00.20,0:24:03.77,Default,,0,0,0,,Adam: SO BRIAN JUST SHOWED ME\NTHAT SOMETHING I THOUGHT WAS
-Dialogue: 0,0:24:03.77,0:24:06.70,Default,,0,0,0,,IMPOSSIBLE IS IN FACT,\NTOTALLY POSSIBLE.
-Dialogue: 0,0:24:06.71,0:24:10.94,Default,,0,0,0,,SO I'M ABOUT TO GIVE THAT\NA SHOT.
-Dialogue: 0,0:24:10.94,0:24:13.48,Default,,0,0,0,,THIS IS GONNA BE COOL.
-Dialogue: 0,0:24:13.48,0:24:16.25,Default,,0,0,0,,Narrator: LIKE BRIAN,\NADAM SLIDES TO THE CENTER
-Dialogue: 0,0:24:16.25,0:24:19.52,Default,,0,0,0,,TO GIVE A VIEWPOINT\NTHAT'S EASIER TO PROCESS.
-Dialogue: 0,0:24:19.52,0:24:21.65,Default,,0,0,0,,OH, LOOK AT THAT.\N- YEAH.
-Dialogue: 0,0:24:21.65,0:24:25.36,Default,,0,0,0,,OKAY, SO. ALL RIGHT.\N3, 2, 1...
-Dialogue: 0,0:24:25.36,0:24:31.06,Default,,0,0,0,,Narrator: AND LIKE BRIAN,\NHE THEN NAILS THE COURSE.
-Dialogue: 0,0:24:31.06,0:24:33.06,Default,,0,0,0,,OH, THAT'S SO COOL.
-Dialogue: 0,0:24:33.06,0:24:35.30,Default,,0,0,0,,Narrator: TO CHECK IT WASN'T\NJUST BEGINNER'S LUCK,
-Dialogue: 0,0:24:35.30,0:24:37.90,Default,,0,0,0,,HE TRIES AGAIN\NAND GOES EVEN FASTER.
-Dialogue: 0,0:24:37.90,0:24:40.14,Default,,0,0,0,,AWESOME.
-Dialogue: 0,0:24:40.14,0:24:41.57,Default,,0,0,0,,Jamie: I GOT TO SAY,\NTHIS IS AMAZING.
-Dialogue: 0,0:24:41.57,0:24:43.01,Default,,0,0,0,,WHEN WE GOT HERE THIS MORNING,\NI THOUGHT ADAM WAS GONNA BE
-Dialogue: 0,0:24:43.01,0:24:46.54,Default,,0,0,0,,TRAINING FOR FOUR, FIVE,\NMAYBE SIX HOURS.
-Dialogue: 0,0:24:46.54,0:24:49.08,Default,,0,0,0,,BUT IT'S NOT BEEN\NLIKE THAT AT ALL.
-Dialogue: 0,0:24:49.08,0:24:50.71,Default,,0,0,0,,INSTEAD,\NIN JUST 20 MINUTES,
-Dialogue: 0,0:24:50.72,0:24:54.22,Default,,0,0,0,,HE'S GONE FROM BEING PRETTY\NAVERAGE TO BEING PRETTY GREAT.
-Dialogue: 0,0:24:54.22,0:24:57.75,Default,,0,0,0,,AND IT SEEMS TO BE ALL DOWN TO\NTHE CENTRAL HEAD POSITION,
-Dialogue: 0,0:24:57.76,0:25:00.59,Default,,0,0,0,,WHICH SEEMS TO BE LETTING\NADAM'S BRAIN PROCESS
-Dialogue: 0,0:25:00.59,0:25:03.56,Default,,0,0,0,,THE DIRECTION TO TURN\NMUCH MORE ACCURATELY.
-Dialogue: 0,0:25:03.56,0:25:06.10,Default,,0,0,0,,SO, WE'RE GONNA PUT HIM BACK ON\NOUR ORIGINAL COURSE TO SEE
-Dialogue: 0,0:25:06.10,0:25:07.80,Default,,0,0,0,,HOW HE DOES NOW.
-Dialogue: 0,0:25:07.80,0:25:09.50,Default,,0,0,0,,SHOULD BE INTERESTING.
-Dialogue: 0,0:25:13.41,0:25:16.07,Default,,0,0,0,,Narrator: IT'S THE COURSE\NTHE GUYS COULDN'T CRACK.
-Dialogue: 0,0:25:16.07,0:25:18.24,Default,,0,0,0,,SO, YOU READY TO PUT WHAT YOU\NLEARNED INTO PRACTICE?
-Dialogue: 0,0:25:18.24,0:25:21.64,Default,,0,0,0,,I AM. IN FACT, I CAN'T WAIT TO\NTRY THIS COURSE NOW.
-Dialogue: 0,0:25:24.42,0:25:28.69,Default,,0,0,0,,3, 2, 1...GO.
-Dialogue: 0,0:25:28.69,0:25:30.89,Default,,0,0,0,,Narrator: BUT WILL\NHIS 20 MINUTES OF TRAINING
-Dialogue: 0,0:25:30.89,0:25:33.29,Default,,0,0,0,,LET ADAM TURN IT AROUND?
-Dialogue: 0,0:25:33.29,0:25:36.13,Default,,0,0,0,,HE'S OFF TO A GOOD START.
-Dialogue: 0,0:25:36.13,0:25:37.33,Default,,0,0,0,,TURNS ARE A LOT\NSMOOTHER THIS TIME.
-Dialogue: 0,0:25:37.33,0:25:38.46,Default,,0,0,0,,HE'S LOOKING REALLY GOOD.
-Dialogue: 0,0:25:38.46,0:25:40.06,Default,,0,0,0,,YEAH!
-Dialogue: 0,0:25:40.07,0:25:42.93,Default,,0,0,0,,WELL, YEAH.\NHE'S MOVING PRETTY QUICK.
-Dialogue: 0,0:25:42.93,0:25:45.10,Default,,0,0,0,,COMING IN GOOD.
-Dialogue: 0,0:25:45.10,0:25:47.24,Default,,0,0,0,,YEAH!
-Dialogue: 0,0:25:47.24,0:25:48.64,Default,,0,0,0,,TELL ME, TELL ME, TELL ME,\NTELL ME, TELL ME, TELL ME.
-Dialogue: 0,0:25:48.64,0:25:49.94,Default,,0,0,0,,TELL ME, TELL ME HOW I DID.
+Dialogue: 0,0:11:24.58,0:11:26.51,Default,,0,0,0,,54 miles per hour.
+Dialogue: 0,0:11:26.51,0:11:28.65,Default,,0,0,0,,narrator:\nnow, that's more like it.
+Dialogue: 0,0:11:28.65,0:11:31.18,Default,,0,0,0,,reaching freeway speeds\nis more than a match
+Dialogue: 0,0:11:31.19,0:11:35.49,Default,,0,0,0,,for a hollywood hero,\nbut it's not all good news.
+Dialogue: 0,0:11:35.49,0:11:37.06,Default,,0,0,0,,the trick with driving\nat high speed in reverse
+Dialogue: 0,0:11:37.06,0:11:38.96,Default,,0,0,0,,was to not do very much,
+Dialogue: 0,0:11:38.96,0:11:41.29,Default,,0,0,0,,just kind of hold still\nand try and keep the car
+Dialogue: 0,0:11:41.30,0:11:42.86,Default,,0,0,0,,in a straight line.
+Dialogue: 0,0:11:42.86,0:11:46.10,Default,,0,0,0,,but unfortunately, we're not\ngoing to have that option now
+Dialogue: 0,0:11:46.10,0:11:49.10,Default,,0,0,0,,because, now we've got to drive\nthrough a slalom in reverse.
+Dialogue: 0,0:11:49.10,0:11:51.30,Default,,0,0,0,,and that's all about steering.
+Dialogue: 0,0:11:51.31,0:11:52.67,Default,,0,0,0,,that's gonna be really hard.
+Dialogue: 0,0:11:54.38,0:11:56.01,Default,,0,0,0,,narrator: still to come...\nbye, cop.
+Dialogue: 0,0:11:56.01,0:11:59.18,Default,,0,0,0,,narrator: backup bologna\ngets a movie makeover.
+Dialogue: 0,0:11:59.18,0:12:00.98,Default,,0,0,0,,yeah!
+Dialogue: 0,0:12:00.98,0:12:02.65,Default,,0,0,0,,narrator: and...\n- hello.
+Dialogue: 0,0:12:02.65,0:12:04.88,Default,,0,0,0,,...hands-free goes high-tech.
+Dialogue: 0,0:12:04.89,0:12:06.92,Default,,0,0,0,,ahh!
+Dialogue: 0,0:12:06.92,0:12:08.85,Default,,0,0,0,,[ laughs ]
+Dialogue: 0,0:12:14.76,0:12:17.06,Default,,0,0,0,,narrator: is driving at speed\nin reverse
+Dialogue: 0,0:12:17.06,0:12:19.26,Default,,0,0,0,,as easy as the movies make out?
+Dialogue: 0,0:12:19.27,0:12:21.70,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:12:21.70,0:12:23.90,Default,,0,0,0,,well, not if adam's\nstraight line test...
+Dialogue: 0,0:12:23.90,0:12:25.54,Default,,0,0,0,,jamie: coming up fast.
+Dialogue: 0,0:12:25.54,0:12:26.97,Default,,0,0,0,,narrator:\n...is anything to go by.
+Dialogue: 0,0:12:26.97,0:12:29.57,Default,,0,0,0,,adam: ahh!
+Dialogue: 0,0:12:29.58,0:12:31.24,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:12:31.24,0:12:33.45,Default,,0,0,0,,whoa!
+Dialogue: 0,0:12:33.45,0:12:34.85,Default,,0,0,0,,there are a couple reasons that\ncars are difficult to drive
+Dialogue: 0,0:12:34.85,0:12:36.51,Default,,0,0,0,,at high speed in reverse.
+Dialogue: 0,0:12:36.52,0:12:39.78,Default,,0,0,0,,[ laughs ] hey. yeah, you\nstarted to lose it at about 50.
+Dialogue: 0,0:12:39.79,0:12:41.32,Default,,0,0,0,,yeah, man.
+Dialogue: 0,0:12:41.32,0:12:42.49,Default,,0,0,0,,jamie: and the first is that
+Dialogue: 0,0:12:42.49,0:12:43.76,Default,,0,0,0,,the steering is not\nself-centering.
+Dialogue: 0,0:12:43.76,0:12:46.26,Default,,0,0,0,,if you let go of the wheel\nof a car going forward
+Dialogue: 0,0:12:46.26,0:12:49.16,Default,,0,0,0,,for just a second,\nit'll tend to self-correct
+Dialogue: 0,0:12:49.16,0:12:51.33,Default,,0,0,0,,because of the offset\nof the wheels.
+Dialogue: 0,0:12:51.33,0:12:53.80,Default,,0,0,0,,if you're going in reverse,\nit does the opposite.
+Dialogue: 0,0:12:53.80,0:12:55.37,Default,,0,0,0,,if you let go of that wheel,
+Dialogue: 0,0:12:55.37,0:12:57.37,Default,,0,0,0,,you're gonna go hard\nto the side,
+Dialogue: 0,0:12:57.37,0:12:59.77,Default,,0,0,0,,and you're gonna do a 180,\nand that's dangerous.
+Dialogue: 0,0:12:59.77,0:13:03.64,Default,,0,0,0,,and correct a little too much,\nyou're gonna lose it.
+Dialogue: 0,0:13:03.64,0:13:05.74,Default,,0,0,0,,the other thing is that\nit's all about perspective.
+Dialogue: 0,0:13:05.75,0:13:07.51,Default,,0,0,0,,when you're going forwards,\nwith your head in align
+Dialogue: 0,0:13:07.51,0:13:09.81,Default,,0,0,0,,with the steering wheel,\ndriving's really intuitive.
+Dialogue: 0,0:13:09.82,0:13:12.58,Default,,0,0,0,,but in reverse, you're either\nlooking into the mirror
+Dialogue: 0,0:13:12.59,0:13:14.05,Default,,0,0,0,,or over your shoulder,
+Dialogue: 0,0:13:14.05,0:13:15.92,Default,,0,0,0,,meaning your brain's having to\nmake complex decisions
+Dialogue: 0,0:13:15.92,0:13:18.42,Default,,0,0,0,,from a viewpoint\nthat it's just not used to.
+Dialogue: 0,0:13:18.43,0:13:19.99,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:13:19.99,0:13:22.73,Default,,0,0,0,,and so, when things go wrong,
+Dialogue: 0,0:13:22.73,0:13:25.26,Default,,0,0,0,,you're gonna flip the car\nor something bad.
+Dialogue: 0,0:13:25.27,0:13:28.97,Default,,0,0,0,,narrator: given their struggles\non the straightaway,
+Dialogue: 0,0:13:28.97,0:13:31.47,Default,,0,0,0,,today's test looks terrifying.
+Dialogue: 0,0:13:31.47,0:13:35.21,Default,,0,0,0,,this is what we call the "diving\nin at the deep end" test.
+Dialogue: 0,0:13:35.21,0:13:37.54,Default,,0,0,0,,we've got a course that's full\nof the kind of challenges
+Dialogue: 0,0:13:37.54,0:13:40.55,Default,,0,0,0,,a hollywood hero has to face,\nand we're going to see if we can
+Dialogue: 0,0:13:40.55,0:13:44.12,Default,,0,0,0,,reverse through it\nat high speeds without crashing.
+Dialogue: 0,0:13:44.12,0:13:47.32,Default,,0,0,0,,[ laughs ]\nthis is why we have insurance.
+Dialogue: 0,0:13:47.32,0:13:49.62,Default,,0,0,0,,narrator: it's a course that\na movie maestro
+Dialogue: 0,0:13:49.62,0:13:51.32,Default,,0,0,0,,would finish in a flash.
+Dialogue: 0,0:13:51.32,0:13:53.76,Default,,0,0,0,,but how will\nthe mythbusters manage?
+Dialogue: 0,0:13:57.73,0:13:59.00,Default,,0,0,0,,all right.
+Dialogue: 0,0:13:59.00,0:14:04.70,Default,,0,0,0,,first run in 3, 2, 1...go.
+Dialogue: 0,0:14:04.71,0:14:06.40,Default,,0,0,0,,narrator: adam's off.
+Dialogue: 0,0:14:06.41,0:14:09.47,Default,,0,0,0,,and from the outset,\nhe's ignoring the mirrors...
+Dialogue: 0,0:14:09.48,0:14:11.84,Default,,0,0,0,,whoa.
+Dialogue: 0,0:14:11.85,0:14:13.38,Default,,0,0,0,,oh, there goes a cone.
+Dialogue: 0,0:14:13.38,0:14:17.02,Default,,0,0,0,,narrator: and going with\nthe over-the-shoulder technique.
+Dialogue: 0,0:14:17.02,0:14:18.95,Default,,0,0,0,,ah, [bleep]!
+Dialogue: 0,0:14:21.09,0:14:24.76,Default,,0,0,0,,narrator: but it's hardly\npaying dividends.
+Dialogue: 0,0:14:24.76,0:14:28.76,Default,,0,0,0,,because not only poor steering\ncripple his cone count...
+Dialogue: 0,0:14:30.96,0:14:32.76,Default,,0,0,0,,ah.
+Dialogue: 0,0:14:32.77,0:14:37.70,Default,,0,0,0,,narrator: but his slow speed\nmeans his time is terrible.
+Dialogue: 0,0:14:37.70,0:14:39.97,Default,,0,0,0,,[ laughs ]
+Dialogue: 0,0:14:39.97,0:14:40.97,Default,,0,0,0,,how did i do?
+Dialogue: 0,0:14:40.97,0:14:43.27,Default,,0,0,0,,1 minute 7 seconds.
+Dialogue: 0,0:14:43.28,0:14:45.21,Default,,0,0,0,,1 minute, 7 seconds?
+Dialogue: 0,0:14:45.21,0:14:49.08,Default,,0,0,0,,i'll tell you what that does.\nit wreaks havoc on my neck.
+Dialogue: 0,0:14:52.95,0:14:56.62,Default,,0,0,0,,well, i-i had a couple of\nscrewups on that one.
+Dialogue: 0,0:14:56.62,0:14:59.46,Default,,0,0,0,,it's very hard to gauge\nhow hard you need to
+Dialogue: 0,0:14:59.46,0:15:02.29,Default,,0,0,0,,hit a turn in reverse
+Dialogue: 0,0:15:02.30,0:15:04.56,Default,,0,0,0,,because all of your metrics\nfor reaction,
+Dialogue: 0,0:15:04.56,0:15:06.30,Default,,0,0,0,,in terms of how the car moves,
+Dialogue: 0,0:15:06.30,0:15:07.77,Default,,0,0,0,,are way off-kilter.
+Dialogue: 0,0:15:07.77,0:15:10.10,Default,,0,0,0,,it's a far more sensitive\ndevice in reverse.
+Dialogue: 0,0:15:12.24,0:15:14.87,Default,,0,0,0,,narrator: indeed,\nbut can jamie master the method
+Dialogue: 0,0:15:14.88,0:15:17.51,Default,,0,0,0,,and reverse\nthis myth's fortunes?
+Dialogue: 0,0:15:17.51,0:15:19.01,Default,,0,0,0,,[ engine starts ]\nall right, cowboy.
+Dialogue: 0,0:15:19.01,0:15:22.21,Default,,0,0,0,,here we go\nin 3, 2, 1...go.
+Dialogue: 0,0:15:22.22,0:15:25.48,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:15:25.49,0:15:27.32,Default,,0,0,0,,[ laughs ]\ni love that this is our job.
+Dialogue: 0,0:15:27.32,0:15:29.92,Default,,0,0,0,,narrator: unlike adam,\njamie's using the mirrors
+Dialogue: 0,0:15:29.92,0:15:32.16,Default,,0,0,0,,and the over-the-shoulder\nsystem.
+Dialogue: 0,0:15:32.16,0:15:34.56,Default,,0,0,0,,but it's not\na winning combination...
+Dialogue: 0,0:15:34.56,0:15:37.53,Default,,0,0,0,,[ tires squeal ]\n[ laughing ]
+Dialogue: 0,0:15:37.53,0:15:38.76,Default,,0,0,0,,[ shifts gears ]
+Dialogue: 0,0:15:38.77,0:15:40.37,Default,,0,0,0,,narrator:\nbecause his crash course
+Dialogue: 0,0:15:40.37,0:15:42.60,Default,,0,0,0,,is even worse than adam's.
+Dialogue: 0,0:15:45.64,0:15:48.37,Default,,0,0,0,,but eventually,\nhe crawls to the finish line
+Dialogue: 0,0:15:48.38,0:15:51.14,Default,,0,0,0,,in a sluggish 72 seconds...
+Dialogue: 0,0:15:51.14,0:15:52.48,Default,,0,0,0,,[ tires screech ]\n[ laughs ]
+Dialogue: 0,0:15:52.48,0:15:53.68,Default,,0,0,0,,[ groans ]
+Dialogue: 0,0:15:55.45,0:15:58.82,Default,,0,0,0,,narrator: ...which is not\ngood news for the myth.
+Dialogue: 0,0:15:58.82,0:16:01.25,Default,,0,0,0,,okay, you win.\n- [ laughs ]
+Dialogue: 0,0:16:01.25,0:16:03.56,Default,,0,0,0,,narrator:\nbut all is not lost.
+Dialogue: 0,0:16:03.56,0:16:06.69,Default,,0,0,0,,look, there is no doubt that\nthis test was hard.
+Dialogue: 0,0:16:06.69,0:16:08.16,Default,,0,0,0,,ah!
+Dialogue: 0,0:16:08.16,0:16:10.16,Default,,0,0,0,,the course was difficult,\nand we are at the novice end
+Dialogue: 0,0:16:10.16,0:16:11.86,Default,,0,0,0,,of the reverse driving spectrum.
+Dialogue: 0,0:16:11.87,0:16:14.10,Default,,0,0,0,,but with some expert training,
+Dialogue: 0,0:16:14.10,0:16:16.80,Default,,0,0,0,,will we be able to bring this\nmyth back from the brink?
+Dialogue: 0,0:16:16.80,0:16:18.54,Default,,0,0,0,,that's what's next.
+Dialogue: 0,0:16:18.54,0:16:21.17,Default,,0,0,0,,narrator:\nactually, not quite.
+Dialogue: 0,0:16:21.17,0:16:27.11,Default,,0,0,0,,because next, the guys are\njumping ship back to alameda
+Dialogue: 0,0:16:27.11,0:16:29.91,Default,,0,0,0,,to find out if hands-free is\nas distracting
+Dialogue: 0,0:16:29.92,0:16:31.52,Default,,0,0,0,,as holding the phone.\n[ cell phone rings ]
+Dialogue: 0,0:16:31.52,0:16:32.85,Default,,0,0,0,,uh, hello, jamie.
+Dialogue: 0,0:16:32.85,0:16:36.15,Default,,0,0,0,,narrator: adam started\nwith a hands-full control...
+Dialogue: 0,0:16:36.16,0:16:37.69,Default,,0,0,0,,oh, whoa. whoa.
+Dialogue: 0,0:16:37.69,0:16:39.66,Default,,0,0,0,,narrator:\nthat went so badly...
+Dialogue: 0,0:16:39.66,0:16:40.73,Default,,0,0,0,,right.
+Dialogue: 0,0:16:40.73,0:16:41.96,Default,,0,0,0,,narrator:\nhis car refused to continue.
+Dialogue: 0,0:16:41.96,0:16:45.33,Default,,0,0,0,,okay.\n- [ engine sputters ]
+Dialogue: 0,0:16:45.33,0:16:47.20,Default,,0,0,0,,narrator:\nso it's out with the old.
+Dialogue: 0,0:16:47.20,0:16:48.40,Default,,0,0,0,,all right, dave.\nlet's do it.
+Dialogue: 0,0:16:48.40,0:16:49.77,Default,,0,0,0,,narrator:\nand in with the new.
+Dialogue: 0,0:16:49.77,0:16:54.34,Default,,0,0,0,,but will going hands-free\nreally be just as bad?
+Dialogue: 0,0:16:54.34,0:16:56.11,Default,,0,0,0,,[ line ringing ]\nhere we go.
+Dialogue: 0,0:16:56.11,0:16:57.88,Default,,0,0,0,,[ beep ]\n- why, hello, this is adam.
+Dialogue: 0,0:16:57.88,0:17:00.45,Default,,0,0,0,,well, hello there, adam.\nshould i start driving?
+Dialogue: 0,0:17:00.45,0:17:02.48,Default,,0,0,0,,yes. go ahead.\n- okay.
+Dialogue: 0,0:17:02.48,0:17:05.62,Default,,0,0,0,,narrator: like last time,\nadam must complete the course
+Dialogue: 0,0:17:05.62,0:17:08.05,Default,,0,0,0,,while answering questions\nboth easy...
+Dialogue: 0,0:17:08.05,0:17:11.49,Default,,0,0,0,,okay, on which continent is\nthe sahara desert?
+Dialogue: 0,0:17:11.49,0:17:14.26,Default,,0,0,0,,the sahara desert is on\nthe african continent.
+Dialogue: 0,0:17:14.26,0:17:16.16,Default,,0,0,0,,narrator: and hard.
+Dialogue: 0,0:17:16.16,0:17:18.20,Default,,0,0,0,,if buster walks halfway\naround a circle
+Dialogue: 0,0:17:18.20,0:17:20.23,Default,,0,0,0,,and then turns around\nand walks halfway back,
+Dialogue: 0,0:17:20.23,0:17:22.07,Default,,0,0,0,,is he now back\nwhere he started?
+Dialogue: 0,0:17:22.07,0:17:23.60,Default,,0,0,0,,yes, he is.
+Dialogue: 0,0:17:23.60,0:17:25.70,Default,,0,0,0,,no, he's halfway back.
+Dialogue: 0,0:17:25.71,0:17:27.31,Default,,0,0,0,,[ laughs ]\n- ah.
+Dialogue: 0,0:17:27.31,0:17:28.67,Default,,0,0,0,,okay.
+Dialogue: 0,0:17:28.68,0:17:31.94,Default,,0,0,0,,narrator: but despite\nthe obvious burden on his brain,
+Dialogue: 0,0:17:31.95,0:17:33.85,Default,,0,0,0,,his driving has got better.
+Dialogue: 0,0:17:33.85,0:17:38.28,Default,,0,0,0,,and although a clipped cone\nsees him marked down...
+Dialogue: 0,0:17:38.29,0:17:40.35,Default,,0,0,0,,[ laughing ]\n- [ laughs ]
+Dialogue: 0,0:17:40.35,0:17:42.69,Default,,0,0,0,,sorry.\ni just hit something.
+Dialogue: 0,0:17:42.69,0:17:45.36,Default,,0,0,0,,narrator:\nhis final score has improved,
+Dialogue: 0,0:17:45.36,0:17:47.73,Default,,0,0,0,,but was it due to the phone?
+Dialogue: 0,0:17:47.73,0:17:50.06,Default,,0,0,0,,adam: well, i've completed\nmy hands-free run
+Dialogue: 0,0:17:50.06,0:17:54.60,Default,,0,0,0,,of our driving course,\nand i did it a lot better.
+Dialogue: 0,0:17:54.60,0:17:56.03,Default,,0,0,0,,but here's the thing,
+Dialogue: 0,0:17:56.04,0:17:59.57,Default,,0,0,0,,i found taking the questions\nfrom jamie just as distracting
+Dialogue: 0,0:17:59.57,0:18:00.97,Default,,0,0,0,,as i did the first time.
+Dialogue: 0,0:18:00.97,0:18:04.38,Default,,0,0,0,,i feel like my better\nperformance on the second test
+Dialogue: 0,0:18:04.38,0:18:06.88,Default,,0,0,0,,could be chalked up to just\nunderstanding the course
+Dialogue: 0,0:18:06.88,0:18:08.18,Default,,0,0,0,,a little bit better.
+Dialogue: 0,0:18:08.18,0:18:10.32,Default,,0,0,0,,but that's why jamie's\ngonna start hands-free
+Dialogue: 0,0:18:10.32,0:18:11.78,Default,,0,0,0,,and then go to hands-full.
+Dialogue: 0,0:18:11.79,0:18:13.79,Default,,0,0,0,,if that is in effect,\nwe should cancel it out
+Dialogue: 0,0:18:13.79,0:18:17.12,Default,,0,0,0,,by changing the order\nthat we do the test in.
+Dialogue: 0,0:18:17.12,0:18:18.56,Default,,0,0,0,,that's the theory, anyway.
+Dialogue: 0,0:18:21.70,0:18:23.93,Default,,0,0,0,,want to see\nwhat you can do with it.
+Dialogue: 0,0:18:23.93,0:18:26.00,Default,,0,0,0,,i'm gonna suck.\ni can tell you already.
+Dialogue: 0,0:18:26.00,0:18:30.17,Default,,0,0,0,,narrator: not only will jamie\nincrease their sample size,
+Dialogue: 0,0:18:30.17,0:18:32.47,Default,,0,0,0,,but by going hands-free first...
+Dialogue: 0,0:18:32.47,0:18:35.07,Default,,0,0,0,,jamie and i almost never\nactually speak on the phone.
+Dialogue: 0,0:18:35.08,0:18:37.94,Default,,0,0,0,,so this actually has a bit of\nnovelty to me.
+Dialogue: 0,0:18:37.94,0:18:39.04,Default,,0,0,0,,narrator:\nthe guys are trying to eliminate
+Dialogue: 0,0:18:39.05,0:18:41.45,Default,,0,0,0,,any course-learning bias.
+Dialogue: 0,0:18:41.45,0:18:45.32,Default,,0,0,0,,[ line ringing ]\nthis is jamie.
+Dialogue: 0,0:18:45.32,0:18:47.22,Default,,0,0,0,,ah, good afternoon, jamie.\nit's adam.
+Dialogue: 0,0:18:47.22,0:18:48.75,Default,,0,0,0,,go ahead and start driving,
+Dialogue: 0,0:18:48.76,0:18:50.56,Default,,0,0,0,,and i'm going to start\nasking you some questions.
+Dialogue: 0,0:18:50.56,0:18:53.99,Default,,0,0,0,,narrator: adam starts\nwith a simple icebreaker.
+Dialogue: 0,0:18:53.99,0:18:56.36,Default,,0,0,0,,all right, hey, jamie,\nif you could wake up tomorrow
+Dialogue: 0,0:18:56.36,0:18:59.10,Default,,0,0,0,,and gain any single\nquality or ability,
+Dialogue: 0,0:18:59.10,0:19:01.33,Default,,0,0,0,,what would it be and why?
+Dialogue: 0,0:19:01.33,0:19:04.77,Default,,0,0,0,,um, i could fly.
+Dialogue: 0,0:19:04.77,0:19:06.10,Default,,0,0,0,,why?
+Dialogue: 0,0:19:06.11,0:19:08.01,Default,,0,0,0,,narrator: but even that proves\ntoo much for jamie.
+Dialogue: 0,0:19:08.01,0:19:11.24,Default,,0,0,0,,well, uh,\nbecause then i could go, um...
+Dialogue: 0,0:19:11.24,0:19:12.91,Default,,0,0,0,,what was the question again?
+Dialogue: 0,0:19:12.91,0:19:14.51,Default,,0,0,0,,why would you like to fly?
+Dialogue: 0,0:19:14.51,0:19:18.88,Default,,0,0,0,,uh, well, because,\nthat would, uh,
+Dialogue: 0,0:19:18.89,0:19:21.59,Default,,0,0,0,,it would save a lot of\ngasoline actually.
+Dialogue: 0,0:19:21.59,0:19:24.29,Default,,0,0,0,,and, uh, you know,\ni could, uh,
+Dialogue: 0,0:19:24.29,0:19:25.36,Default,,0,0,0,,oh, look at that.
+Dialogue: 0,0:19:25.36,0:19:26.76,Default,,0,0,0,,i bumped over\na whole bunch of things.
+Dialogue: 0,0:19:26.76,0:19:28.29,Default,,0,0,0,,[ laughs ]
+Dialogue: 0,0:19:28.29,0:19:30.73,Default,,0,0,0,,narrator: with no improvement\nover the rest of the course...
+Dialogue: 0,0:19:30.73,0:19:33.06,Default,,0,0,0,,i'd like you to add\nthe numbers 4 and 7.
+Dialogue: 0,0:19:33.07,0:19:38.20,Default,,0,0,0,,let's see.\nuh, 4 and 7, uh...
+Dialogue: 0,0:19:38.20,0:19:40.54,Default,,0,0,0,,uh...
+Dialogue: 0,0:19:40.54,0:19:41.94,Default,,0,0,0,,ticktock, grandpa.
+Dialogue: 0,0:19:41.94,0:19:44.94,Default,,0,0,0,,10 -- or, no, 11.
+Dialogue: 0,0:19:44.94,0:19:47.78,Default,,0,0,0,,narrator: jamie scores\nthe worst result of the day --
+Dialogue: 0,0:19:47.78,0:19:50.15,Default,,0,0,0,,a disappointing 66.
+Dialogue: 0,0:19:50.15,0:19:51.88,Default,,0,0,0,,that was awesome.
+Dialogue: 0,0:19:51.89,0:19:56.05,Default,,0,0,0,,he starts every answer\nwith, "let's see." [ laughs ]
+Dialogue: 0,0:19:56.06,0:19:58.29,Default,,0,0,0,,i'm sure i was doing\nthe same things,
+Dialogue: 0,0:19:58.29,0:20:01.66,Default,,0,0,0,,but it's just very enjoyable to\nlisten to someone so distracted.
+Dialogue: 0,0:20:03.06,0:20:04.76,Default,,0,0,0,,narrator:\na quick reset later,
+Dialogue: 0,0:20:04.76,0:20:06.13,Default,,0,0,0,,[ cell phone rings ]
+Dialogue: 0,0:20:06.13,0:20:07.70,Default,,0,0,0,,and they're set for\nthe fourth and final run...
+Dialogue: 0,0:20:07.70,0:20:09.37,Default,,0,0,0,,hello.
+Dialogue: 0,0:20:09.37,0:20:10.44,Default,,0,0,0,,all right.\nstart your driving.
+Dialogue: 0,0:20:10.44,0:20:11.94,Default,,0,0,0,,narrator:\njamie, hands-full.
+Dialogue: 0,0:20:11.94,0:20:14.17,Default,,0,0,0,,i'm going to read you\na list of words
+Dialogue: 0,0:20:14.17,0:20:16.41,Default,,0,0,0,,and ask you to repeat them\nin a reverse order.
+Dialogue: 0,0:20:16.41,0:20:18.78,Default,,0,0,0,,crash, burn, demolish.
+Dialogue: 0,0:20:18.78,0:20:22.31,Default,,0,0,0,,uh, demolish, uh, burn, crash.
+Dialogue: 0,0:20:22.32,0:20:24.92,Default,,0,0,0,,e.m.t., ambulance, doctor.
+Dialogue: 0,0:20:24.92,0:20:27.25,Default,,0,0,0,,there's quite a narrative\nimplied by these.
+Dialogue: 0,0:20:27.25,0:20:30.56,Default,,0,0,0,,doctor, ambulance, e.m.t.\n- yes.
+Dialogue: 0,0:20:30.56,0:20:33.42,Default,,0,0,0,,narrator: despite having only\none hand on the wheel
+Dialogue: 0,0:20:33.43,0:20:37.86,Default,,0,0,0,,and swapping the phone\nmid-drive, jamie scores 72,
+Dialogue: 0,0:20:37.86,0:20:42.00,Default,,0,0,0,,a fail by some distance,\nbut an improvement nonetheless.
+Dialogue: 0,0:20:42.00,0:20:44.24,Default,,0,0,0,,so, what does this mean\nfor the myth?
+Dialogue: 0,0:20:44.24,0:20:46.17,Default,,0,0,0,,okay, now,\nfor this myth to be true,
+Dialogue: 0,0:20:46.17,0:20:50.14,Default,,0,0,0,,jamie's hands-free score had to\nmatch his hands-full score.
+Dialogue: 0,0:20:50.14,0:20:51.31,Default,,0,0,0,,and so did mine.
+Dialogue: 0,0:20:51.31,0:20:53.85,Default,,0,0,0,,but that didn't quite happen.
+Dialogue: 0,0:20:53.85,0:20:56.05,Default,,0,0,0,,graphics, help me out.
+Dialogue: 0,0:20:56.05,0:20:57.72,Default,,0,0,0,,you can see that i drove better\nhands-free,
+Dialogue: 0,0:20:57.72,0:20:59.88,Default,,0,0,0,,while jamie drove\nbetter hands-full.
+Dialogue: 0,0:20:59.89,0:21:02.62,Default,,0,0,0,,but that data also shows\nthat we both improved on
+Dialogue: 0,0:21:02.62,0:21:06.26,Default,,0,0,0,,our second runs because we had\nexperience of the course.
+Dialogue: 0,0:21:06.26,0:21:10.39,Default,,0,0,0,,now, if we remove that bias by\naveraging jamie's and my data,
+Dialogue: 0,0:21:10.40,0:21:12.23,Default,,0,0,0,,what do we get?
+Dialogue: 0,0:21:12.23,0:21:15.03,Default,,0,0,0,,beautiful,\nnear-identical scores
+Dialogue: 0,0:21:15.03,0:21:17.30,Default,,0,0,0,,for each of the two techniques.
+Dialogue: 0,0:21:17.30,0:21:20.61,Default,,0,0,0,,but we are not done yet,\nfor two particular reasons.
+Dialogue: 0,0:21:20.61,0:21:23.34,Default,,0,0,0,,one, our course\nisn't very real-world.
+Dialogue: 0,0:21:23.34,0:21:25.54,Default,,0,0,0,,for starters,\nthere's no traffic.
+Dialogue: 0,0:21:25.55,0:21:27.45,Default,,0,0,0,,second,\nand perhaps more importantly,
+Dialogue: 0,0:21:27.45,0:21:29.31,Default,,0,0,0,,is jamie's\nand my driving abilities.
+Dialogue: 0,0:21:29.32,0:21:32.28,Default,,0,0,0,,we have both received\ntons of training over the years
+Dialogue: 0,0:21:32.29,0:21:33.95,Default,,0,0,0,,in lots of different\ndriving techniques.
+Dialogue: 0,0:21:33.95,0:21:35.15,Default,,0,0,0,,whoa!
+Dialogue: 0,0:21:35.16,0:21:36.72,Default,,0,0,0,,whoo, yeah!
+Dialogue: 0,0:21:36.72,0:21:38.99,Default,,0,0,0,,we are quite far\nfrom your average joes,
+Dialogue: 0,0:21:38.99,0:21:41.39,Default,,0,0,0,,and that is what we need next.
+Dialogue: 0,0:21:44.80,0:21:51.10,Default,,0,0,0,,aah!
+Dialogue: 0,0:21:51.10,0:21:53.20,Default,,0,0,0,,3, 2, 1...go.
+Dialogue: 0,0:21:53.21,0:21:54.74,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:21:54.74,0:21:56.44,Default,,0,0,0,,adam: now, jamie and i have\nalready gone pretty far,
+Dialogue: 0,0:21:56.44,0:21:59.34,Default,,0,0,0,,teaching ourselves the rudiments\nof driving in reverse.
+Dialogue: 0,0:21:59.34,0:22:01.98,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:22:01.98,0:22:04.18,Default,,0,0,0,,[ laughs ]
+Dialogue: 0,0:22:04.18,0:22:06.12,Default,,0,0,0,,but if we're gonna get\nreally good at this,
+Dialogue: 0,0:22:06.12,0:22:08.08,Default,,0,0,0,,we're gonna need to\nget trained by an expert.
+Dialogue: 0,0:22:08.09,0:22:11.49,Default,,0,0,0,,luckily, we have an expert\nin reverse tactical driving
+Dialogue: 0,0:22:11.49,0:22:13.56,Default,,0,0,0,,right here.
+Dialogue: 0,0:22:13.56,0:22:16.16,Default,,0,0,0,,hello, sir. hello.
+Dialogue: 0,0:22:16.16,0:22:17.43,Default,,0,0,0,,jamie:\nbrian frazer is a trainer
+Dialogue: 0,0:22:17.43,0:22:19.43,Default,,0,0,0,,at the emergency vehicle\noperations course
+Dialogue: 0,0:22:19.43,0:22:20.96,Default,,0,0,0,,here in california.
+Dialogue: 0,0:22:20.97,0:22:23.80,Default,,0,0,0,,now, we've used him repeatedly\nover past years,
+Dialogue: 0,0:22:23.80,0:22:26.30,Default,,0,0,0,,whenever we've had to learn\nhow to deal with a particularly
+Dialogue: 0,0:22:26.30,0:22:29.21,Default,,0,0,0,,difficult driving situation.
+Dialogue: 0,0:22:29.21,0:22:33.64,Default,,0,0,0,,and driving at speed\nin reverse certainly qualifies.
+Dialogue: 0,0:22:33.65,0:22:36.65,Default,,0,0,0,,all right, brian.\nwhere do we start?
+Dialogue: 0,0:22:36.65,0:22:39.02,Default,,0,0,0,,we're going to put barrel here,\ntwo barrels here,
+Dialogue: 0,0:22:39.02,0:22:41.22,Default,,0,0,0,,one on each side of the car.\nall right.
+Dialogue: 0,0:22:41.22,0:22:45.05,Default,,0,0,0,,narrator: brian's first job is\nto ignore the current course...
+Dialogue: 0,0:22:45.06,0:22:46.49,Default,,0,0,0,,right there is good.
+Dialogue: 0,0:22:46.49,0:22:48.29,Default,,0,0,0,,good. good ending point.\naw.
+Dialogue: 0,0:22:48.29,0:22:50.56,Default,,0,0,0,,this is why we can't have\nnice things.
+Dialogue: 0,0:22:50.56,0:22:53.73,Default,,0,0,0,,narrator: and set up something\nway more straightforward...
+Dialogue: 0,0:22:53.73,0:22:57.03,Default,,0,0,0,,all right, that's the course.\nnow what do we do?
+Dialogue: 0,0:22:57.04,0:22:59.20,Default,,0,0,0,,drive it.\n- okay. let's go.
+Dialogue: 0,0:22:59.20,0:23:01.84,Default,,0,0,0,,narrator: because the technique\nhe's going to teach
+Dialogue: 0,0:23:01.84,0:23:03.84,Default,,0,0,0,,is surprisingly simple.
+Dialogue: 0,0:23:03.84,0:23:05.38,Default,,0,0,0,,so i'm gonna change\nmy seating position now
+Dialogue: 0,0:23:05.38,0:23:06.88,Default,,0,0,0,,a little bit.\n- okay.
+Dialogue: 0,0:23:06.88,0:23:10.15,Default,,0,0,0,,i'm going to prop myself up,\nloosen my seat belt.
+Dialogue: 0,0:23:10.15,0:23:12.08,Default,,0,0,0,,turn yourself as far as\nyou can around.
+Dialogue: 0,0:23:12.08,0:23:13.98,Default,,0,0,0,,get your body almost in\nthe center of the -- of the car.
+Dialogue: 0,0:23:13.99,0:23:15.42,Default,,0,0,0,,okay.
+Dialogue: 0,0:23:15.42,0:23:17.29,Default,,0,0,0,,i'm gonna steer the car now\nwith one hand.
+Dialogue: 0,0:23:17.29,0:23:19.52,Default,,0,0,0,,but this hand will never leave\nthe steering wheel.
+Dialogue: 0,0:23:19.52,0:23:21.62,Default,,0,0,0,,not -- you're not gonna let\nthe steering wheel
+Dialogue: 0,0:23:21.63,0:23:23.76,Default,,0,0,0,,shift in your hand to lock.
+Dialogue: 0,0:23:23.76,0:23:26.60,Default,,0,0,0,,you're -- you're palming\nthe wheel the entire time.
+Dialogue: 0,0:23:26.60,0:23:27.93,Default,,0,0,0,,i see. okay, cool.
+Dialogue: 0,0:23:27.93,0:23:29.10,Default,,0,0,0,,narrator:\nand believe it or not,
+Dialogue: 0,0:23:29.10,0:23:31.27,Default,,0,0,0,,that's apparently\nall there is to it.
+Dialogue: 0,0:23:31.27,0:23:36.37,Default,,0,0,0,,3, 2, 1...go.
+Dialogue: 0,0:23:36.37,0:23:41.21,Default,,0,0,0,,narrator: by shifting his body\nto the center of the car...
+Dialogue: 0,0:23:41.21,0:23:44.38,Default,,0,0,0,,[ laughs ] oh, wow!
+Dialogue: 0,0:23:44.38,0:23:49.35,Default,,0,0,0,,narrator: and keeping one hand\non the wheel at all times...
+Dialogue: 0,0:23:49.35,0:23:52.36,Default,,0,0,0,,wow, i can't believe how fast\nyou're able to do this.
+Dialogue: 0,0:23:52.36,0:23:54.19,Default,,0,0,0,,narrator:\nbrian speeds through the course
+Dialogue: 0,0:23:54.19,0:23:58.33,Default,,0,0,0,,at an impressive\n41 miles per hour.
+Dialogue: 0,0:23:58.33,0:24:00.20,Default,,0,0,0,,that is amazing.
+Dialogue: 0,0:24:00.20,0:24:03.77,Default,,0,0,0,,adam: so brian just showed me\nthat something i thought was
+Dialogue: 0,0:24:03.77,0:24:06.70,Default,,0,0,0,,impossible is in fact,\ntotally possible.
+Dialogue: 0,0:24:06.71,0:24:10.94,Default,,0,0,0,,so i'm about to give that\na shot.
+Dialogue: 0,0:24:10.94,0:24:13.48,Default,,0,0,0,,this is gonna be cool.
+Dialogue: 0,0:24:13.48,0:24:16.25,Default,,0,0,0,,narrator: like brian,\nadam slides to the center
+Dialogue: 0,0:24:16.25,0:24:19.52,Default,,0,0,0,,to give a viewpoint\nthat's easier to process.
+Dialogue: 0,0:24:19.52,0:24:21.65,Default,,0,0,0,,oh, look at that.\n- yeah.
+Dialogue: 0,0:24:21.65,0:24:25.36,Default,,0,0,0,,okay, so. all right.\n3, 2, 1...
+Dialogue: 0,0:24:25.36,0:24:31.06,Default,,0,0,0,,narrator: and like brian,\nhe then nails the course.
+Dialogue: 0,0:24:31.06,0:24:33.06,Default,,0,0,0,,oh, that's so cool.
+Dialogue: 0,0:24:33.06,0:24:35.30,Default,,0,0,0,,narrator: to check it wasn't\njust beginner's luck,
+Dialogue: 0,0:24:35.30,0:24:37.90,Default,,0,0,0,,he tries again\nand goes even faster.
+Dialogue: 0,0:24:37.90,0:24:40.14,Default,,0,0,0,,awesome.
+Dialogue: 0,0:24:40.14,0:24:41.57,Default,,0,0,0,,jamie: i got to say,\nthis is amazing.
+Dialogue: 0,0:24:41.57,0:24:43.01,Default,,0,0,0,,when we got here this morning,\ni thought adam was gonna be
+Dialogue: 0,0:24:43.01,0:24:46.54,Default,,0,0,0,,training for four, five,\nmaybe six hours.
+Dialogue: 0,0:24:46.54,0:24:49.08,Default,,0,0,0,,but it's not been\nlike that at all.
+Dialogue: 0,0:24:49.08,0:24:50.71,Default,,0,0,0,,instead,\nin just 20 minutes,
+Dialogue: 0,0:24:50.72,0:24:54.22,Default,,0,0,0,,he's gone from being pretty\naverage to being pretty great.
+Dialogue: 0,0:24:54.22,0:24:57.75,Default,,0,0,0,,and it seems to be all down to\nthe central head position,
+Dialogue: 0,0:24:57.76,0:25:00.59,Default,,0,0,0,,which seems to be letting\nadam's brain process
+Dialogue: 0,0:25:00.59,0:25:03.56,Default,,0,0,0,,the direction to turn\nmuch more accurately.
+Dialogue: 0,0:25:03.56,0:25:06.10,Default,,0,0,0,,so, we're gonna put him back on\nour original course to see
+Dialogue: 0,0:25:06.10,0:25:07.80,Default,,0,0,0,,how he does now.
+Dialogue: 0,0:25:07.80,0:25:09.50,Default,,0,0,0,,should be interesting.
+Dialogue: 0,0:25:13.41,0:25:16.07,Default,,0,0,0,,narrator: it's the course\nthe guys couldn't crack.
+Dialogue: 0,0:25:16.07,0:25:18.24,Default,,0,0,0,,so, you ready to put what you\nlearned into practice?
+Dialogue: 0,0:25:18.24,0:25:21.64,Default,,0,0,0,,i am. in fact, i can't wait to\ntry this course now.
+Dialogue: 0,0:25:24.42,0:25:28.69,Default,,0,0,0,,3, 2, 1...go.
+Dialogue: 0,0:25:28.69,0:25:30.89,Default,,0,0,0,,narrator: but will\nhis 20 minutes of training
+Dialogue: 0,0:25:30.89,0:25:33.29,Default,,0,0,0,,let adam turn it around?
+Dialogue: 0,0:25:33.29,0:25:36.13,Default,,0,0,0,,he's off to a good start.
+Dialogue: 0,0:25:36.13,0:25:37.33,Default,,0,0,0,,turns are a lot\nsmoother this time.
+Dialogue: 0,0:25:37.33,0:25:38.46,Default,,0,0,0,,he's looking really good.
+Dialogue: 0,0:25:38.46,0:25:40.06,Default,,0,0,0,,yeah!
+Dialogue: 0,0:25:40.07,0:25:42.93,Default,,0,0,0,,well, yeah.\nhe's moving pretty quick.
+Dialogue: 0,0:25:42.93,0:25:45.10,Default,,0,0,0,,coming in good.
+Dialogue: 0,0:25:45.10,0:25:47.24,Default,,0,0,0,,yeah!
+Dialogue: 0,0:25:47.24,0:25:48.64,Default,,0,0,0,,tell me, tell me, tell me,\ntell me, tell me, tell me.
+Dialogue: 0,0:25:48.64,0:25:49.94,Default,,0,0,0,,tell me, tell me how i did.
 Dialogue: 0,0:25:49.94,0:25:51.94,Default,,0,0,0,,57.25.
-Dialogue: 0,0:25:51.94,0:25:54.21,Default,,0,0,0,,BOOM! THAT WAS COOL.
-Dialogue: 0,0:25:54.21,0:25:59.38,Default,,0,0,0,,Narrator: IT'S CLOSE TO\NAN ASTOUNDING RESULT.
-Dialogue: 0,0:25:59.38,0:26:01.68,Default,,0,0,0,,WITH JUST TWO MINOR\NMODIFICATIONS...
-Dialogue: 0,0:26:01.69,0:26:02.89,Default,,0,0,0,,Adam: YEAH!
-Dialogue: 0,0:26:02.89,0:26:06.42,Default,,0,0,0,,Narrator: ADAM'S BETTERED\NHIS BEST BY OVER 15%.
-Dialogue: 0,0:26:06.42,0:26:08.86,Default,,0,0,0,,ALL RIGHT, GUESS IT'S TIME TO\NBRING ON THE NEXT EVENT.
-Dialogue: 0,0:26:08.86,0:26:09.93,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:26:09.93,0:26:11.83,Default,,0,0,0,,Narrator:\NAND WHAT THAT MEANS IS,
-Dialogue: 0,0:26:11.83,0:26:15.30,Default,,0,0,0,,IT'S TIME FOR SOME\NREAL-LIFE MOVIE MAYHEM.
-Dialogue: 0,0:26:15.30,0:26:18.70,Default,,0,0,0,,BUT FIRST...
-Dialogue: 0,0:26:18.70,0:26:22.31,Default,,0,0,0,,HOLD THE PHONE...
-Dialogue: 0,0:26:22.31,0:26:24.07,Default,,0,0,0,,BECAUSE,\NIN DRIVING DISTRACTED,
-Dialogue: 0,0:26:24.08,0:26:28.04,Default,,0,0,0,,NEITHER ADAM NOR JAMIE\NCOULD DRIVE SAFELY
-Dialogue: 0,0:26:28.05,0:26:30.35,Default,,0,0,0,,WHILE TALKING HANDS-FREE.
-Dialogue: 0,0:26:37.46,0:26:41.89,Default,,0,0,0,,BUT NOW, IN A LOCATION WAY\NMORE SOPHISTICATED...
-Dialogue: 0,0:26:41.89,0:26:43.66,Default,,0,0,0,,[ LAUGHS ] IT'S LOCKED.
-Dialogue: 0,0:26:43.66,0:26:46.40,Default,,0,0,0,,Narrator:\NIT'S TIME TO UP THE ANTE.
-Dialogue: 0,0:26:46.40,0:26:49.43,Default,,0,0,0,,JAMIE AND I HAVE REALIZED\NWE NEED MUCH MORE CONTROLLED,
-Dialogue: 0,0:26:49.43,0:26:51.97,Default,,0,0,0,,SCIENTIFIC\NAND REALISTIC CONDITIONS,
-Dialogue: 0,0:26:51.97,0:26:55.27,Default,,0,0,0,,WHICH IS WHY WE'VE COME HERE TO\NENLIST THE HELP OF THE EXPERTS
-Dialogue: 0,0:26:55.27,0:26:58.94,Default,,0,0,0,,AT THE STANFORD UNIVERSITY\NAUTOMOTIVE INNOVATION FACILITY.
-Dialogue: 0,0:26:58.94,0:27:01.68,Default,,0,0,0,,WHEN WE ASKED FOR THEIR HELP\NIN GETTING MORE REALISTIC,
-Dialogue: 0,0:27:01.68,0:27:05.15,Default,,0,0,0,,THEY SHOWED US A VIRTUAL WORLD.\NCOME HERE.
-Dialogue: 0,0:27:05.15,0:27:07.95,Default,,0,0,0,,THIS IS THEIR STATE-OF-THE-ART\NDRIVING SIMULATOR.
-Dialogue: 0,0:27:07.95,0:27:09.25,Default,,0,0,0,,IT IS AWESOME.
-Dialogue: 0,0:27:09.25,0:27:10.92,Default,,0,0,0,,FROM THE FRONT SEAT OF THIS CAR,
-Dialogue: 0,0:27:10.92,0:27:13.69,Default,,0,0,0,,YOU ARE COMPLETELY IMMERSED\NIN A WORLD CONTROLLED
-Dialogue: 0,0:27:13.69,0:27:16.46,Default,,0,0,0,,AND DESIGNED BY A COMPUTER,\NINTO WHICH WE CAN ADD
-Dialogue: 0,0:27:16.46,0:27:18.59,Default,,0,0,0,,ALL SORTS OF TRAFFIC,\NPEDESTRIANS, OBSTACLES,
-Dialogue: 0,0:27:18.60,0:27:21.60,Default,,0,0,0,,AND SURPRISES FOR ALL OF OUR\NTEST SUBJECTS, THAT'S RIGHT,
-Dialogue: 0,0:27:21.60,0:27:23.17,Default,,0,0,0,,MANY, MANY TEST SUBJECTS,
-Dialogue: 0,0:27:23.17,0:27:25.57,Default,,0,0,0,,WHILE WE GET TO THE BOTTOM OF\NTHIS MYTH.
-Dialogue: 0,0:27:27.57,0:27:30.24,Default,,0,0,0,,Narrator: IT'S A MULTI-MILLION\NDOLLAR MACHINE...
-Dialogue: 0,0:27:30.24,0:27:31.61,Default,,0,0,0,,ALL RIGHT, THEN.
-Dialogue: 0,0:27:31.61,0:27:34.64,Default,,0,0,0,,GOING FOR A DRIVE\NIN THE SIMULATOR.
-Dialogue: 0,0:27:34.65,0:27:37.91,Default,,0,0,0,,Narrator: WHICH JAMIE\NCAN'T RESIST TURNING UP TO 11.
-Dialogue: 0,0:27:37.92,0:27:40.12,Default,,0,0,0,,[ Strained voice ]\NOKAY, HERE WE GO.
-Dialogue: 0,0:27:40.12,0:27:42.75,Default,,0,0,0,,[ LAUGHS ]\N[ HORN HONKS ]
-Dialogue: 0,0:27:42.75,0:27:47.29,Default,,0,0,0,,I'M GONNA GO THE OTHER WAY.\NWHOA. THIS IS CRAZY.
-Dialogue: 0,0:27:47.29,0:27:48.96,Default,,0,0,0,,AH... [ IMITATES CRASH SOUND ]
-Dialogue: 0,0:27:48.96,0:27:52.73,Default,,0,0,0,,[ LAUGHS ]
-Dialogue: 0,0:27:52.73,0:27:54.26,Default,,0,0,0,,CRAZY DRIVING ASIDE,
-Dialogue: 0,0:27:54.27,0:27:56.90,Default,,0,0,0,,THIS DRIVING SIMULATOR IS\NACTUALLY VERY GOOD.
-Dialogue: 0,0:27:56.90,0:27:59.34,Default,,0,0,0,,YEAH, GET OUT OF MY WAY.\N[ LAUGHS ]
-Dialogue: 0,0:27:59.34,0:28:01.77,Default,,0,0,0,,[ HORN HONKING ]
-Dialogue: 0,0:28:01.77,0:28:03.74,Default,,0,0,0,,THE WAY THE SCREEN WRAPS AROUND,
-Dialogue: 0,0:28:03.74,0:28:06.64,Default,,0,0,0,,THE VISUALS ARE\NCONVINCING ENOUGH
-Dialogue: 0,0:28:06.64,0:28:08.44,Default,,0,0,0,,THAT YOU HAVE TO REMIND YOURSELF
-Dialogue: 0,0:28:08.45,0:28:11.11,Default,,0,0,0,,THAT THIS ISN'T\NA REAL DRIVING SCENARIO.
-Dialogue: 0,0:28:11.12,0:28:14.12,Default,,0,0,0,,HE'S DOING, LIKE, 95.\NINTERESTING.
-Dialogue: 0,0:28:14.12,0:28:15.59,Default,,0,0,0,,I'LL SEE HOW HE LIKES THIS.
-Dialogue: 0,0:28:15.59,0:28:18.82,Default,,0,0,0,,[ HORN BLARES ]
-Dialogue: 0,0:28:18.82,0:28:21.22,Default,,0,0,0,,IN FACT, IT'S SO GOOD THAT
-Dialogue: 0,0:28:21.23,0:28:24.36,Default,,0,0,0,,I WAS STARTING\NTO GET A LITTLE CARSICK.
-Dialogue: 0,0:28:24.36,0:28:29.00,Default,,0,0,0,,SO I THINK, AS FAR AS\NTESTING DISTRACTED DRIVING,
-Dialogue: 0,0:28:29.00,0:28:32.57,Default,,0,0,0,,IT'S AS GOOD A SIMULATION\NAS WE'RE GOING TO GET.
-Dialogue: 0,0:28:32.57,0:28:34.04,Default,,0,0,0,,Narrator:\NAS WELL AS THE FREEWAY...
-Dialogue: 0,0:28:34.04,0:28:36.37,Default,,0,0,0,,[ LAUGHING ]
-Dialogue: 0,0:28:36.37,0:28:39.08,Default,,0,0,0,,Narrator: THERE'S ALSO\NA DETAILED CITYSCAPE...
-Dialogue: 0,0:28:39.08,0:28:42.65,Default,,0,0,0,,[ LAUGHS ] OH, I GUESS\NI BETTER PUT IT IN REVERSE.
-Dialogue: 0,0:28:42.65,0:28:45.72,Default,,0,0,0,,Narrator: ...SO THAT ALL\NDRIVING ENVIRONMENTS ARE TESTED.
-Dialogue: 0,0:28:45.72,0:28:49.92,Default,,0,0,0,,[ JAMIE LAUGHS ]
-Dialogue: 0,0:28:49.92,0:28:51.82,Default,,0,0,0,,Narrator:\NTHE 30 VOLUNTEER DRIVERS
-Dialogue: 0,0:28:51.82,0:28:53.96,Default,,0,0,0,,WILL BE JUDGED ON WHETHER\NTHEY PAY ATTENTION
-Dialogue: 0,0:28:53.96,0:28:55.79,Default,,0,0,0,,TO THE GPS INSTRUCTIONS...
-Dialogue: 0,0:28:55.79,0:28:57.09,Default,,0,0,0,,<i>Automated Male Voice:</i>\N<i>AT THE NEXT INTERSECTION,</i>
-Dialogue: 0,0:28:57.10,0:28:58.33,Default,,0,0,0,,<i>TURN LEFT.</i>
-Dialogue: 0,0:28:58.33,0:29:00.16,Default,,0,0,0,,Narrator: ...AND WHETHER OR NOT\NTHEY CRASH.
-Dialogue: 0,0:29:00.17,0:29:02.80,Default,,0,0,0,,[ TIRES SQUEAL ]\NAH!
-Dialogue: 0,0:29:02.80,0:29:04.53,Default,,0,0,0,,Narrator:\NBUT THAT'S NOT THE ONLY DATA,
-Dialogue: 0,0:29:04.54,0:29:06.87,Default,,0,0,0,,BECAUSE DRIVERS WILL ALSO WEAR\NTHE LATEST
-Dialogue: 0,0:29:06.87,0:29:09.54,Default,,0,0,0,,IN EYE-TRACKING TECHNOLOGY.
-Dialogue: 0,0:29:09.54,0:29:13.21,Default,,0,0,0,,THIS EYE-TRACKING SYSTEM RECORDS\NPRECISELY WHERE AND HOW LONG
-Dialogue: 0,0:29:13.21,0:29:14.94,Default,,0,0,0,,I'M LOOKING AT SOMETHING.
-Dialogue: 0,0:29:14.95,0:29:17.55,Default,,0,0,0,,NOW, THAT'S GONNA GIVE US\NHARD DATA AS TO THE LEVEL OF
-Dialogue: 0,0:29:17.55,0:29:20.38,Default,,0,0,0,,DISTRACTION THAT I'M\NEXPERIENCING WHILE I'M DRIVING.
-Dialogue: 0,0:29:20.39,0:29:22.99,Default,,0,0,0,,Narrator: WITH EAGLE-EYED JAMIE\NALL WIRED UP,
-Dialogue: 0,0:29:22.99,0:29:25.12,Default,,0,0,0,,HE'S GOING TO BE THE FIRST\NDATA OF THE DAY...
-Dialogue: 0,0:29:25.12,0:29:26.89,Default,,0,0,0,,ALL RIGHT.\NCALLING HIM NOW.
-Dialogue: 0,0:29:26.89,0:29:27.99,Default,,0,0,0,,[ CELL PHONE RINGING ]
-Dialogue: 0,0:29:27.99,0:29:29.89,Default,,0,0,0,,Narrator:\NSTARTING AFTER THE BREAK.
-Dialogue: 0,0:29:29.89,0:29:30.96,Default,,0,0,0,,HELLO?
-Dialogue: 0,0:29:40.54,0:29:44.51,Default,,0,0,0,,Narrator: USING A PHONE\NON THE ROAD IS BAD NEWS,
-Dialogue: 0,0:29:44.51,0:29:48.21,Default,,0,0,0,,BUT IS GOING HANDS-FREE\NJUST AS FOOLISH?
-Dialogue: 0,0:29:50.38,0:29:53.25,Default,,0,0,0,,TO FIND OUT,\NTHE MYTHBUSTERS HAVE A SIMULATOR
-Dialogue: 0,0:29:53.25,0:29:54.55,Default,,0,0,0,,THAT'S SECOND TO NONE...
-Dialogue: 0,0:29:54.55,0:29:57.29,Default,,0,0,0,,[ LAUGHS ] I LOVE THIS THING.
-Dialogue: 0,0:29:57.29,0:29:59.05,Default,,0,0,0,,ALL RIGHT.\NCALLING HIM NOW.
-Dialogue: 0,0:29:59.06,0:30:02.29,Default,,0,0,0,,Narrator: AND A HYNEMAN\NTHAT'S GOT HIS HANDS FULL.
-Dialogue: 0,0:30:02.29,0:30:04.53,Default,,0,0,0,,HELLO?\N- Good morning, Mr. Hyneman.
-Dialogue: 0,0:30:04.53,0:30:06.56,Default,,0,0,0,,ARE YOU READY TO START\NTHIS TEST?
-Dialogue: 0,0:30:06.56,0:30:08.16,Default,,0,0,0,,I'M READY.\N- OKAY.
-Dialogue: 0,0:30:08.17,0:30:10.23,Default,,0,0,0,,Kick the car into drive,\Nstart driving,
-Dialogue: 0,0:30:10.23,0:30:12.57,Default,,0,0,0,,AND I'LL START ASKING\NYOU SOME QUESTIONS.
-Dialogue: 0,0:30:12.57,0:30:15.37,Default,,0,0,0,,Narrator: THE QUESTIONS ARE\NSIMILAR TO THOSE POSED BEFORE.
-Dialogue: 0,0:30:15.37,0:30:17.64,Default,,0,0,0,,DID YOU PLAY A MUSICAL\NINSTRUMENT AS A CHILD, JAMIE?
-Dialogue: 0,0:30:17.64,0:30:20.61,Default,,0,0,0,,YEAH, I HAD A-A TUBA\NIN THE BATHROOM
-Dialogue: 0,0:30:20.61,0:30:24.38,Default,,0,0,0,,RIGHT NEXT TO THE TOILET\NTHAT I WOULD PLAY WHEN I WAS,
-Dialogue: 0,0:30:24.38,0:30:26.28,Default,,0,0,0,,YOU KNOW, DOING NUMBER TWO\NOR SOMETHING.
-Dialogue: 0,0:30:26.28,0:30:28.48,Default,,0,0,0,,[ LAUGHS ]
-Dialogue: 0,0:30:28.49,0:30:31.05,Default,,0,0,0,,Narrator: BUT WHAT'S INTERESTING\NIS THAT, ON THE FREEWAY...
-Dialogue: 0,0:30:31.06,0:30:33.06,Default,,0,0,0,,SPEED, UNDERWATER, CAMERA.
-Dialogue: 0,0:30:33.06,0:30:34.89,Default,,0,0,0,,Narrator:\NJAMIE'S DRIVING...
-Dialogue: 0,0:30:34.89,0:30:37.49,Default,,0,0,0,,HOLD ON. YOU KNOW, SOMEBODY JUST\NPULLED IN FRONT OF ME.
-Dialogue: 0,0:30:37.49,0:30:38.89,Default,,0,0,0,,Narrator:\NAND ANSWERS...
-Dialogue: 0,0:30:38.90,0:30:40.30,Default,,0,0,0,,CAMERA, UNDERWATER, SPEED.
-Dialogue: 0,0:30:40.30,0:30:42.23,Default,,0,0,0,,Narrator:\NARE SURPRISINGLY SOLID.
-Dialogue: 0,0:30:42.23,0:30:44.80,Default,,0,0,0,,IN FACT, IT'S ONLY\NWHEN HE HITS THE STREETS...
-Dialogue: 0,0:30:44.80,0:30:46.34,Default,,0,0,0,,12 AND 7.
-Dialogue: 0,0:30:46.34,0:30:47.90,Default,,0,0,0,,Narrator:\NTHAT HE STARTS TO WAVER.
-Dialogue: 0,0:30:47.91,0:30:54.41,Default,,0,0,0,,OKAY, UH, LET'S SEE.\NUH, 19.
-Dialogue: 0,0:30:54.41,0:30:56.45,Default,,0,0,0,,Narrator:\NWITH SO MANY DISTRACTIONS,
-Dialogue: 0,0:30:56.45,0:30:59.88,Default,,0,0,0,,IT'S NO SURPRISE WHEN JAMIE\NTAKES A TURN FOR THE WORSE.
-Dialogue: 0,0:30:59.88,0:31:01.62,Default,,0,0,0,,<i>Automated male voice:</i>\N<i>AT THE NEXT INTERSECTION,</i>
-Dialogue: 0,0:31:01.62,0:31:03.05,Default,,0,0,0,,<i>TURN LEFT.</i>
-Dialogue: 0,0:31:03.05,0:31:04.82,Default,,0,0,0,,[ SIGNAL CLICKING ]
-Dialogue: 0,0:31:04.82,0:31:08.39,Default,,0,0,0,,Jamie,\Nyou have taken a wrong turn,
-Dialogue: 0,0:31:08.39,0:31:10.89,Default,,0,0,0,,AND THAT MEANS THAT\NTHE TEST IS OVER.
-Dialogue: 0,0:31:10.90,0:31:12.13,Default,,0,0,0,,YOU HAVE FAILED.
-Dialogue: 0,0:31:12.13,0:31:13.23,Default,,0,0,0,,OKAY.
-Dialogue: 0,0:31:13.23,0:31:15.00,Default,,0,0,0,,Narrator:\NWITH NO REST FOR THE WICKED,
-Dialogue: 0,0:31:15.00,0:31:18.10,Default,,0,0,0,,JAMIE IMMEDIATELY MOVES ON TO\NTHE HANDS-FREE TEST.
-Dialogue: 0,0:31:18.10,0:31:19.50,Default,,0,0,0,,HELLO.
-Dialogue: 0,0:31:19.50,0:31:23.24,Default,,0,0,0,,What is the longest running race\Nin the Olympic Games called?
-Dialogue: 0,0:31:23.24,0:31:28.71,Default,,0,0,0,,THE LONGEST RUNNING RACE IN, UH,\NIN THE OLYMPIC GAME IS
-Dialogue: 0,0:31:28.71,0:31:30.75,Default,,0,0,0,,CALLED A MARADON.
-Dialogue: 0,0:31:30.75,0:31:32.65,Default,,0,0,0,,A MARADON?\N- MARADON.
-Dialogue: 0,0:31:32.65,0:31:34.35,Default,,0,0,0,,YOU MEAN MARATHON?\N- YEAH.
-Dialogue: 0,0:31:34.35,0:31:35.68,Default,,0,0,0,,OKAY.
-Dialogue: 0,0:31:35.69,0:31:39.12,Default,,0,0,0,,Narrator: ONCE AGAIN,\NJAMIE'S FOCUSED ON THE FREEWAY
-Dialogue: 0,0:31:39.12,0:31:42.32,Default,,0,0,0,,BUT STRUGGLES IN THE CITY\NAS HIS BRAIN TRIES TO PROCESS
-Dialogue: 0,0:31:42.33,0:31:44.89,Default,,0,0,0,,THE TRAFFIC\NAND THE CONVERSATION.
-Dialogue: 0,0:31:44.90,0:31:48.26,Default,,0,0,0,,THE EARTH IS LOCATED\NIN WHAT GALAXY?
-Dialogue: 0,0:31:48.27,0:31:53.40,Default,,0,0,0,,UH, THE, UM...
-Dialogue: 0,0:31:53.40,0:31:56.37,Default,,0,0,0,,You know, I don't know\Nthe answer to that question.
-Dialogue: 0,0:31:56.37,0:31:57.77,Default,,0,0,0,,Narrator:\NLIKE LAST TIME...
-Dialogue: 0,0:31:57.78,0:31:58.77,Default,,0,0,0,,<i>Automated male voice:</i>\N<i>AT THE NEXT INTERSECTION,</i>
-Dialogue: 0,0:31:58.78,0:31:59.91,Default,,0,0,0,,<i>TURN LEFT.</i>
-Dialogue: 0,0:31:59.91,0:32:01.04,Default,,0,0,0,,Narrator:\NJAMIE DOESN'T CRASH,
-Dialogue: 0,0:32:01.05,0:32:03.35,Default,,0,0,0,,BUT HE DOES IGNORE THE GPS...
-Dialogue: 0,0:32:03.35,0:32:06.82,Default,,0,0,0,,OH, I'M SORRY.\NI SCREWED THIS UP.
-Dialogue: 0,0:32:06.82,0:32:08.75,Default,,0,0,0,,Narrator:\N...MEANING HE'S FAILED AGAIN.
-Dialogue: 0,0:32:08.75,0:32:10.42,Default,,0,0,0,,WELL, THE LONG AND THE SHORT\NOF IT IS THAT JAMIE HAS DONE
-Dialogue: 0,0:32:10.42,0:32:12.49,Default,,0,0,0,,THIS TEST TWICE\NIN OUR VIRTUAL ENVIRONMENT,
-Dialogue: 0,0:32:12.49,0:32:14.36,Default,,0,0,0,,ONCE HOLDING THE PHONE,\NONCE HANDS-FREE,
-Dialogue: 0,0:32:14.36,0:32:16.63,Default,,0,0,0,,AND HE HAS FAILED BOTH TIMES.
-Dialogue: 0,0:32:16.63,0:32:18.06,Default,,0,0,0,,IT'S LOOKING PRETTY GOOD\NFOR THIS MYTH,
-Dialogue: 0,0:32:18.06,0:32:20.23,Default,,0,0,0,,BUT WE ARE NOT LEAVING IT HERE.\NNO, NO, NO.
-Dialogue: 0,0:32:20.23,0:32:22.93,Default,,0,0,0,,WE'RE GOING TO FUNNEL\NA WHOLE BUNCH OF VOLUNTEERS
-Dialogue: 0,0:32:22.93,0:32:26.44,Default,,0,0,0,,THROUGH THIS TESTING PROCEDURE\NTO GET SOME REAL NUMBERS
-Dialogue: 0,0:32:26.44,0:32:30.21,Default,,0,0,0,,TO BACK UP\NOUR POTENTIAL CONCLUSION.
-Dialogue: 0,0:32:34.14,0:32:36.98,Default,,0,0,0,,Narrator: FIRST OF\NTHE 30 VOLUNTEERS IS TIFFANY,
-Dialogue: 0,0:32:36.98,0:32:39.38,Default,,0,0,0,,WHO WILL BE DRIVING\NHANDS-FULL.
-Dialogue: 0,0:32:39.38,0:32:42.75,Default,,0,0,0,,THE FIRST THING I WANT TO KNOW\NIS WHAT MUSICAL INSTRUMENT
-Dialogue: 0,0:32:42.75,0:32:44.62,Default,,0,0,0,,YOU PLAYED AS A CHILD.
-Dialogue: 0,0:32:44.62,0:32:47.12,Default,,0,0,0,,NONE.
-Dialogue: 0,0:32:47.12,0:32:49.39,Default,,0,0,0,,Narrator: ON THE FREEWAY,\NHER DRIVING IS SOLID...
-Dialogue: 0,0:32:49.39,0:32:50.63,Default,,0,0,0,,LOGIC QUESTIONS.
-Dialogue: 0,0:32:50.63,0:32:52.26,Default,,0,0,0,,Narrator:\NAND HER ANSWERS ARE PERFECT.
-Dialogue: 0,0:32:52.26,0:32:55.10,Default,,0,0,0,,Name four days that start\Nwith the letter "T."
-Dialogue: 0,0:32:55.10,0:32:57.70,Default,,0,0,0,,TODAY, TOMORROW, TUESDAY,\NAND THURSDAY.
-Dialogue: 0,0:32:57.70,0:32:58.93,Default,,0,0,0,,EXCELLENT.
-Dialogue: 0,0:32:58.94,0:33:01.70,Default,,0,0,0,,Narrator: BUT MOMENTS\NAFTER HITTING THE CITY...
-Dialogue: 0,0:33:01.71,0:33:05.21,Default,,0,0,0,,HOW MUCH DIRT IS --
-Dialogue: 0,0:33:05.21,0:33:08.64,Default,,0,0,0,,OH, WE JUST RAN DOWN\NA CYCLIST.
-Dialogue: 0,0:33:08.65,0:33:09.85,Default,,0,0,0,,THIS TEST IS OVER.
-Dialogue: 0,0:33:11.82,0:33:13.75,Default,,0,0,0,,[ LINE RINGING ]
-Dialogue: 0,0:33:13.75,0:33:14.78,Default,,0,0,0,,Narrator:\NNEXT UP IS MICHAEL.
-Dialogue: 0,0:33:14.79,0:33:16.22,Default,,0,0,0,,HELLO?
-Dialogue: 0,0:33:16.22,0:33:18.82,Default,,0,0,0,,Narrator: AND, HANDS-FREE,\NHE'S FINE ON THE FREEWAY...
-Dialogue: 0,0:33:18.82,0:33:22.06,Default,,0,0,0,,WHAT IS SOMETHING YOU HAVE AT\NHOME THAT YOU SHOULD THROW AWAY,
-Dialogue: 0,0:33:22.06,0:33:23.29,Default,,0,0,0,,BUT YOU CAN'T?
-Dialogue: 0,0:33:23.29,0:33:26.09,Default,,0,0,0,,AH, MY OLD COMPUTER.
-Dialogue: 0,0:33:26.10,0:33:28.96,Default,,0,0,0,,I STILL HAVE ONE THAT\NGOT BUILT IN, LIKE, '95.
-Dialogue: 0,0:33:28.97,0:33:31.00,Default,,0,0,0,,Narrator:\NBUT DEADLY DOWNTOWN.
-Dialogue: 0,0:33:31.00,0:33:33.54,Default,,0,0,0,,UM, WHICH COUNTRY --\N[ TIRES SQUEAL ]
-Dialogue: 0,0:33:33.54,0:33:35.54,Default,,0,0,0,,OH! AHH.
-Dialogue: 0,0:33:35.54,0:33:37.61,Default,,0,0,0,,I-I BELIEVE THAT MIGHT BE\NTHE END OF OUR TEST THERE,
-Dialogue: 0,0:33:37.61,0:33:38.77,Default,,0,0,0,,MICHAEL.
-Dialogue: 0,0:33:38.78,0:33:40.08,Default,,0,0,0,,WHERE DID THAT COME FROM?
-Dialogue: 0,0:33:40.08,0:33:43.05,Default,,0,0,0,,[ LAUGHS ]
-Dialogue: 0,0:33:43.05,0:33:44.31,Default,,0,0,0,,THANK YOU VERY MUCH, SIR.
-Dialogue: 0,0:33:46.68,0:33:47.78,Default,,0,0,0,,[ BLEEP ]
-Dialogue: 0,0:33:47.79,0:33:48.98,Default,,0,0,0,,Narrator:\NWHEN THE NEXT FOUR VOLUNTEERS
-Dialogue: 0,0:33:48.99,0:33:50.99,Default,,0,0,0,,ALSO CRASH AND BURN...
-Dialogue: 0,0:33:50.99,0:33:53.82,Default,,0,0,0,,AH!
-Dialogue: 0,0:33:53.82,0:33:55.72,Default,,0,0,0,,Narrator:\NIT'S LOOKING GOOD FOR THE MYTH.
-Dialogue: 0,0:33:55.73,0:34:00.13,Default,,0,0,0,,STOP THE CAR AND, PLEASE,\NLICENSE AND REGISTRATION, MA'AM.
-Dialogue: 0,0:34:00.13,0:34:01.86,Default,,0,0,0,,Narrator:\NAND ALTHOUGH DRIVER SEVEN
-Dialogue: 0,0:34:01.87,0:34:04.17,Default,,0,0,0,,DOES MAKE IT THROUGH\NTHE COURSE INTACT...
-Dialogue: 0,0:34:04.17,0:34:05.53,Default,,0,0,0,,ALL RIGHT,\NUH, CONGRATULATIONS.
-Dialogue: 0,0:34:05.54,0:34:07.50,Default,,0,0,0,,YOU HAVE SUCCESSFULLY\NCOMPLETED THE TEST.
-Dialogue: 0,0:34:07.50,0:34:09.54,Default,,0,0,0,,Narrator:\NNEARLY ALL OTHER DRIVERS,
-Dialogue: 0,0:34:09.54,0:34:12.71,Default,,0,0,0,,WHATEVER THEIR PHONE FASHION,\NEITHER GET LOST...
-Dialogue: 0,0:34:12.71,0:34:16.55,Default,,0,0,0,,UH, RON, I'M SORRY TO INFORM YOU\NTHAT YOU HAVE NOW MISSED A TURN.
-Dialogue: 0,0:34:16.55,0:34:18.08,Default,,0,0,0,,AND THUS, THE TEST IS OVER.
-Dialogue: 0,0:34:18.08,0:34:19.48,Default,,0,0,0,,Narrator: ...OR WORSE.
-Dialogue: 0,0:34:22.15,0:34:23.82,Default,,0,0,0,,OH, WE HAD A CRASH,\NDIDN'T WE?
-Dialogue: 0,0:34:23.82,0:34:26.32,Default,,0,0,0,,Narrator: UNDETERRED,\NTHE GUYS PLOW ON
-Dialogue: 0,0:34:26.32,0:34:28.52,Default,,0,0,0,,THROUGH TWO FULL DAYS OF\NTESTING.
-Dialogue: 0,0:34:28.53,0:34:33.33,Default,,0,0,0,,AND WHEN VOLUNTEER 30\NTAKES DRAMATIC EVASIVE ACTION...
-Dialogue: 0,0:34:33.33,0:34:35.73,Default,,0,0,0,,[ LAUGHS ] I SUCK AT THIS.
-Dialogue: 0,0:34:35.73,0:34:38.97,Default,,0,0,0,,Narrator: THE GUYS HAVE ALL\NTHE DATA THEY COULD HOPE FOR.
-Dialogue: 0,0:34:38.97,0:34:40.50,Default,,0,0,0,,ALL RIGHT,\NWE HAVE RUN A LOT OF VOLUNTEERS
-Dialogue: 0,0:34:40.50,0:34:42.60,Default,,0,0,0,,THROUGH THIS EXPERIMENT,\NAND WE'VE GOT A LOT OF DATA
-Dialogue: 0,0:34:42.61,0:34:43.84,Default,,0,0,0,,TO TAKE A LOOK AT.
-Dialogue: 0,0:34:43.84,0:34:45.67,Default,,0,0,0,,SO IT'S TIME TO LEAVE\NTHIS VIRTUAL WORLD,
-Dialogue: 0,0:34:45.68,0:34:48.31,Default,,0,0,0,,DRIVE THROUGH THE REAL WORLD,\NBACK TO OUR SHOP,
-Dialogue: 0,0:34:48.31,0:34:50.51,Default,,0,0,0,,AND CRUNCH THE NUMBERS.
-Dialogue: 0,0:34:54.62,0:34:57.15,Default,,0,0,0,,NO WAY.\NTHEY SAID THAT?
-Dialogue: 0,0:34:57.15,0:34:58.52,Default,,0,0,0,,THAT IS HILARIOUS.
-Dialogue: 0,0:34:58.52,0:34:59.79,Default,,0,0,0,,HOLD ON JUST A SECOND.\NWHAT?
-Dialogue: 0,0:34:59.79,0:35:02.79,Default,,0,0,0,,WE WERE WAITING FOR THE RESULTS\NON DISTRACTED DRIVING.
-Dialogue: 0,0:35:02.79,0:35:05.29,Default,,0,0,0,,OH, OKAY.\NUH, I GOT TO CALL YOU BACK.
-Dialogue: 0,0:35:05.30,0:35:06.63,Default,,0,0,0,,[ BEEP ]\N- YES, WE HAVE RESULTS.
-Dialogue: 0,0:35:06.63,0:35:09.87,Default,,0,0,0,,WE TESTED 30 DRIVERS OUT\NIN STANFORD, 15 HANDS-FULL,
-Dialogue: 0,0:35:09.87,0:35:11.27,Default,,0,0,0,,15 HANDS-FREE.
-Dialogue: 0,0:35:11.27,0:35:12.87,Default,,0,0,0,,HERE IS THE RESULT.
-Dialogue: 0,0:35:12.87,0:35:14.60,Default,,0,0,0,,Uh, HANDS-FULL -- ONE PASSED,
-Dialogue: 0,0:35:14.61,0:35:17.97,Default,,0,0,0,,FIVE FAILED BY DRIVING THE WRONG\NWAY, NINE FAILED BY CRASHING.
-Dialogue: 0,0:35:17.98,0:35:21.54,Default,,0,0,0,,HANDS-FREE -- ONE PASSED,\NSIX FAILED BY GETTING LOST,
-Dialogue: 0,0:35:21.55,0:35:23.18,Default,,0,0,0,,AND EIGHT FAILED BY CRASHING.
-Dialogue: 0,0:35:23.18,0:35:24.71,Default,,0,0,0,,WHAT'S THAT MEAN\NSTATISTICALLY?
-Dialogue: 0,0:35:24.72,0:35:27.35,Default,,0,0,0,,STATISTICALLY,\NIT MEANS NO DIFFERENCE.
-Dialogue: 0,0:35:27.35,0:35:28.85,Default,,0,0,0,,AND WHAT ABOUT EYE TRACKING?
-Dialogue: 0,0:35:28.85,0:35:30.62,Default,,0,0,0,,THE EYE TRACKER\NWAS VERY INTERESTING.
-Dialogue: 0,0:35:30.62,0:35:33.89,Default,,0,0,0,,ACROSS ALL 30 DRIVERS,\NTHE AMOUNT OF TIME THEY SPENT
-Dialogue: 0,0:35:33.89,0:35:35.79,Default,,0,0,0,,LOOKING AT SOMETHING\NOTHER THAN THE ROAD
-Dialogue: 0,0:35:35.79,0:35:39.76,Default,,0,0,0,,WAS IDENTICAL BETWEEN\NHANDS-FREE AND HANDS-FULL.
-Dialogue: 0,0:35:39.76,0:35:41.40,Default,,0,0,0,,WELL, THERE YOU HAVE IT.\N[ CELL PHONE BEEPS ]
-Dialogue: 0,0:35:41.40,0:35:43.87,Default,,0,0,0,,DON'T USE YOUR CELL PHONE\NWHILE YOU'RE DRIVING.
-Dialogue: 0,0:35:43.87,0:35:45.40,Default,,0,0,0,,YEAH, I'M DONE. OKAY.
-Dialogue: 0,0:35:45.40,0:35:48.40,Default,,0,0,0,,SO, WHERE DO YOU WANT TO\NMEET FOR LUNCH? ABSOLUTELY.
-Dialogue: 0,0:35:54.18,0:35:58.15,Default,,0,0,0,,Narrator: COMING RIGHT UP,\NTHE GUYS REV IN REVERSE...
-Dialogue: 0,0:35:58.15,0:35:59.75,Default,,0,0,0,,YEAH!
-Dialogue: 0,0:35:59.75,0:36:01.58,Default,,0,0,0,,Narrator:\NFOR A CONFOUNDING CONCLUSION.
-Dialogue: 0,0:36:01.59,0:36:05.29,Default,,0,0,0,,[ TIRES SQUEAL ]\NAH!
-Dialogue: 0,0:36:09.79,0:36:12.39,Default,,0,0,0,,Narrator: IN DRIVING IN REVERSE,\NTHERE'S A PROBLEM.
-Dialogue: 0,0:36:12.40,0:36:15.36,Default,,0,0,0,,WE -- WE CAN'T CATCH\NA BREAK TODAY.
-Dialogue: 0,0:36:15.37,0:36:17.53,Default,,0,0,0,,WE JUST ROLLED UP THE WINDOWS
-Dialogue: 0,0:36:17.53,0:36:19.50,Default,,0,0,0,,'CAUSE THE WIND'S\NSO DIABOLICAL,
-Dialogue: 0,0:36:19.50,0:36:22.40,Default,,0,0,0,,AND WE LOCKED THE KEYS INSIDE.\N[ LAUGHS ]
-Dialogue: 0,0:36:22.41,0:36:24.67,Default,,0,0,0,,Narrator: LUCKILY, FOR ONCE,
-Dialogue: 0,0:36:24.67,0:36:27.28,Default,,0,0,0,,THERE'S A COP AROUND\NWHEN YOU NEED HIM.
-Dialogue: 0,0:36:30.38,0:36:31.98,Default,,0,0,0,,HEY!\N- BINGO.
-Dialogue: 0,0:36:31.98,0:36:33.72,Default,,0,0,0,,[ LAUGHS ]
-Dialogue: 0,0:36:33.72,0:36:37.02,Default,,0,0,0,,MYTHBUSTERS,\NREPOSSESSING CARS SINCE 1979.
-Dialogue: 0,0:36:44.33,0:36:46.83,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:36:46.83,0:36:49.13,Default,,0,0,0,,IT'S ALL ABOUT REVERSE DRIVING\NIN THIS EPISODE,
-Dialogue: 0,0:36:49.13,0:36:52.63,Default,,0,0,0,,AND HOW EASY IT IS VERSUS HOW\NEASY HOLLYWOOD MAKES IT SEEM.
-Dialogue: 0,0:36:52.63,0:36:54.53,Default,,0,0,0,,WHOA!
-Dialogue: 0,0:36:54.54,0:36:56.44,Default,,0,0,0,,JAMIE AND I HAVE TRIED OUT\NSOME COURSES OURSELVES.
-Dialogue: 0,0:36:56.44,0:36:58.57,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:36:58.57,0:37:00.37,Default,,0,0,0,,[ LAUGHS ]
-Dialogue: 0,0:37:00.38,0:37:02.64,Default,,0,0,0,,WE'VE BEEN TRAINED BY A COP\NWHO IS AN EXPERT
-Dialogue: 0,0:37:02.64,0:37:03.84,Default,,0,0,0,,IN DRIVING IN REVERSE.
-Dialogue: 0,0:37:03.85,0:37:05.95,Default,,0,0,0,,HERE WE GO. 3, 2...
-Dialogue: 0,0:37:05.95,0:37:07.08,Default,,0,0,0,,THE REVERSE.\N- OH.
-Dialogue: 0,0:37:07.08,0:37:09.35,Default,,0,0,0,,THERE WE GO.\N- THANK YOU. [ LAUGHS ]
-Dialogue: 0,0:37:09.35,0:37:11.32,Default,,0,0,0,,SO NOW, IT'S TIME FOR ME\NTO TAKE ALL OF THE SKILLS
-Dialogue: 0,0:37:11.32,0:37:14.39,Default,,0,0,0,,I'VE THUS FAR LEARNED\NAND PUT THEM TO A REAL TEST.
-Dialogue: 0,0:37:14.39,0:37:16.39,Default,,0,0,0,,I'M HERE AT\NAN ABANDONED NEIGHBORHOOD
-Dialogue: 0,0:37:16.39,0:37:19.66,Default,,0,0,0,,IN MARINA, CALIFORNIA, WHERE MY\NCREW HAS SET UP A COURSE,
-Dialogue: 0,0:37:19.66,0:37:23.86,Default,,0,0,0,,AND I'M JUST SUPPOSED TO DRIVE\NAS FAST AS I CAN IN REVERSE.
-Dialogue: 0,0:37:23.87,0:37:26.13,Default,,0,0,0,,I'M ACTUALLY PRETTY CURIOUS\NHOW THIS IS GONNA TURN OUT.
-Dialogue: 0,0:37:26.13,0:37:31.94,Default,,0,0,0,,Narrator: THIS FINAL FAREWELL IS\NA HALF MILE OF TWISTS AND TURNS.
-Dialogue: 0,0:37:31.94,0:37:36.31,Default,,0,0,0,,BUT IT'S GOT A WHOLE LOT\NMORE BESIDES...
-Dialogue: 0,0:37:36.31,0:37:40.88,Default,,0,0,0,,AS THE GUYS HAVE PUT THE MOVIE\NMAYHEM BACK INTO THIS MYTH.
-Dialogue: 0,0:37:40.88,0:37:43.48,Default,,0,0,0,,AND THAT'S NOT JUST THE PROPS.
-Dialogue: 0,0:37:43.49,0:37:45.32,Default,,0,0,0,,WE'RE GONNA PUT A LITTLE\NPRESSURE ON ADAM,
-Dialogue: 0,0:37:45.32,0:37:47.95,Default,,0,0,0,,BECAUSE I'M GONNA BE\NIN A COP CAR
-Dialogue: 0,0:37:47.96,0:37:49.99,Default,,0,0,0,,ON HIS ASS THE WHOLE WAY,
-Dialogue: 0,0:37:49.99,0:37:53.63,Default,,0,0,0,,WITH THE SOLE EXCEPTION THAT,\NWHEN HE SEES ME AND TAKES OFF,
-Dialogue: 0,0:37:53.63,0:37:56.03,Default,,0,0,0,,I'M GONNA BE OUTSIDE MY CAR.
-Dialogue: 0,0:37:56.03,0:37:58.87,Default,,0,0,0,,SO HE'S GONNA HAVE JUST\NA LITTLE BIT OF A HEAD START.
-Dialogue: 0,0:37:58.87,0:38:02.80,Default,,0,0,0,,Narrator: ADAM'S GOAL,\NLIKE THE CLASSIC HOLLYWOOD HERO,
-Dialogue: 0,0:38:02.80,0:38:06.91,Default,,0,0,0,,IS TO MAKE IT TO THE FINISH LINE\NBEFORE THOSE PESKY POLICE.
-Dialogue: 0,0:38:06.91,0:38:08.74,Default,,0,0,0,,THAT IS A COP.\NTHAT'S BAD.
-Dialogue: 0,0:38:08.74,0:38:11.21,Default,,0,0,0,,Narrator: BUT WITH REVERSE GEAR\NHIS ONLY OPTION,
-Dialogue: 0,0:38:11.21,0:38:13.41,Default,,0,0,0,,WILL HE ESCAPE TO VICTORY?
-Dialogue: 0,0:38:13.42,0:38:16.25,Default,,0,0,0,,HERE WE GO. BYE, COP.\N[ TIRES SQUEAL ]
-Dialogue: 0,0:38:16.25,0:38:19.35,Default,,0,0,0,,Narrator: THE CHASE IS ON.
-Dialogue: 0,0:38:19.35,0:38:21.32,Default,,0,0,0,,HERE WE GO.\NGETTIN' THE HECK OUTTA HERE.
-Dialogue: 0,0:38:21.32,0:38:23.59,Default,,0,0,0,,Narrator: AND BY THE TIME\NJAMIE'S GOT GOING,
-Dialogue: 0,0:38:23.59,0:38:25.89,Default,,0,0,0,,ADAM'S ALREADY OUT OF SIGHT.
-Dialogue: 0,0:38:25.89,0:38:27.69,Default,,0,0,0,,MAKE A RIGHT-HAND TURN HERE.
-Dialogue: 0,0:38:27.70,0:38:29.80,Default,,0,0,0,,DON'T LET GO OF THAT WHEEL.
-Dialogue: 0,0:38:29.80,0:38:31.46,Default,,0,0,0,,Narrator: BY SHIFTING TO\NTHE CENTRAL POSITION,
-Dialogue: 0,0:38:31.47,0:38:33.80,Default,,0,0,0,,HE'S ABLE TO NAVIGATE\NWITH SKILL.
-Dialogue: 0,0:38:33.80,0:38:36.50,Default,,0,0,0,,WHOA. FLAMING CAR! DUDE.
-Dialogue: 0,0:38:36.50,0:38:39.37,Default,,0,0,0,,OH, MAN.\NPOST-APOCALYPSE.
-Dialogue: 0,0:38:39.37,0:38:41.71,Default,,0,0,0,,Narrator:\NAT LEAST, WHEN HE WANTS TO.
-Dialogue: 0,0:38:41.71,0:38:44.74,Default,,0,0,0,,I WANT THOSE BOXES.\NCOME ON. YEAH!
-Dialogue: 0,0:38:44.75,0:38:47.98,Default,,0,0,0,,Narrator: BUT WHILE HIS STEERING\NIS SUPREME...
-Dialogue: 0,0:38:47.98,0:38:51.18,Default,,0,0,0,,I DON'T KNOW WHERE HE IS.\NI HOPE HE'S NOT CLOSE.
-Dialogue: 0,0:38:51.19,0:38:55.19,Default,,0,0,0,,Narrator: HIS SPEED, WHILE FAST,\NIS NO MATCH FOR JAMIE.
-Dialogue: 0,0:38:55.19,0:38:56.32,Default,,0,0,0,,OH, FRUIT STAND.
-Dialogue: 0,0:38:56.32,0:38:57.46,Default,,0,0,0,,I'M NOT GONNA MISS\NTHE FRUIT STAND.
-Dialogue: 0,0:39:07.07,0:39:12.84,Default,,0,0,0,,WHOA! AAH. OH! [ LAUGHS ]
-Dialogue: 0,0:39:12.84,0:39:15.38,Default,,0,0,0,,Narrator: ADAM MAY BE DOWN,\NBUT HE'S NOT OUT,
-Dialogue: 0,0:39:15.38,0:39:16.94,Default,,0,0,0,,AS HE REVERSES BACK UPHILL...
-Dialogue: 0,0:39:16.95,0:39:19.08,Default,,0,0,0,,AH, I'M GOING STILL!
-Dialogue: 0,0:39:19.08,0:39:24.08,Default,,0,0,0,,Narrator: A STRATEGY THAT\NTHE HYNEMAN THEN COPIES.
-Dialogue: 0,0:39:24.09,0:39:26.99,Default,,0,0,0,,WITH BOTH DRIVERS NOW REVVING\NIN REVERSE,
-Dialogue: 0,0:39:26.99,0:39:30.59,Default,,0,0,0,,IT'S A CASE OF WHO'S GONNA\NBLINK FIRST.
-Dialogue: 0,0:39:30.59,0:39:33.76,Default,,0,0,0,,[ TIRES SQUEAL ]
-Dialogue: 0,0:39:33.76,0:39:36.43,Default,,0,0,0,,OH! [ LAUGHS ]
-Dialogue: 0,0:39:36.43,0:39:38.26,Default,,0,0,0,,OH.
-Dialogue: 0,0:39:38.27,0:39:40.77,Default,,0,0,0,,YET ANOTHER IN THE LONG LINE OF\NTHINGS THAT WE SHOULD JUST
-Dialogue: 0,0:39:40.77,0:39:43.40,Default,,0,0,0,,SET UP FOR THE PUBLIC\NAND CHARGE MONEY FOR.
-Dialogue: 0,0:39:43.41,0:39:45.81,Default,,0,0,0,,THAT WAS AWESOME.
-Dialogue: 0,0:39:45.81,0:39:48.24,Default,,0,0,0,,STEP OUT OF THE CAR\NWITH YOUR HANDS UP.
-Dialogue: 0,0:39:48.24,0:39:53.01,Default,,0,0,0,,OKAY. [ LAUGHS ]
-Dialogue: 0,0:39:53.01,0:39:55.38,Default,,0,0,0,,THAT WAS SO MUCH FUN.\N- [ LAUGHS ]
-Dialogue: 0,0:39:55.38,0:39:58.85,Default,,0,0,0,,OH, MY GOD.\NTHAT WAS THE BEST THING EVER.
-Dialogue: 0,0:40:02.46,0:40:05.12,Default,,0,0,0,,WELL, THAT WENT PRETTY MUCH AS\NGOOD AS I COULD HAVE IMAGINED.
-Dialogue: 0,0:40:05.13,0:40:06.89,Default,,0,0,0,,FIRST OFF,\NTHE COURSE WAS AMAZING,
-Dialogue: 0,0:40:06.90,0:40:09.73,Default,,0,0,0,,FULL OF ALL SORTS OF\NREALLY INTERESTING OBSTACLES,
-Dialogue: 0,0:40:09.73,0:40:12.07,Default,,0,0,0,,FROM FRUIT STANDS TO DUDES\NFIXING THEIR CARS TO,
-Dialogue: 0,0:40:12.07,0:40:14.60,Default,,0,0,0,,COME ON, A FLAMING CAR.
-Dialogue: 0,0:40:14.60,0:40:17.90,Default,,0,0,0,,I ALSO WAS ABLE TO GO THROUGH IT\NREALLY FAST, I MEAN,
-Dialogue: 0,0:40:17.91,0:40:20.67,Default,,0,0,0,,FAST ENOUGH WHERE I ALMOST LOST\NCONTROL OF THE CAR ON A COUPLE
-Dialogue: 0,0:40:20.68,0:40:21.91,Default,,0,0,0,,OF THE STRAIGHTAWAYS.
-Dialogue: 0,0:40:21.91,0:40:23.88,Default,,0,0,0,,LIKE, IT STARTED FISHTAILING.
-Dialogue: 0,0:40:23.88,0:40:25.28,Default,,0,0,0,,BUT BECAUSE OF BRIAN'S TRAINING,
-Dialogue: 0,0:40:25.28,0:40:27.85,Default,,0,0,0,,I WAS ABLE TO BRING THE CAR\NBACK UNDER CONTROL.
-Dialogue: 0,0:40:27.85,0:40:31.35,Default,,0,0,0,,OH, OH, ALMOST LOST\NA LITTLE CONTROL THERE.
-Dialogue: 0,0:40:31.35,0:40:34.95,Default,,0,0,0,,THEN, I ACTUALLY SPUN OUT\NWHEN JAMIE HIT ME.
-Dialogue: 0,0:40:34.96,0:40:37.16,Default,,0,0,0,,BUT AGAIN, IN REVERSE,\NI BOLTED BACK UP THE HILL.
-Dialogue: 0,0:40:37.16,0:40:40.09,Default,,0,0,0,,AND JAMIE CHASED ME, AND IT WAS\NALL GOING PRETTY GOOD.
-Dialogue: 0,0:40:40.10,0:40:43.60,Default,,0,0,0,,BUT I WAS GOING TOO FAST ON\NTHE ACCELERATOR AND I SPUN OUT.
-Dialogue: 0,0:40:43.60,0:40:46.63,Default,,0,0,0,,HE JAMMED INTO MY FRONT WHEEL,\NAND I COULD NOT MOVE.
-Dialogue: 0,0:40:46.63,0:40:48.13,Default,,0,0,0,,TEST OVER.
-Dialogue: 0,0:40:51.71,0:40:53.04,Default,,0,0,0,,SO HOW DO YOU WANNA CALL IT?
-Dialogue: 0,0:40:53.04,0:40:54.77,Default,,0,0,0,,I HAVE TO SAY,\NI STARTED THIS STORY
-Dialogue: 0,0:40:54.78,0:40:56.74,Default,,0,0,0,,THINKING IT WAS GONNA BE\NHANDILY BUSTED.
-Dialogue: 0,0:40:56.75,0:41:00.05,Default,,0,0,0,,AND I AM NOW THINKING THAT\NIT'S ACTUALLY PLAUSIBLE,
-Dialogue: 0,0:41:00.05,0:41:01.91,Default,,0,0,0,,THAT IT'S NOT UNREASONABLE\NHOW MUCH SPEED
-Dialogue: 0,0:41:01.92,0:41:04.85,Default,,0,0,0,,AND MANEUVERABILITY YOU CAN GET\NGOING IN REVERSE.
-Dialogue: 0,0:41:04.85,0:41:07.39,Default,,0,0,0,,YEAH, I MEAN, BOTH OF US,\NI THINK,
-Dialogue: 0,0:41:07.39,0:41:12.26,Default,,0,0,0,,IF WE HAD OUR CHOICE WOULD GO,\NYOU KNOW, FRONT FORWARD, UM,
-Dialogue: 0,0:41:12.26,0:41:14.09,Default,,0,0,0,,'CAUSE THAT'S GONNA BE\NYOUR BETTER OPTION.
-Dialogue: 0,0:41:14.10,0:41:15.90,Default,,0,0,0,,BUT IT'S SURPRISING\NHOW GOOD IT CAN BE.
-Dialogue: 0,0:41:15.90,0:41:17.93,Default,,0,0,0,,LET'S CALL IT PLAUSIBLE.\NALL RIGHT.
-Dialogue: 0,0:41:17.93,0:41:19.63,Default,,0,0,0,,I'M GONNA DRIVE FORWARD HOME,\NTHOUGH.
-Dialogue: 0,0:41:19.63,0:41:22.74,Default,,0,0,0,,IF YOU CAN.\N- [ LAUGHS ]
+Dialogue: 0,0:25:51.94,0:25:54.21,Default,,0,0,0,,boom! that was cool.
+Dialogue: 0,0:25:54.21,0:25:59.38,Default,,0,0,0,,narrator: it's close to\nan astounding result.
+Dialogue: 0,0:25:59.38,0:26:01.68,Default,,0,0,0,,with just two minor\nmodifications...
+Dialogue: 0,0:26:01.69,0:26:02.89,Default,,0,0,0,,adam: yeah!
+Dialogue: 0,0:26:02.89,0:26:06.42,Default,,0,0,0,,narrator: adam's bettered\nhis best by over 15%.
+Dialogue: 0,0:26:06.42,0:26:08.86,Default,,0,0,0,,all right, guess it's time to\nbring on the next event.
+Dialogue: 0,0:26:08.86,0:26:09.93,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:26:09.93,0:26:11.83,Default,,0,0,0,,narrator:\nand what that means is,
+Dialogue: 0,0:26:11.83,0:26:15.30,Default,,0,0,0,,it's time for some\nreal-life movie mayhem.
+Dialogue: 0,0:26:15.30,0:26:18.70,Default,,0,0,0,,but first...
+Dialogue: 0,0:26:18.70,0:26:22.31,Default,,0,0,0,,hold the phone...
+Dialogue: 0,0:26:22.31,0:26:24.07,Default,,0,0,0,,because,\nin driving distracted,
+Dialogue: 0,0:26:24.08,0:26:28.04,Default,,0,0,0,,neither adam nor jamie\ncould drive safely
+Dialogue: 0,0:26:28.05,0:26:30.35,Default,,0,0,0,,while talking hands-free.
+Dialogue: 0,0:26:37.46,0:26:41.89,Default,,0,0,0,,but now, in a location way\nmore sophisticated...
+Dialogue: 0,0:26:41.89,0:26:43.66,Default,,0,0,0,,[ laughs ] it's locked.
+Dialogue: 0,0:26:43.66,0:26:46.40,Default,,0,0,0,,narrator:\nit's time to up the ante.
+Dialogue: 0,0:26:46.40,0:26:49.43,Default,,0,0,0,,jamie and i have realized\nwe need much more controlled,
+Dialogue: 0,0:26:49.43,0:26:51.97,Default,,0,0,0,,scientific\nand realistic conditions,
+Dialogue: 0,0:26:51.97,0:26:55.27,Default,,0,0,0,,which is why we've come here to\nenlist the help of the experts
+Dialogue: 0,0:26:55.27,0:26:58.94,Default,,0,0,0,,at the stanford university\nautomotive innovation facility.
+Dialogue: 0,0:26:58.94,0:27:01.68,Default,,0,0,0,,when we asked for their help\nin getting more realistic,
+Dialogue: 0,0:27:01.68,0:27:05.15,Default,,0,0,0,,they showed us a virtual world.\ncome here.
+Dialogue: 0,0:27:05.15,0:27:07.95,Default,,0,0,0,,this is their state-of-the-art\ndriving simulator.
+Dialogue: 0,0:27:07.95,0:27:09.25,Default,,0,0,0,,it is awesome.
+Dialogue: 0,0:27:09.25,0:27:10.92,Default,,0,0,0,,from the front seat of this car,
+Dialogue: 0,0:27:10.92,0:27:13.69,Default,,0,0,0,,you are completely immersed\nin a world controlled
+Dialogue: 0,0:27:13.69,0:27:16.46,Default,,0,0,0,,and designed by a computer,\ninto which we can add
+Dialogue: 0,0:27:16.46,0:27:18.59,Default,,0,0,0,,all sorts of traffic,\npedestrians, obstacles,
+Dialogue: 0,0:27:18.60,0:27:21.60,Default,,0,0,0,,and surprises for all of our\ntest subjects, that's right,
+Dialogue: 0,0:27:21.60,0:27:23.17,Default,,0,0,0,,many, many test subjects,
+Dialogue: 0,0:27:23.17,0:27:25.57,Default,,0,0,0,,while we get to the bottom of\nthis myth.
+Dialogue: 0,0:27:27.57,0:27:30.24,Default,,0,0,0,,narrator: it's a multi-million\ndollar machine...
+Dialogue: 0,0:27:30.24,0:27:31.61,Default,,0,0,0,,all right, then.
+Dialogue: 0,0:27:31.61,0:27:34.64,Default,,0,0,0,,going for a drive\nin the simulator.
+Dialogue: 0,0:27:34.65,0:27:37.91,Default,,0,0,0,,narrator: which jamie\ncan't resist turning up to 11.
+Dialogue: 0,0:27:37.92,0:27:40.12,Default,,0,0,0,,[ strained voice ]\nokay, here we go.
+Dialogue: 0,0:27:40.12,0:27:42.75,Default,,0,0,0,,[ laughs ]\n[ horn honks ]
+Dialogue: 0,0:27:42.75,0:27:47.29,Default,,0,0,0,,i'm gonna go the other way.\nwhoa. this is crazy.
+Dialogue: 0,0:27:47.29,0:27:48.96,Default,,0,0,0,,ah... [ imitates crash sound ]
+Dialogue: 0,0:27:48.96,0:27:52.73,Default,,0,0,0,,[ laughs ]
+Dialogue: 0,0:27:52.73,0:27:54.26,Default,,0,0,0,,crazy driving aside,
+Dialogue: 0,0:27:54.27,0:27:56.90,Default,,0,0,0,,this driving simulator is\nactually very good.
+Dialogue: 0,0:27:56.90,0:27:59.34,Default,,0,0,0,,yeah, get out of my way.\n[ laughs ]
+Dialogue: 0,0:27:59.34,0:28:01.77,Default,,0,0,0,,[ horn honking ]
+Dialogue: 0,0:28:01.77,0:28:03.74,Default,,0,0,0,,the way the screen wraps around,
+Dialogue: 0,0:28:03.74,0:28:06.64,Default,,0,0,0,,the visuals are\nconvincing enough
+Dialogue: 0,0:28:06.64,0:28:08.44,Default,,0,0,0,,that you have to remind yourself
+Dialogue: 0,0:28:08.45,0:28:11.11,Default,,0,0,0,,that this isn't\na real driving scenario.
+Dialogue: 0,0:28:11.12,0:28:14.12,Default,,0,0,0,,he's doing, like, 95.\ninteresting.
+Dialogue: 0,0:28:14.12,0:28:15.59,Default,,0,0,0,,i'll see how he likes this.
+Dialogue: 0,0:28:15.59,0:28:18.82,Default,,0,0,0,,[ horn blares ]
+Dialogue: 0,0:28:18.82,0:28:21.22,Default,,0,0,0,,in fact, it's so good that
+Dialogue: 0,0:28:21.23,0:28:24.36,Default,,0,0,0,,i was starting\nto get a little carsick.
+Dialogue: 0,0:28:24.36,0:28:29.00,Default,,0,0,0,,so i think, as far as\ntesting distracted driving,
+Dialogue: 0,0:28:29.00,0:28:32.57,Default,,0,0,0,,it's as good a simulation\nas we're going to get.
+Dialogue: 0,0:28:32.57,0:28:34.04,Default,,0,0,0,,narrator:\nas well as the freeway...
+Dialogue: 0,0:28:34.04,0:28:36.37,Default,,0,0,0,,[ laughing ]
+Dialogue: 0,0:28:36.37,0:28:39.08,Default,,0,0,0,,narrator: there's also\na detailed cityscape...
+Dialogue: 0,0:28:39.08,0:28:42.65,Default,,0,0,0,,[ laughs ] oh, i guess\ni better put it in reverse.
+Dialogue: 0,0:28:42.65,0:28:45.72,Default,,0,0,0,,narrator: ...so that all\ndriving environments are tested.
+Dialogue: 0,0:28:45.72,0:28:49.92,Default,,0,0,0,,[ jamie laughs ]
+Dialogue: 0,0:28:49.92,0:28:51.82,Default,,0,0,0,,narrator:\nthe 30 volunteer drivers
+Dialogue: 0,0:28:51.82,0:28:53.96,Default,,0,0,0,,will be judged on whether\nthey pay attention
+Dialogue: 0,0:28:53.96,0:28:55.79,Default,,0,0,0,,to the gps instructions...
+Dialogue: 0,0:28:55.79,0:28:57.09,Default,,0,0,0,,<i>automated male voice:</i>\n<i>at the next intersection,</i>
+Dialogue: 0,0:28:57.10,0:28:58.33,Default,,0,0,0,,<i>turn left.</i>
+Dialogue: 0,0:28:58.33,0:29:00.16,Default,,0,0,0,,narrator: ...and whether or not\nthey crash.
+Dialogue: 0,0:29:00.17,0:29:02.80,Default,,0,0,0,,[ tires squeal ]\nah!
+Dialogue: 0,0:29:02.80,0:29:04.53,Default,,0,0,0,,narrator:\nbut that's not the only data,
+Dialogue: 0,0:29:04.54,0:29:06.87,Default,,0,0,0,,because drivers will also wear\nthe latest
+Dialogue: 0,0:29:06.87,0:29:09.54,Default,,0,0,0,,in eye-tracking technology.
+Dialogue: 0,0:29:09.54,0:29:13.21,Default,,0,0,0,,this eye-tracking system records\nprecisely where and how long
+Dialogue: 0,0:29:13.21,0:29:14.94,Default,,0,0,0,,i'm looking at something.
+Dialogue: 0,0:29:14.95,0:29:17.55,Default,,0,0,0,,now, that's gonna give us\nhard data as to the level of
+Dialogue: 0,0:29:17.55,0:29:20.38,Default,,0,0,0,,distraction that i'm\nexperiencing while i'm driving.
+Dialogue: 0,0:29:20.39,0:29:22.99,Default,,0,0,0,,narrator: with eagle-eyed jamie\nall wired up,
+Dialogue: 0,0:29:22.99,0:29:25.12,Default,,0,0,0,,he's going to be the first\ndata of the day...
+Dialogue: 0,0:29:25.12,0:29:26.89,Default,,0,0,0,,all right.\ncalling him now.
+Dialogue: 0,0:29:26.89,0:29:27.99,Default,,0,0,0,,[ cell phone ringing ]
+Dialogue: 0,0:29:27.99,0:29:29.89,Default,,0,0,0,,narrator:\nstarting after the break.
+Dialogue: 0,0:29:29.89,0:29:30.96,Default,,0,0,0,,hello?
+Dialogue: 0,0:29:40.54,0:29:44.51,Default,,0,0,0,,narrator: using a phone\non the road is bad news,
+Dialogue: 0,0:29:44.51,0:29:48.21,Default,,0,0,0,,but is going hands-free\njust as foolish?
+Dialogue: 0,0:29:50.38,0:29:53.25,Default,,0,0,0,,to find out,\nthe mythbusters have a simulator
+Dialogue: 0,0:29:53.25,0:29:54.55,Default,,0,0,0,,that's second to none...
+Dialogue: 0,0:29:54.55,0:29:57.29,Default,,0,0,0,,[ laughs ] i love this thing.
+Dialogue: 0,0:29:57.29,0:29:59.05,Default,,0,0,0,,all right.\ncalling him now.
+Dialogue: 0,0:29:59.06,0:30:02.29,Default,,0,0,0,,narrator: and a hyneman\nthat's got his hands full.
+Dialogue: 0,0:30:02.29,0:30:04.53,Default,,0,0,0,,hello?\n- good morning, mr. hyneman.
+Dialogue: 0,0:30:04.53,0:30:06.56,Default,,0,0,0,,are you ready to start\nthis test?
+Dialogue: 0,0:30:06.56,0:30:08.16,Default,,0,0,0,,i'm ready.\n- okay.
+Dialogue: 0,0:30:08.17,0:30:10.23,Default,,0,0,0,,kick the car into drive,\nstart driving,
+Dialogue: 0,0:30:10.23,0:30:12.57,Default,,0,0,0,,and i'll start asking\nyou some questions.
+Dialogue: 0,0:30:12.57,0:30:15.37,Default,,0,0,0,,narrator: the questions are\nsimilar to those posed before.
+Dialogue: 0,0:30:15.37,0:30:17.64,Default,,0,0,0,,did you play a musical\ninstrument as a child, jamie?
+Dialogue: 0,0:30:17.64,0:30:20.61,Default,,0,0,0,,yeah, i had a-a tuba\nin the bathroom
+Dialogue: 0,0:30:20.61,0:30:24.38,Default,,0,0,0,,right next to the toilet\nthat i would play when i was,
+Dialogue: 0,0:30:24.38,0:30:26.28,Default,,0,0,0,,you know, doing number two\nor something.
+Dialogue: 0,0:30:26.28,0:30:28.48,Default,,0,0,0,,[ laughs ]
+Dialogue: 0,0:30:28.49,0:30:31.05,Default,,0,0,0,,narrator: but what's interesting\nis that, on the freeway...
+Dialogue: 0,0:30:31.06,0:30:33.06,Default,,0,0,0,,speed, underwater, camera.
+Dialogue: 0,0:30:33.06,0:30:34.89,Default,,0,0,0,,narrator:\njamie's driving...
+Dialogue: 0,0:30:34.89,0:30:37.49,Default,,0,0,0,,hold on. you know, somebody just\npulled in front of me.
+Dialogue: 0,0:30:37.49,0:30:38.89,Default,,0,0,0,,narrator:\nand answers...
+Dialogue: 0,0:30:38.90,0:30:40.30,Default,,0,0,0,,camera, underwater, speed.
+Dialogue: 0,0:30:40.30,0:30:42.23,Default,,0,0,0,,narrator:\nare surprisingly solid.
+Dialogue: 0,0:30:42.23,0:30:44.80,Default,,0,0,0,,in fact, it's only\nwhen he hits the streets...
+Dialogue: 0,0:30:44.80,0:30:46.34,Default,,0,0,0,,12 and 7.
+Dialogue: 0,0:30:46.34,0:30:47.90,Default,,0,0,0,,narrator:\nthat he starts to waver.
+Dialogue: 0,0:30:47.91,0:30:54.41,Default,,0,0,0,,okay, uh, let's see.\nuh, 19.
+Dialogue: 0,0:30:54.41,0:30:56.45,Default,,0,0,0,,narrator:\nwith so many distractions,
+Dialogue: 0,0:30:56.45,0:30:59.88,Default,,0,0,0,,it's no surprise when jamie\ntakes a turn for the worse.
+Dialogue: 0,0:30:59.88,0:31:01.62,Default,,0,0,0,,<i>automated male voice:</i>\n<i>at the next intersection,</i>
+Dialogue: 0,0:31:01.62,0:31:03.05,Default,,0,0,0,,<i>turn left.</i>
+Dialogue: 0,0:31:03.05,0:31:04.82,Default,,0,0,0,,[ signal clicking ]
+Dialogue: 0,0:31:04.82,0:31:08.39,Default,,0,0,0,,jamie,\nyou have taken a wrong turn,
+Dialogue: 0,0:31:08.39,0:31:10.89,Default,,0,0,0,,and that means that\nthe test is over.
+Dialogue: 0,0:31:10.90,0:31:12.13,Default,,0,0,0,,you have failed.
+Dialogue: 0,0:31:12.13,0:31:13.23,Default,,0,0,0,,okay.
+Dialogue: 0,0:31:13.23,0:31:15.00,Default,,0,0,0,,narrator:\nwith no rest for the wicked,
+Dialogue: 0,0:31:15.00,0:31:18.10,Default,,0,0,0,,jamie immediately moves on to\nthe hands-free test.
+Dialogue: 0,0:31:18.10,0:31:19.50,Default,,0,0,0,,hello.
+Dialogue: 0,0:31:19.50,0:31:23.24,Default,,0,0,0,,what is the longest running race\nin the olympic games called?
+Dialogue: 0,0:31:23.24,0:31:28.71,Default,,0,0,0,,the longest running race in, uh,\nin the olympic game is
+Dialogue: 0,0:31:28.71,0:31:30.75,Default,,0,0,0,,called a maradon.
+Dialogue: 0,0:31:30.75,0:31:32.65,Default,,0,0,0,,a maradon?\n- maradon.
+Dialogue: 0,0:31:32.65,0:31:34.35,Default,,0,0,0,,you mean marathon?\n- yeah.
+Dialogue: 0,0:31:34.35,0:31:35.68,Default,,0,0,0,,okay.
+Dialogue: 0,0:31:35.69,0:31:39.12,Default,,0,0,0,,narrator: once again,\njamie's focused on the freeway
+Dialogue: 0,0:31:39.12,0:31:42.32,Default,,0,0,0,,but struggles in the city\nas his brain tries to process
+Dialogue: 0,0:31:42.33,0:31:44.89,Default,,0,0,0,,the traffic\nand the conversation.
+Dialogue: 0,0:31:44.90,0:31:48.26,Default,,0,0,0,,the earth is located\nin what galaxy?
+Dialogue: 0,0:31:48.27,0:31:53.40,Default,,0,0,0,,uh, the, um...
+Dialogue: 0,0:31:53.40,0:31:56.37,Default,,0,0,0,,you know, i don't know\nthe answer to that question.
+Dialogue: 0,0:31:56.37,0:31:57.77,Default,,0,0,0,,narrator:\nlike last time...
+Dialogue: 0,0:31:57.78,0:31:58.77,Default,,0,0,0,,<i>automated male voice:</i>\n<i>at the next intersection,</i>
+Dialogue: 0,0:31:58.78,0:31:59.91,Default,,0,0,0,,<i>turn left.</i>
+Dialogue: 0,0:31:59.91,0:32:01.04,Default,,0,0,0,,narrator:\njamie doesn't crash,
+Dialogue: 0,0:32:01.05,0:32:03.35,Default,,0,0,0,,but he does ignore the gps...
+Dialogue: 0,0:32:03.35,0:32:06.82,Default,,0,0,0,,oh, i'm sorry.\ni screwed this up.
+Dialogue: 0,0:32:06.82,0:32:08.75,Default,,0,0,0,,narrator:\n...meaning he's failed again.
+Dialogue: 0,0:32:08.75,0:32:10.42,Default,,0,0,0,,well, the long and the short\nof it is that jamie has done
+Dialogue: 0,0:32:10.42,0:32:12.49,Default,,0,0,0,,this test twice\nin our virtual environment,
+Dialogue: 0,0:32:12.49,0:32:14.36,Default,,0,0,0,,once holding the phone,\nonce hands-free,
+Dialogue: 0,0:32:14.36,0:32:16.63,Default,,0,0,0,,and he has failed both times.
+Dialogue: 0,0:32:16.63,0:32:18.06,Default,,0,0,0,,it's looking pretty good\nfor this myth,
+Dialogue: 0,0:32:18.06,0:32:20.23,Default,,0,0,0,,but we are not leaving it here.\nno, no, no.
+Dialogue: 0,0:32:20.23,0:32:22.93,Default,,0,0,0,,we're going to funnel\na whole bunch of volunteers
+Dialogue: 0,0:32:22.93,0:32:26.44,Default,,0,0,0,,through this testing procedure\nto get some real numbers
+Dialogue: 0,0:32:26.44,0:32:30.21,Default,,0,0,0,,to back up\nour potential conclusion.
+Dialogue: 0,0:32:34.14,0:32:36.98,Default,,0,0,0,,narrator: first of\nthe 30 volunteers is tiffany,
+Dialogue: 0,0:32:36.98,0:32:39.38,Default,,0,0,0,,who will be driving\nhands-full.
+Dialogue: 0,0:32:39.38,0:32:42.75,Default,,0,0,0,,the first thing i want to know\nis what musical instrument
+Dialogue: 0,0:32:42.75,0:32:44.62,Default,,0,0,0,,you played as a child.
+Dialogue: 0,0:32:44.62,0:32:47.12,Default,,0,0,0,,none.
+Dialogue: 0,0:32:47.12,0:32:49.39,Default,,0,0,0,,narrator: on the freeway,\nher driving is solid...
+Dialogue: 0,0:32:49.39,0:32:50.63,Default,,0,0,0,,logic questions.
+Dialogue: 0,0:32:50.63,0:32:52.26,Default,,0,0,0,,narrator:\nand her answers are perfect.
+Dialogue: 0,0:32:52.26,0:32:55.10,Default,,0,0,0,,name four days that start\nwith the letter "t."
+Dialogue: 0,0:32:55.10,0:32:57.70,Default,,0,0,0,,today, tomorrow, tuesday,\nand thursday.
+Dialogue: 0,0:32:57.70,0:32:58.93,Default,,0,0,0,,excellent.
+Dialogue: 0,0:32:58.94,0:33:01.70,Default,,0,0,0,,narrator: but moments\nafter hitting the city...
+Dialogue: 0,0:33:01.71,0:33:05.21,Default,,0,0,0,,how much dirt is --
+Dialogue: 0,0:33:05.21,0:33:08.64,Default,,0,0,0,,oh, we just ran down\na cyclist.
+Dialogue: 0,0:33:08.65,0:33:09.85,Default,,0,0,0,,this test is over.
+Dialogue: 0,0:33:11.82,0:33:13.75,Default,,0,0,0,,[ line ringing ]
+Dialogue: 0,0:33:13.75,0:33:14.78,Default,,0,0,0,,narrator:\nnext up is michael.
+Dialogue: 0,0:33:14.79,0:33:16.22,Default,,0,0,0,,hello?
+Dialogue: 0,0:33:16.22,0:33:18.82,Default,,0,0,0,,narrator: and, hands-free,\nhe's fine on the freeway...
+Dialogue: 0,0:33:18.82,0:33:22.06,Default,,0,0,0,,what is something you have at\nhome that you should throw away,
+Dialogue: 0,0:33:22.06,0:33:23.29,Default,,0,0,0,,but you can't?
+Dialogue: 0,0:33:23.29,0:33:26.09,Default,,0,0,0,,ah, my old computer.
+Dialogue: 0,0:33:26.10,0:33:28.96,Default,,0,0,0,,i still have one that\ngot built in, like, '95.
+Dialogue: 0,0:33:28.97,0:33:31.00,Default,,0,0,0,,narrator:\nbut deadly downtown.
+Dialogue: 0,0:33:31.00,0:33:33.54,Default,,0,0,0,,um, which country --\n[ tires squeal ]
+Dialogue: 0,0:33:33.54,0:33:35.54,Default,,0,0,0,,oh! ahh.
+Dialogue: 0,0:33:35.54,0:33:37.61,Default,,0,0,0,,i-i believe that might be\nthe end of our test there,
+Dialogue: 0,0:33:37.61,0:33:38.77,Default,,0,0,0,,michael.
+Dialogue: 0,0:33:38.78,0:33:40.08,Default,,0,0,0,,where did that come from?
+Dialogue: 0,0:33:40.08,0:33:43.05,Default,,0,0,0,,[ laughs ]
+Dialogue: 0,0:33:43.05,0:33:44.31,Default,,0,0,0,,thank you very much, sir.
+Dialogue: 0,0:33:46.68,0:33:47.78,Default,,0,0,0,,[ bleep ]
+Dialogue: 0,0:33:47.79,0:33:48.98,Default,,0,0,0,,narrator:\nwhen the next four volunteers
+Dialogue: 0,0:33:48.99,0:33:50.99,Default,,0,0,0,,also crash and burn...
+Dialogue: 0,0:33:50.99,0:33:53.82,Default,,0,0,0,,ah!
+Dialogue: 0,0:33:53.82,0:33:55.72,Default,,0,0,0,,narrator:\nit's looking good for the myth.
+Dialogue: 0,0:33:55.73,0:34:00.13,Default,,0,0,0,,stop the car and, please,\nlicense and registration, ma'am.
+Dialogue: 0,0:34:00.13,0:34:01.86,Default,,0,0,0,,narrator:\nand although driver seven
+Dialogue: 0,0:34:01.87,0:34:04.17,Default,,0,0,0,,does make it through\nthe course intact...
+Dialogue: 0,0:34:04.17,0:34:05.53,Default,,0,0,0,,all right,\nuh, congratulations.
+Dialogue: 0,0:34:05.54,0:34:07.50,Default,,0,0,0,,you have successfully\ncompleted the test.
+Dialogue: 0,0:34:07.50,0:34:09.54,Default,,0,0,0,,narrator:\nnearly all other drivers,
+Dialogue: 0,0:34:09.54,0:34:12.71,Default,,0,0,0,,whatever their phone fashion,\neither get lost...
+Dialogue: 0,0:34:12.71,0:34:16.55,Default,,0,0,0,,uh, ron, i'm sorry to inform you\nthat you have now missed a turn.
+Dialogue: 0,0:34:16.55,0:34:18.08,Default,,0,0,0,,and thus, the test is over.
+Dialogue: 0,0:34:18.08,0:34:19.48,Default,,0,0,0,,narrator: ...or worse.
+Dialogue: 0,0:34:22.15,0:34:23.82,Default,,0,0,0,,oh, we had a crash,\ndidn't we?
+Dialogue: 0,0:34:23.82,0:34:26.32,Default,,0,0,0,,narrator: undeterred,\nthe guys plow on
+Dialogue: 0,0:34:26.32,0:34:28.52,Default,,0,0,0,,through two full days of\ntesting.
+Dialogue: 0,0:34:28.53,0:34:33.33,Default,,0,0,0,,and when volunteer 30\ntakes dramatic evasive action...
+Dialogue: 0,0:34:33.33,0:34:35.73,Default,,0,0,0,,[ laughs ] i suck at this.
+Dialogue: 0,0:34:35.73,0:34:38.97,Default,,0,0,0,,narrator: the guys have all\nthe data they could hope for.
+Dialogue: 0,0:34:38.97,0:34:40.50,Default,,0,0,0,,all right,\nwe have run a lot of volunteers
+Dialogue: 0,0:34:40.50,0:34:42.60,Default,,0,0,0,,through this experiment,\nand we've got a lot of data
+Dialogue: 0,0:34:42.61,0:34:43.84,Default,,0,0,0,,to take a look at.
+Dialogue: 0,0:34:43.84,0:34:45.67,Default,,0,0,0,,so it's time to leave\nthis virtual world,
+Dialogue: 0,0:34:45.68,0:34:48.31,Default,,0,0,0,,drive through the real world,\nback to our shop,
+Dialogue: 0,0:34:48.31,0:34:50.51,Default,,0,0,0,,and crunch the numbers.
+Dialogue: 0,0:34:54.62,0:34:57.15,Default,,0,0,0,,no way.\nthey said that?
+Dialogue: 0,0:34:57.15,0:34:58.52,Default,,0,0,0,,that is hilarious.
+Dialogue: 0,0:34:58.52,0:34:59.79,Default,,0,0,0,,hold on just a second.\nwhat?
+Dialogue: 0,0:34:59.79,0:35:02.79,Default,,0,0,0,,we were waiting for the results\non distracted driving.
+Dialogue: 0,0:35:02.79,0:35:05.29,Default,,0,0,0,,oh, okay.\nuh, i got to call you back.
+Dialogue: 0,0:35:05.30,0:35:06.63,Default,,0,0,0,,[ beep ]\n- yes, we have results.
+Dialogue: 0,0:35:06.63,0:35:09.87,Default,,0,0,0,,we tested 30 drivers out\nin stanford, 15 hands-full,
+Dialogue: 0,0:35:09.87,0:35:11.27,Default,,0,0,0,,15 hands-free.
+Dialogue: 0,0:35:11.27,0:35:12.87,Default,,0,0,0,,here is the result.
+Dialogue: 0,0:35:12.87,0:35:14.60,Default,,0,0,0,,uh, hands-full -- one passed,
+Dialogue: 0,0:35:14.61,0:35:17.97,Default,,0,0,0,,five failed by driving the wrong\nway, nine failed by crashing.
+Dialogue: 0,0:35:17.98,0:35:21.54,Default,,0,0,0,,hands-free -- one passed,\nsix failed by getting lost,
+Dialogue: 0,0:35:21.55,0:35:23.18,Default,,0,0,0,,and eight failed by crashing.
+Dialogue: 0,0:35:23.18,0:35:24.71,Default,,0,0,0,,what's that mean\nstatistically?
+Dialogue: 0,0:35:24.72,0:35:27.35,Default,,0,0,0,,statistically,\nit means no difference.
+Dialogue: 0,0:35:27.35,0:35:28.85,Default,,0,0,0,,and what about eye tracking?
+Dialogue: 0,0:35:28.85,0:35:30.62,Default,,0,0,0,,the eye tracker\nwas very interesting.
+Dialogue: 0,0:35:30.62,0:35:33.89,Default,,0,0,0,,across all 30 drivers,\nthe amount of time they spent
+Dialogue: 0,0:35:33.89,0:35:35.79,Default,,0,0,0,,looking at something\nother than the road
+Dialogue: 0,0:35:35.79,0:35:39.76,Default,,0,0,0,,was identical between\nhands-free and hands-full.
+Dialogue: 0,0:35:39.76,0:35:41.40,Default,,0,0,0,,well, there you have it.\n[ cell phone beeps ]
+Dialogue: 0,0:35:41.40,0:35:43.87,Default,,0,0,0,,don't use your cell phone\nwhile you're driving.
+Dialogue: 0,0:35:43.87,0:35:45.40,Default,,0,0,0,,yeah, i'm done. okay.
+Dialogue: 0,0:35:45.40,0:35:48.40,Default,,0,0,0,,so, where do you want to\nmeet for lunch? absolutely.
+Dialogue: 0,0:35:54.18,0:35:58.15,Default,,0,0,0,,narrator: coming right up,\nthe guys rev in reverse...
+Dialogue: 0,0:35:58.15,0:35:59.75,Default,,0,0,0,,yeah!
+Dialogue: 0,0:35:59.75,0:36:01.58,Default,,0,0,0,,narrator:\nfor a confounding conclusion.
+Dialogue: 0,0:36:01.59,0:36:05.29,Default,,0,0,0,,[ tires squeal ]\nah!
+Dialogue: 0,0:36:09.79,0:36:12.39,Default,,0,0,0,,narrator: in driving in reverse,\nthere's a problem.
+Dialogue: 0,0:36:12.40,0:36:15.36,Default,,0,0,0,,we -- we can't catch\na break today.
+Dialogue: 0,0:36:15.37,0:36:17.53,Default,,0,0,0,,we just rolled up the windows
+Dialogue: 0,0:36:17.53,0:36:19.50,Default,,0,0,0,,'cause the wind's\nso diabolical,
+Dialogue: 0,0:36:19.50,0:36:22.40,Default,,0,0,0,,and we locked the keys inside.\n[ laughs ]
+Dialogue: 0,0:36:22.41,0:36:24.67,Default,,0,0,0,,narrator: luckily, for once,
+Dialogue: 0,0:36:24.67,0:36:27.28,Default,,0,0,0,,there's a cop around\nwhen you need him.
+Dialogue: 0,0:36:30.38,0:36:31.98,Default,,0,0,0,,hey!\n- bingo.
+Dialogue: 0,0:36:31.98,0:36:33.72,Default,,0,0,0,,[ laughs ]
+Dialogue: 0,0:36:33.72,0:36:37.02,Default,,0,0,0,,mythbusters,\nrepossessing cars since 1979.
+Dialogue: 0,0:36:44.33,0:36:46.83,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:36:46.83,0:36:49.13,Default,,0,0,0,,it's all about reverse driving\nin this episode,
+Dialogue: 0,0:36:49.13,0:36:52.63,Default,,0,0,0,,and how easy it is versus how\neasy hollywood makes it seem.
+Dialogue: 0,0:36:52.63,0:36:54.53,Default,,0,0,0,,whoa!
+Dialogue: 0,0:36:54.54,0:36:56.44,Default,,0,0,0,,jamie and i have tried out\nsome courses ourselves.
+Dialogue: 0,0:36:56.44,0:36:58.57,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:36:58.57,0:37:00.37,Default,,0,0,0,,[ laughs ]
+Dialogue: 0,0:37:00.38,0:37:02.64,Default,,0,0,0,,we've been trained by a cop\nwho is an expert
+Dialogue: 0,0:37:02.64,0:37:03.84,Default,,0,0,0,,in driving in reverse.
+Dialogue: 0,0:37:03.85,0:37:05.95,Default,,0,0,0,,here we go. 3, 2...
+Dialogue: 0,0:37:05.95,0:37:07.08,Default,,0,0,0,,the reverse.\n- oh.
+Dialogue: 0,0:37:07.08,0:37:09.35,Default,,0,0,0,,there we go.\n- thank you. [ laughs ]
+Dialogue: 0,0:37:09.35,0:37:11.32,Default,,0,0,0,,so now, it's time for me\nto take all of the skills
+Dialogue: 0,0:37:11.32,0:37:14.39,Default,,0,0,0,,i've thus far learned\nand put them to a real test.
+Dialogue: 0,0:37:14.39,0:37:16.39,Default,,0,0,0,,i'm here at\nan abandoned neighborhood
+Dialogue: 0,0:37:16.39,0:37:19.66,Default,,0,0,0,,in marina, california, where my\ncrew has set up a course,
+Dialogue: 0,0:37:19.66,0:37:23.86,Default,,0,0,0,,and i'm just supposed to drive\nas fast as i can in reverse.
+Dialogue: 0,0:37:23.87,0:37:26.13,Default,,0,0,0,,i'm actually pretty curious\nhow this is gonna turn out.
+Dialogue: 0,0:37:26.13,0:37:31.94,Default,,0,0,0,,narrator: this final farewell is\na half mile of twists and turns.
+Dialogue: 0,0:37:31.94,0:37:36.31,Default,,0,0,0,,but it's got a whole lot\nmore besides...
+Dialogue: 0,0:37:36.31,0:37:40.88,Default,,0,0,0,,as the guys have put the movie\nmayhem back into this myth.
+Dialogue: 0,0:37:40.88,0:37:43.48,Default,,0,0,0,,and that's not just the props.
+Dialogue: 0,0:37:43.49,0:37:45.32,Default,,0,0,0,,we're gonna put a little\npressure on adam,
+Dialogue: 0,0:37:45.32,0:37:47.95,Default,,0,0,0,,because i'm gonna be\nin a cop car
+Dialogue: 0,0:37:47.96,0:37:49.99,Default,,0,0,0,,on his ass the whole way,
+Dialogue: 0,0:37:49.99,0:37:53.63,Default,,0,0,0,,with the sole exception that,\nwhen he sees me and takes off,
+Dialogue: 0,0:37:53.63,0:37:56.03,Default,,0,0,0,,i'm gonna be outside my car.
+Dialogue: 0,0:37:56.03,0:37:58.87,Default,,0,0,0,,so he's gonna have just\na little bit of a head start.
+Dialogue: 0,0:37:58.87,0:38:02.80,Default,,0,0,0,,narrator: adam's goal,\nlike the classic hollywood hero,
+Dialogue: 0,0:38:02.80,0:38:06.91,Default,,0,0,0,,is to make it to the finish line\nbefore those pesky police.
+Dialogue: 0,0:38:06.91,0:38:08.74,Default,,0,0,0,,that is a cop.\nthat's bad.
+Dialogue: 0,0:38:08.74,0:38:11.21,Default,,0,0,0,,narrator: but with reverse gear\nhis only option,
+Dialogue: 0,0:38:11.21,0:38:13.41,Default,,0,0,0,,will he escape to victory?
+Dialogue: 0,0:38:13.42,0:38:16.25,Default,,0,0,0,,here we go. bye, cop.\n[ tires squeal ]
+Dialogue: 0,0:38:16.25,0:38:19.35,Default,,0,0,0,,narrator: the chase is on.
+Dialogue: 0,0:38:19.35,0:38:21.32,Default,,0,0,0,,here we go.\ngettin' the heck outta here.
+Dialogue: 0,0:38:21.32,0:38:23.59,Default,,0,0,0,,narrator: and by the time\njamie's got going,
+Dialogue: 0,0:38:23.59,0:38:25.89,Default,,0,0,0,,adam's already out of sight.
+Dialogue: 0,0:38:25.89,0:38:27.69,Default,,0,0,0,,make a right-hand turn here.
+Dialogue: 0,0:38:27.70,0:38:29.80,Default,,0,0,0,,don't let go of that wheel.
+Dialogue: 0,0:38:29.80,0:38:31.46,Default,,0,0,0,,narrator: by shifting to\nthe central position,
+Dialogue: 0,0:38:31.47,0:38:33.80,Default,,0,0,0,,he's able to navigate\nwith skill.
+Dialogue: 0,0:38:33.80,0:38:36.50,Default,,0,0,0,,whoa. flaming car! dude.
+Dialogue: 0,0:38:36.50,0:38:39.37,Default,,0,0,0,,oh, man.\npost-apocalypse.
+Dialogue: 0,0:38:39.37,0:38:41.71,Default,,0,0,0,,narrator:\nat least, when he wants to.
+Dialogue: 0,0:38:41.71,0:38:44.74,Default,,0,0,0,,i want those boxes.\ncome on. yeah!
+Dialogue: 0,0:38:44.75,0:38:47.98,Default,,0,0,0,,narrator: but while his steering\nis supreme...
+Dialogue: 0,0:38:47.98,0:38:51.18,Default,,0,0,0,,i don't know where he is.\ni hope he's not close.
+Dialogue: 0,0:38:51.19,0:38:55.19,Default,,0,0,0,,narrator: his speed, while fast,\nis no match for jamie.
+Dialogue: 0,0:38:55.19,0:38:56.32,Default,,0,0,0,,oh, fruit stand.
+Dialogue: 0,0:38:56.32,0:38:57.46,Default,,0,0,0,,i'm not gonna miss\nthe fruit stand.
+Dialogue: 0,0:39:07.07,0:39:12.84,Default,,0,0,0,,whoa! aah. oh! [ laughs ]
+Dialogue: 0,0:39:12.84,0:39:15.38,Default,,0,0,0,,narrator: adam may be down,\nbut he's not out,
+Dialogue: 0,0:39:15.38,0:39:16.94,Default,,0,0,0,,as he reverses back uphill...
+Dialogue: 0,0:39:16.95,0:39:19.08,Default,,0,0,0,,ah, i'm going still!
+Dialogue: 0,0:39:19.08,0:39:24.08,Default,,0,0,0,,narrator: a strategy that\nthe hyneman then copies.
+Dialogue: 0,0:39:24.09,0:39:26.99,Default,,0,0,0,,with both drivers now revving\nin reverse,
+Dialogue: 0,0:39:26.99,0:39:30.59,Default,,0,0,0,,it's a case of who's gonna\nblink first.
+Dialogue: 0,0:39:30.59,0:39:33.76,Default,,0,0,0,,[ tires squeal ]
+Dialogue: 0,0:39:33.76,0:39:36.43,Default,,0,0,0,,oh! [ laughs ]
+Dialogue: 0,0:39:36.43,0:39:38.26,Default,,0,0,0,,oh.
+Dialogue: 0,0:39:38.27,0:39:40.77,Default,,0,0,0,,yet another in the long line of\nthings that we should just
+Dialogue: 0,0:39:40.77,0:39:43.40,Default,,0,0,0,,set up for the public\nand charge money for.
+Dialogue: 0,0:39:43.41,0:39:45.81,Default,,0,0,0,,that was awesome.
+Dialogue: 0,0:39:45.81,0:39:48.24,Default,,0,0,0,,step out of the car\nwith your hands up.
+Dialogue: 0,0:39:48.24,0:39:53.01,Default,,0,0,0,,okay. [ laughs ]
+Dialogue: 0,0:39:53.01,0:39:55.38,Default,,0,0,0,,that was so much fun.\n- [ laughs ]
+Dialogue: 0,0:39:55.38,0:39:58.85,Default,,0,0,0,,oh, my god.\nthat was the best thing ever.
+Dialogue: 0,0:40:02.46,0:40:05.12,Default,,0,0,0,,well, that went pretty much as\ngood as i could have imagined.
+Dialogue: 0,0:40:05.13,0:40:06.89,Default,,0,0,0,,first off,\nthe course was amazing,
+Dialogue: 0,0:40:06.90,0:40:09.73,Default,,0,0,0,,full of all sorts of\nreally interesting obstacles,
+Dialogue: 0,0:40:09.73,0:40:12.07,Default,,0,0,0,,from fruit stands to dudes\nfixing their cars to,
+Dialogue: 0,0:40:12.07,0:40:14.60,Default,,0,0,0,,come on, a flaming car.
+Dialogue: 0,0:40:14.60,0:40:17.90,Default,,0,0,0,,i also was able to go through it\nreally fast, i mean,
+Dialogue: 0,0:40:17.91,0:40:20.67,Default,,0,0,0,,fast enough where i almost lost\ncontrol of the car on a couple
+Dialogue: 0,0:40:20.68,0:40:21.91,Default,,0,0,0,,of the straightaways.
+Dialogue: 0,0:40:21.91,0:40:23.88,Default,,0,0,0,,like, it started fishtailing.
+Dialogue: 0,0:40:23.88,0:40:25.28,Default,,0,0,0,,but because of brian's training,
+Dialogue: 0,0:40:25.28,0:40:27.85,Default,,0,0,0,,i was able to bring the car\nback under control.
+Dialogue: 0,0:40:27.85,0:40:31.35,Default,,0,0,0,,oh, oh, almost lost\na little control there.
+Dialogue: 0,0:40:31.35,0:40:34.95,Default,,0,0,0,,then, i actually spun out\nwhen jamie hit me.
+Dialogue: 0,0:40:34.96,0:40:37.16,Default,,0,0,0,,but again, in reverse,\ni bolted back up the hill.
+Dialogue: 0,0:40:37.16,0:40:40.09,Default,,0,0,0,,and jamie chased me, and it was\nall going pretty good.
+Dialogue: 0,0:40:40.10,0:40:43.60,Default,,0,0,0,,but i was going too fast on\nthe accelerator and i spun out.
+Dialogue: 0,0:40:43.60,0:40:46.63,Default,,0,0,0,,he jammed into my front wheel,\nand i could not move.
+Dialogue: 0,0:40:46.63,0:40:48.13,Default,,0,0,0,,test over.
+Dialogue: 0,0:40:51.71,0:40:53.04,Default,,0,0,0,,so how do you wanna call it?
+Dialogue: 0,0:40:53.04,0:40:54.77,Default,,0,0,0,,i have to say,\ni started this story
+Dialogue: 0,0:40:54.78,0:40:56.74,Default,,0,0,0,,thinking it was gonna be\nhandily busted.
+Dialogue: 0,0:40:56.75,0:41:00.05,Default,,0,0,0,,and i am now thinking that\nit's actually plausible,
+Dialogue: 0,0:41:00.05,0:41:01.91,Default,,0,0,0,,that it's not unreasonable\nhow much speed
+Dialogue: 0,0:41:01.92,0:41:04.85,Default,,0,0,0,,and maneuverability you can get\ngoing in reverse.
+Dialogue: 0,0:41:04.85,0:41:07.39,Default,,0,0,0,,yeah, i mean, both of us,\ni think,
+Dialogue: 0,0:41:07.39,0:41:12.26,Default,,0,0,0,,if we had our choice would go,\nyou know, front forward, um,
+Dialogue: 0,0:41:12.26,0:41:14.09,Default,,0,0,0,,'cause that's gonna be\nyour better option.
+Dialogue: 0,0:41:14.10,0:41:15.90,Default,,0,0,0,,but it's surprising\nhow good it can be.
+Dialogue: 0,0:41:15.90,0:41:17.93,Default,,0,0,0,,let's call it plausible.\nall right.
+Dialogue: 0,0:41:17.93,0:41:19.63,Default,,0,0,0,,i'm gonna drive forward home,\nthough.
+Dialogue: 0,0:41:19.63,0:41:22.74,Default,,0,0,0,,if you can.\n- [ laughs ]
